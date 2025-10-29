@@ -1,0 +1,39 @@
+{'name': 'Keeper of the Heart', 'author': [{'id': 468, 'name': 'Johanna Lindsey', 'slug': 'johanna-lindsey', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Tender Rebel', 'author': [{'id': 468, 'name': 'Johanna Lindsey', 'slug': 'johanna-lindsey', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "You Wouldn't Want to Live Without Mobile Phones!", 'author': [{'id': 23122, 'name': 'Jim Pipe', 'slug': 'jim-pipe', 'created_at': '2025-03-07T12:51:04.088208Z'}], 'stock': 2, 'price': 250}
+{'name': 'Nostradamus: The Complete Prophecies for the Future', 'author': [{'id': 6559, 'name': 'Mario Reading', 'slug': 'mario-reading', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Tyrant', 'author': [{'id': 2547, 'name': 'Valerio Massimo Manfredi', 'slug': 'valerio-massimo-manfredi', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Homage to Catalonia', 'author': [{'id': 20, 'name': 'George Orwell', 'slug': 'george-orwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "You Wouldn't Want to Live Without Books!", 'author': [{'id': 23093, 'name': 'Alex Woolf', 'slug': 'alex-woolf', 'created_at': '2025-03-06T09:57:12.113361Z'}], 'stock': 2, 'price': 250}
+{'name': "The Reeve's Prologue and Tale with the Cook's Prologue and the Fragment of his Tale", 'author': [{'id': 4497, 'name': 'Geoffrey Chaucer', 'slug': 'geoffrey-chaucer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Somme: Death of a Generation', 'author': [{'id': 23374, 'name': 'John Harris', 'slug': 'john-harris', 'created_at': '2025-03-15T07:44:05.749834Z'}], 'stock': 2, 'price': 350}
+{'name': 'Defy not the heart', 'author': [{'id': 468, 'name': 'Johanna Lindsey', 'slug': 'johanna-lindsey', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Unearthly Disclosure', 'author': [{'id': 13726, 'name': 'Timothy Good', 'slug': 'timothy-good', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 150}
+{'name': 'Historical Development Of The National Museum Of Bhutan', 'author': [{'id': 933, 'name': 'Dr C T Dorji', 'slug': 'dr-c-t-dorji', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Troublesome Words', 'author': [{'id': 3452, 'name': 'Bill Bryson', 'slug': 'bill-bryson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Dominion: the History of England Volume 5', 'author': [{'id': 2223, 'name': 'Peter Ackroyd', 'slug': 'peter-ackroyd', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "You Wouldn't Want To Be A Victorian Schoolchild!", 'author': [{'id': 23083, 'name': 'John Malam', 'slug': 'john-malam', 'created_at': '2025-03-06T09:27:03.746353Z'}], 'stock': 2, 'price': 250}
+{'name': 'Stupid White Men', 'author': [{'id': 2038, 'name': 'Michael Moore', 'slug': 'michael-moore', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Historical Development Of The National Museum Of Bhutan', 'author': [{'id': 933, 'name': 'Dr C T Dorji', 'slug': 'dr-c-t-dorji', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Tudors', 'author': [{'id': 2442, 'name': 'Terry Deary', 'slug': 'terry-deary', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Sri Lankan Fisherman', 'author': [{'id': 13782, 'name': 'Paul Alexander', 'slug': 'paul-alexander', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Memoirs of Jail', 'author': [{'id': 2228, 'name': 'Siddhicaraṇa Śreshṭha', 'slug': 'siddhicarana-sreshtha', 'created_at': '2024-02-09T08:39:52.038145Z'}, {'id': 2229, 'name': 'Lakshmīdevī Rājabhaṇḍārī', 'slug': 'lakshmidevi-rajabhandari', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': "The Gladiator's Honour", 'author': [{'id': 2356, 'name': 'Michelle Styles', 'slug': 'michelle-styles', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'mahatma gandhi', 'author': [{'id': 3744, 'name': 'Romain Rolland', 'slug': 'romain-rolland', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 6, 'price': 150}
+{'name': 'Peaky Blinders: The Real Story', 'author': [{'id': 22030, 'name': 'Carl Chinn', 'slug': 'carl-chinn', 'created_at': '2024-12-07T09:25:02.171957Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Last River', 'author': [{'id': 11010, 'name': 'Todd Balf', 'slug': 'todd-balf', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Holiday Present', 'author': [{'id': 468, 'name': 'Johanna Lindsey', 'slug': 'johanna-lindsey', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Something Wonderful', 'author': [{'id': 2549, 'name': 'Judith Mcnaught', 'slug': 'judith-mcnaught', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "America Before: the Key to Earth's Lost Civilization", 'author': [{'id': 12803, 'name': 'Graham Hancock', 'slug': 'graham-hancock', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 450}
+{'name': '50 Objects from Vindolanda', 'author': [{'id': 25281, 'name': 'Barbara Birley', 'slug': 'barbara-birley', 'created_at': '2025-09-18T11:21:50.710529Z'}], 'stock': 1, 'price': 450}
+{'name': "You Wouldn't Want To Be A Victorian Schoolchild!", 'author': [{'id': 23083, 'name': 'John Malam', 'slug': 'john-malam', 'created_at': '2025-03-06T09:27:03.746353Z'}], 'stock': 1, 'price': 250}
+{'name': "You Wouldn't Want to Live Without Mobile Phones!", 'author': [{'id': 23122, 'name': 'Jim Pipe', 'slug': 'jim-pipe', 'created_at': '2025-03-07T12:51:04.088208Z'}], 'stock': 1, 'price': 250}
+{'name': 'Hothouse Earth', 'author': [{'id': 24778, 'name': 'Bill McGuire', 'slug': 'bill-mcguire', 'created_at': '2025-07-28T13:28:44.243510Z'}], 'stock': 1, 'price': 350}
+{'name': 'Promise Me, Dad', 'author': [{'id': 5963, 'name': 'Joe Biden', 'slug': 'joe-biden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Stupid White Men', 'author': [{'id': 2038, 'name': 'Michael Moore', 'slug': 'michael-moore', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'snakes and laddere', 'author': [{'id': 2589, 'name': 'Gita Mehta', 'slug': 'gita-mehta', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Byculla to Bangkok', 'author': [{'id': 2394, 'name': 'S. Hussain Zaidi', 'slug': 's-hussain-zaidi', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 150}
+{'name': 'Marilyn Todd', 'author': [{'id': 11017, 'name': 'Jail Bait', 'slug': 'jail-bait', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Arnhem: Black Tuesday', 'author': [{'id': 25428, 'name': 'Al Murray', 'slug': 'al-murray', 'created_at': '2025-10-21T09:36:22.432845Z'}], 'stock': 1, 'price': 350}
+{'name': 'Funny Weather', 'author': [{'id': 22052, 'name': 'Olivia Laing', 'slug': 'olivia-laing', 'created_at': '2024-12-07T11:48:29.919110Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Etymologicon', 'author': [{'id': 20024, 'name': 'Mark Forsyth', 'slug': 'mark-forsyth', 'created_at': '2024-04-28T13:47:26.536581Z'}], 'stock': 1, 'price': 350}

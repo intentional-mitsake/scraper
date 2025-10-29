@@ -1,0 +1,124 @@
+{'name': 'Time Riders the Eternal War Book 4', 'author': [{'id': 5007, 'name': 'Alex Scarrow', 'slug': 'alex-scarrow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Valiant', 'author': [{'id': 22083, 'name': 'Jack Campbell', 'slug': 'jack-campbell', 'created_at': '2024-12-08T10:14:26.657077Z'}], 'stock': 1, 'price': 250}
+{'name': 'Something Rotten', 'author': [{'id': 124, 'name': 'Jasper Fforde', 'slug': 'jasper-fforde', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Skaar Invasion: Book Two of the Fall of Shannara', 'author': [{'id': 8267, 'name': 'Terry Brooks', 'slug': 'terry-brooks', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Rosewater', 'author': [{'id': 21830, 'name': 'Tade Thompson', 'slug': 'tade-thompson', 'created_at': '2024-11-28T10:40:26.323382Z'}], 'stock': 3, 'price': 350}
+{'name': 'Jimmy the Hand', 'author': [{'id': 125, 'name': 'Raymond E. Feist', 'slug': 'raymond-e-feist', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': "Stark's Crusade", 'author': [{'id': 22083, 'name': 'Jack Campbell', 'slug': 'jack-campbell', 'created_at': '2024-12-08T10:14:26.657077Z'}, {'id': 22781, 'name': 'John G Hemry', 'slug': 'john-g-hemry', 'created_at': '2025-02-08T07:04:12.776985Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Stiehl Assassin', 'author': [{'id': 8267, 'name': 'Terry Brooks', 'slug': 'terry-brooks', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Song of the Quarkbeast', 'author': [{'id': 124, 'name': 'Jasper Fforde', 'slug': 'jasper-fforde', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 7, 'price': 250}
+{'name': "Mostly Harmless: Hitchhiker's Guide to the Galaxy Book 5", 'author': [{'id': 1936, 'name': 'Douglas Adams', 'slug': 'douglas-adams', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Strangers in Death', 'author': [{'id': 4660, 'name': 'J. D. Robb', 'slug': 'j-d-robb', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Golden In Death', 'author': [{'id': 4660, 'name': 'J. D. Robb', 'slug': 'j-d-robb', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Unsouled', 'author': [{'id': 6968, 'name': 'Neal Shusterman', 'slug': 'neal-shusterman', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Darkest Legacy', 'author': [{'id': 22824, 'name': 'Alexandra Bracken', 'slug': 'alexandra-bracken', 'created_at': '2025-02-09T07:41:38.082107Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Lost Fleet #5 Relentless', 'author': [{'id': 22083, 'name': 'Jack Campbell', 'slug': 'jack-campbell', 'created_at': '2024-12-08T10:14:26.657077Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Eyre Affair', 'author': [{'id': 124, 'name': 'Jasper Fforde', 'slug': 'jasper-fforde', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'A Desolation Called Peace', 'author': [{'id': 17886, 'name': 'Arkady Martine', 'slug': 'arkady-martine', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Victorious', 'author': [{'id': 22083, 'name': 'Jack Campbell', 'slug': 'jack-campbell', 'created_at': '2024-12-08T10:14:26.657077Z'}], 'stock': 1, 'price': 250}
+{'name': 'Futuristic Violence and Fancy Suits', 'author': [{'id': 21832, 'name': 'David Wong', 'slug': 'david-wong', 'created_at': '2024-11-28T10:55:41.587326Z'}], 'stock': 3, 'price': 250}
+{'name': 'One of Our Thursdays is Missing', 'author': [{'id': 124, 'name': 'Jasper Fforde', 'slug': 'jasper-fforde', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Time Rider: Gates of Rome', 'author': [{'id': 5007, 'name': 'Alex Scarrow', 'slug': 'alex-scarrow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Doctor Who: The Witchfinders (Target Collection)', 'author': [{'id': 24215, 'name': 'Joy Wilkinson', 'slug': 'joy-wilkinson', 'created_at': '2025-05-10T05:12:05.678958Z'}], 'stock': 1, 'price': 250}
+{'name': 'Krondor: The Betrayal', 'author': [{'id': 125, 'name': 'Raymond E. Feist', 'slug': 'raymond-e-feist', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Xenocide', 'author': [{'id': 6053, 'name': 'Orson Scott Card', 'slug': 'orson-scott-card', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 350}
+{'name': 'The Lost Fleet', 'author': [{'id': 22083, 'name': 'Jack Campbell', 'slug': 'jack-campbell', 'created_at': '2024-12-08T10:14:26.657077Z'}], 'stock': 4, 'price': 250}
+{'name': 'Huphrey Hawksley And  Simon Holberton', 'author': [{'id': 3770, 'name': 'Dragon Strike', 'slug': 'dragon-strike', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Time Riders', 'author': [{'id': 5007, 'name': 'Alex Scarrow', 'slug': 'alex-scarrow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'A Second Chance', 'author': [{'id': 22846, 'name': 'Jodi Taylor', 'slug': 'jodi-taylor', 'created_at': '2025-02-09T10:17:10.984916Z'}], 'stock': 1, 'price': 250}
+{'name': 'Time Riders: Day of the Predator (Book 2)', 'author': [{'id': 5007, 'name': 'Alex Scarrow', 'slug': 'alex-scarrow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'The Hydrogen Sonata', 'author': [{'id': 22810, 'name': 'Iain M Banks', 'slug': 'iain-m-banks', 'created_at': '2025-02-08T10:50:01.590711Z'}], 'stock': 1, 'price': 350}
+{'name': 'Doctor Who', 'author': [{'id': 22738, 'name': 'Steven Moffat', 'slug': 'steven-moffat', 'created_at': '2025-02-06T13:10:18.802064Z'}], 'stock': 2, 'price': 350}
+{'name': 'To of a kind diaries-so littel', 'author': [{'id': 74, 'name': 'Unassigned', 'slug': 'unassigned', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'TimeRiders: The Doomsday Code', 'author': [{'id': 5007, 'name': 'Alex Scarrow', 'slug': 'alex-scarrow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Infinite Ground', 'author': [{'id': 24272, 'name': 'Martin MacInnes', 'slug': 'martin-macinnes', 'created_at': '2025-05-16T07:25:55.412733Z'}], 'stock': 1, 'price': 350}
+{'name': 'Speaker for the Dead', 'author': [{'id': 6053, 'name': 'Orson Scott Card', 'slug': 'orson-scott-card', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 350}
+{'name': 'Doctor Who: Dalek', 'author': [{'id': 23478, 'name': 'Nicholas Briggs', 'slug': 'nicholas-briggs', 'created_at': '2025-03-21T14:29:42.992620Z'}], 'stock': 1, 'price': 250}
+{'name': 'Murderous Maths: Guaranteed to Bend Your Brain', 'author': [{'id': 2657, 'name': 'Kjartan Poskitt', 'slug': 'kjartan-poskitt', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'last light', 'author': [{'id': 5007, 'name': 'Alex Scarrow', 'slug': 'alex-scarrow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Starlight Enclave', 'author': [{'id': 11841, 'name': 'R. A. Salvatore', 'slug': 'r-a-salvatore', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Star Wars: The Rising Storm', 'author': [{'id': 10027, 'name': 'Cavan Scott', 'slug': 'cavan-scott', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Medusa Project: The Hostage: Volume 2', 'author': [{'id': 2841, 'name': 'Sophie Mckenzie', 'slug': 'sophie-mckenzie', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'The Long Mars', 'author': [{'id': 4090, 'name': 'Terry Pratchett', 'slug': 'terry-pratchett', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Long Utopia', 'author': [{'id': 4090, 'name': 'Terry Pratchett', 'slug': 'terry-pratchett', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "Heresy: Assassin's Creed", 'author': [{'id': 22856, 'name': 'Christie Golden', 'slug': 'christie-golden', 'created_at': '2025-02-09T11:27:25.867651Z'}], 'stock': 3, 'price': 450}
+{'name': 'The Forbidden Door', 'author': [{'id': 298, 'name': 'Dean Koontz', 'slug': 'dean-koontz', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Fire Ascending', 'author': [{'id': 5192, 'name': "Chris D'Lacey", 'slug': 'chris-dlacey', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Judge Dredd', 'author': [{'id': 24749, 'name': 'John Wagner', 'slug': 'john-wagner', 'created_at': '2025-07-24T12:46:18.089635Z'}], 'stock': 1, 'price': 450}
+{'name': 'Five patients', 'author': [{'id': 3466, 'name': 'Michael Crichton', 'slug': 'michael-crichton', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Mutation', 'author': [{'id': 1980, 'name': 'Robin Cook', 'slug': 'robin-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Trojan Odyssey', 'author': [{'id': 2219, 'name': 'Clive Cussler', 'slug': 'clive-cussler', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Many Waters', 'author': [{'id': 10612, 'name': "Madeleine L'Engle", 'slug': 'madeleine-lengle', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Crooked Staircase', 'author': [{'id': 298, 'name': 'Dean Koontz', 'slug': 'dean-koontz', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Doctor Who: Dalek', 'author': [{'id': 23478, 'name': 'Nicholas Briggs', 'slug': 'nicholas-briggs', 'created_at': '2025-03-21T14:29:42.992620Z'}], 'stock': 1, 'price': 250}
+{'name': 'Artemis Fowl and the Opal Deception', 'author': [{'id': 16028, 'name': 'Eoin Coifer', 'slug': 'eoin-coifer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Doctor Who: The Fires of Pompeii', 'author': [{'id': 23099, 'name': 'James Moran', 'slug': 'james-moran', 'created_at': '2025-03-06T13:11:49.149923Z'}], 'stock': 2, 'price': 250}
+{'name': 'The Long Cosmos', 'author': [{'id': 4090, 'name': 'Terry Pratchett', 'slug': 'terry-pratchett', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Unwholly', 'author': [{'id': 6968, 'name': 'Neal Shusterman', 'slug': 'neal-shusterman', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Banana Machine', 'author': [{'id': 71, 'name': 'Alexander Mccall Smith', 'slug': 'alexander-mccall-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 5, 'price': 150}
+{'name': 'Invasion', 'author': [{'id': 1980, 'name': 'Robin Cook', 'slug': 'robin-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Unwind', 'author': [{'id': 6968, 'name': 'Neal Shusterman', 'slug': 'neal-shusterman', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Prodigy', 'author': [{'id': 25233, 'name': 'Marie Lu', 'slug': 'marie-lu', 'created_at': '2025-09-06T10:36:00.851397Z'}], 'stock': 1, 'price': 350}
+{'name': 'Messenger', 'author': [{'id': 5679, 'name': 'Lois Lowry', 'slug': 'lois-lowry', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Star Wars: Darth Bane - Dynasty of Evil', 'author': [{'id': 25205, 'name': 'Drew Karpyshyn', 'slug': 'drew-karpyshyn', 'created_at': '2025-09-05T07:33:56.458088Z'}], 'stock': 1, 'price': 350}
+{'name': 'Fugitive Six', 'author': [{'id': 6631, 'name': 'Pittacus Lore', 'slug': 'pittacus-lore', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Jedi Academy', 'author': [{'id': 24213, 'name': 'Jeffrey Brown', 'slug': 'jeffrey-brown', 'created_at': '2025-05-09T12:18:42.665787Z'}], 'stock': 2, 'price': 350}
+{'name': 'Out of Oz', 'author': [{'id': 5215, 'name': 'Gregory Maguire', 'slug': 'gregory-maguire', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Return of the Padawan', 'author': [{'id': 24213, 'name': 'Jeffrey Brown', 'slug': 'jeffrey-brown', 'created_at': '2025-05-09T12:18:42.665787Z'}], 'stock': 2, 'price': 350}
+{'name': 'Lies, Damned Lies, and History', 'author': [{'id': 22846, 'name': 'Jodi Taylor', 'slug': 'jodi-taylor', 'created_at': '2025-02-09T10:17:10.984916Z'}], 'stock': 1, 'price': 350}
+{'name': 'Brass Man (Agent Cormac #3)', 'author': [{'id': 6401, 'name': 'Neal Asher', 'slug': 'neal-asher', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Darkest Legacy', 'author': [{'id': 22824, 'name': 'Alexandra Bracken', 'slug': 'alexandra-bracken', 'created_at': '2025-02-09T07:41:38.082107Z'}], 'stock': 1, 'price': 250}
+{'name': 'Spirit Gate - Book One of Crossroads', 'author': [{'id': 13063, 'name': 'Kate Elliott', 'slug': 'kate-elliott', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'An Acceptable Time Book', 'author': [{'id': 10612, 'name': "Madeleine L'Engle", 'slug': 'madeleine-lengle', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Rule of Two: Star Wars Legends (Darth Bane)', 'author': [{'id': 25205, 'name': 'Drew Karpyshyn', 'slug': 'drew-karpyshyn', 'created_at': '2025-09-05T07:33:56.458088Z'}], 'stock': 1, 'price': 350}
+{'name': 'Brain', 'author': [{'id': 1980, 'name': 'Robin Cook', 'slug': 'robin-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Gumdrop Angel', 'author': [{'id': 3320, 'name': 'Scott Cawthon', 'slug': 'scott-cawthon', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Return to Zero', 'author': [{'id': 6631, 'name': 'Pittacus Lore', 'slug': 'pittacus-lore', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Timeline', 'author': [{'id': 3466, 'name': 'Michael Crichton', 'slug': 'michael-crichton', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Leviathan Falls', 'author': [{'id': 22305, 'name': 'James S A Corey', 'slug': 'james-s-a-corey', 'created_at': '2024-12-26T12:20:29.132504Z'}], 'stock': 1, 'price': 350}
+{'name': 'Contest', 'author': [{'id': 3547, 'name': 'Matthew Reilly', 'slug': 'matthew-reilly', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "So Long, and Thanks for All the Fish: Hitchhiker's Guide to the Galaxy Book 4", 'author': [{'id': 1936, 'name': 'Douglas Adams', 'slug': 'douglas-adams', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Lady of the Lake', 'author': [{'id': 7031, 'name': 'Andrzej Sapkowski', 'slug': 'andrzej-sapkowski', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Lady of the Lake', 'author': [{'id': 7031, 'name': 'Andrzej Sapkowski', 'slug': 'andrzej-sapkowski', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Skaar Invasion: Book Two of the Fall of Shannara', 'author': [{'id': 8267, 'name': 'Terry Brooks', 'slug': 'terry-brooks', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Darkspell', 'author': [{'id': 16684, 'name': 'Katharine Kerr', 'slug': 'katharine-kerr', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Chapterhouse: Dune', 'author': [{'id': 2507, 'name': 'Frank Herbert', 'slug': 'frank-herbert', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Never Fade', 'author': [{'id': 22824, 'name': 'Alexandra Bracken', 'slug': 'alexandra-bracken', 'created_at': '2025-02-09T07:41:38.082107Z'}], 'stock': 2, 'price': 350}
+{'name': 'BZRK: Reloaded', 'author': [{'id': 2238, 'name': 'Michael Grant', 'slug': 'michael-grant', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Memory of Light: Book Fourteen of The Wheel of Time (Wheel of Time, 14)', 'author': [{'id': 406, 'name': 'Robert Jordan', 'slug': 'robert-jordan', 'created_at': '2024-02-09T08:39:52.038145Z'}, {'id': 415, 'name': 'Brandon Sanderson', 'slug': 'brandon-sanderson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 450}
+{'name': 'A Wind in the Door', 'author': [{'id': 10612, 'name': "Madeleine L'Engle", 'slug': 'madeleine-lengle', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Star Wars: Darth Bane - Path of Destruction', 'author': [{'id': 25205, 'name': 'Drew Karpyshyn', 'slug': 'drew-karpyshyn', 'created_at': '2025-09-05T07:33:56.458088Z'}], 'stock': 2, 'price': 350}
+{'name': 'The Stiehl Assassin', 'author': [{'id': 8267, 'name': 'Terry Brooks', 'slug': 'terry-brooks', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Excession', 'author': [{'id': 22810, 'name': 'Iain M Banks', 'slug': 'iain-m-banks', 'created_at': '2025-02-08T10:50:01.590711Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Symphony of Echoes', 'author': [{'id': 22846, 'name': 'Jodi Taylor', 'slug': 'jodi-taylor', 'created_at': '2025-02-09T10:17:10.984916Z'}], 'stock': 1, 'price': 350}
+{'name': 'Long Shadows', 'author': [{'id': 2239, 'name': 'David Baldacci', 'slug': 'david-baldacci', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Dark Wild #2', 'author': [{'id': 25334, 'name': 'Piers Torday', 'slug': 'piers-torday', 'created_at': '2025-10-10T13:04:16.190110Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Atlantis Gene', 'author': [{'id': 16246, 'name': 'A.G.Riddle', 'slug': 'agriddle', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Two Towers (the Lord of the Rings, Book 2)', 'author': [{'id': 3677, 'name': 'J. R. R. Tolkien', 'slug': 'j-r-r-tolkien', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Friendly Face', 'author': [{'id': 3320, 'name': 'Scott Cawthon', 'slug': 'scott-cawthon', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Wild Beyond', 'author': [{'id': 25334, 'name': 'Piers Torday', 'slug': 'piers-torday', 'created_at': '2025-10-10T13:04:16.190110Z'}], 'stock': 1, 'price': 250}
+{'name': 'Wizard and Glass', 'author': [{'id': 328, 'name': 'Stephen King', 'slug': 'stephen-king', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Human Division', 'author': [{'id': 17948, 'name': 'John Scalzi', 'slug': 'john-scalzi', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Swiftly Tilting Planet', 'author': [{'id': 10612, 'name': "Madeleine L'Engle", 'slug': 'madeleine-lengle', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The End', 'author': [{'id': 4619, 'name': 'Charlie Higson', 'slug': 'charlie-higson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Shiang', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Return of the Jedi', 'author': [{'id': 25403, 'name': 'Ryder Windham', 'slug': 'ryder-windham', 'created_at': '2025-10-17T12:35:51.284703Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Empire Strikes Back', 'author': [{'id': 25403, 'name': 'Ryder Windham', 'slug': 'ryder-windham', 'created_at': '2025-10-17T12:35:51.284703Z'}], 'stock': 1, 'price': 350}
+{'name': 'Season of Storms', 'author': [{'id': 7031, 'name': 'Andrzej Sapkowski', 'slug': 'andrzej-sapkowski', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': "Assassin's Creed the Secret Crusade Book 3", 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Darien', 'author': [{'id': 25401, 'name': 'C F Iggulden', 'slug': 'c-f-iggulden', 'created_at': '2025-10-17T11:24:24.395095Z'}], 'stock': 1, 'price': 250}
+{'name': 'Dragon Age - Last Flight', 'author': [{'id': 25414, 'name': 'Liane Merciel', 'slug': 'liane-merciel', 'created_at': '2025-10-19T09:35:04.403748Z'}], 'stock': 1, 'price': 250}
+{'name': 'Speaking Bones', 'author': [{'id': 19732, 'name': 'Ken Liu', 'slug': 'ken-liu', 'created_at': '2024-04-05T10:55:25.301718Z'}], 'stock': 1, 'price': 350}
+{'name': "Lord Foul's Bane", 'author': [{'id': 7041, 'name': 'Stephen R. Donaldson', 'slug': 'stephen-r-donaldson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'The Fear', 'author': [{'id': 4619, 'name': 'Charlie Higson', 'slug': 'charlie-higson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'After the Fall', 'author': [{'id': 3301, 'name': 'E. C. Myers', 'slug': 'e-c-myers', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'I, Robot', 'author': [{'id': 19, 'name': 'Isaac Asimov', 'slug': 'isaac-asimov', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'A New Hope', 'author': [{'id': 25403, 'name': 'Ryder Windham', 'slug': 'ryder-windham', 'created_at': '2025-10-17T12:35:51.284703Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Fallen', 'author': [{'id': 4619, 'name': 'Charlie Higson', 'slug': 'charlie-higson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The One Tree', 'author': [{'id': 7041, 'name': 'Stephen R. Donaldson', 'slug': 'stephen-r-donaldson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Dead', 'author': [{'id': 4619, 'name': 'Charlie Higson', 'slug': 'charlie-higson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Sacrifice', 'author': [{'id': 4619, 'name': 'Charlie Higson', 'slug': 'charlie-higson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Baptism of Fire', 'author': [{'id': 7031, 'name': 'Andrzej Sapkowski', 'slug': 'andrzej-sapkowski', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Season of Storms', 'author': [{'id': 7031, 'name': 'Andrzej Sapkowski', 'slug': 'andrzej-sapkowski', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 350}
+{'name': 'A Game of Thrones', 'author': [{'id': 1559, 'name': 'George R. R. Martin', 'slug': 'george-r-r-martin', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 450}
+{'name': 'Star Wars: Dark Force Rising #2', 'author': [{'id': 23929, 'name': 'Timothy Zahn', 'slug': 'timothy-zahn', 'created_at': '2025-04-07T10:30:39.652496Z'}], 'stock': 2, 'price': 250}

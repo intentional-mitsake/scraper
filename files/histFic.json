@@ -1,0 +1,189 @@
+{'name': 'Blood of Tyrants', 'author': [{'id': 6121, 'name': 'Naomi Novik', 'slug': 'naomi-novik', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Raise The Titanic', 'author': [{'id': 2219, 'name': 'Clive Cussler', 'slug': 'clive-cussler', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 350}
+{'name': "The Heretic's Mark", 'author': [{'id': 22736, 'name': 'S W Perry', 'slug': 's-w-perry', 'created_at': '2025-02-06T13:02:35.295791Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Secret Diaries Of Miss Miranda Cheever', 'author': [{'id': 2484, 'name': 'Julia Quinn', 'slug': 'julia-quinn', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 450}
+{'name': 'Lionheart', 'author': [{'id': 6627, 'name': 'Ben Kane', 'slug': 'ben-kane', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Odessa Sea', 'author': [{'id': 2219, 'name': 'Clive Cussler', 'slug': 'clive-cussler', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Keeper of the Light', 'author': [{'id': 3660, 'name': 'Diane Chamberlain', 'slug': 'diane-chamberlain', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "Sharpe's Siege", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Blue Horizon', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Family Christmas', 'author': [{'id': 3167, 'name': 'Katie Flynn', 'slug': 'katie-flynn', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'The Tin Princess', 'author': [{'id': 4164, 'name': 'Philip Pullman', 'slug': 'philip-pullman', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Swiss Spy', 'author': [{'id': 21821, 'name': 'Alex Gerlis', 'slug': 'alex-gerlis', 'created_at': '2024-11-28T10:11:49.682139Z'}], 'stock': 2, 'price': 350}
+{'name': 'Hullo Russia, Goodbye England', 'author': [{'id': 22022, 'name': 'Derek Robinson', 'slug': 'derek-robinson', 'created_at': '2024-12-06T09:17:47.839715Z'}], 'stock': 1, 'price': 350}
+{'name': "The Saracen's Mark", 'author': [{'id': 22736, 'name': 'S W Perry', 'slug': 's-w-perry', 'created_at': '2025-02-06T13:02:35.295791Z'}], 'stock': 1, 'price': 350}
+{'name': 'Havana Storm', 'author': [{'id': 2219, 'name': 'Clive Cussler', 'slug': 'clive-cussler', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Young Sherlock Holmes #3 Black Ice', 'author': [{'id': 22838, 'name': 'Andrew Lane', 'slug': 'andrew-lane', 'created_at': '2025-02-09T09:08:13.980364Z'}], 'stock': 1, 'price': 450}
+{'name': "Sharpe's Christmas", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Drums Of Autumn', 'author': [{'id': 3128, 'name': 'Diana Gabaldon', 'slug': 'diana-gabaldon', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'War of the Wolf', 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 8, 'price': 350}
+{'name': 'Red Leech', 'author': [{'id': 22838, 'name': 'Andrew Lane', 'slug': 'andrew-lane', 'created_at': '2025-02-09T09:08:13.980364Z'}], 'stock': 1, 'price': 350}
+{'name': "Time's Convert", 'author': [{'id': 24246, 'name': 'Deborah Harkness', 'slug': 'deborah-harkness', 'created_at': '2025-05-15T08:34:02.099449Z'}], 'stock': 1, 'price': 350}
+{'name': 'Ruby in the Smoke', 'author': [{'id': 4164, 'name': 'Philip Pullman', 'slug': 'philip-pullman', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "Emperor's Sword", 'author': [{'id': 24012, 'name': 'Alex Gough', 'slug': 'alex-gough', 'created_at': '2025-04-24T11:20:12.969096Z'}], 'stock': 1, 'price': 350}
+{'name': 'Stasi Winter', 'author': [{'id': 9312, 'name': 'David Young', 'slug': 'david-young', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Flashman and the Tiger', 'author': [{'id': 6938, 'name': 'George Macdonald Fraser', 'slug': 'george-macdonald-fraser', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Second Chance', 'author': [{'id': 22846, 'name': 'Jodi Taylor', 'slug': 'jodi-taylor', 'created_at': '2025-02-09T10:17:10.984916Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Border Wolves', 'author': [{'id': 23065, 'name': 'Damion Hunter', 'slug': 'damion-hunter', 'created_at': '2025-03-04T11:09:07.886651Z'}], 'stock': 2, 'price': 250}
+{'name': 'Great Northern?', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Black Powder War', 'author': [{'id': 6121, 'name': 'Naomi Novik', 'slug': 'naomi-novik', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Coot Club', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': "Sharpe's Regiment", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Death of Kings', 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Stasi Child', 'author': [{'id': 9312, 'name': 'David Young', 'slug': 'david-young', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'King', 'author': [{'id': 6627, 'name': 'Ben Kane', 'slug': 'ben-kane', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Swallowdale', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}, {'id': 21891, 'name': 'Nancy Blackett', 'slug': 'nancy-blackett', 'created_at': '2024-11-29T09:08:35.244003Z'}], 'stock': 1, 'price': 350}
+{'name': 'Fatal Pursuit', 'author': [{'id': 22572, 'name': 'Martin Walker', 'slug': 'martin-walker', 'created_at': '2025-01-14T07:09:38.659098Z'}], 'stock': 1, 'price': 250}
+{'name': 'Only Time Will Tell', 'author': [{'id': 3469, 'name': 'Jeffrey Archer', 'slug': 'jeffrey-archer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Stasi Wolf', 'author': [{'id': 9312, 'name': 'David Young', 'slug': 'david-young', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Throne of Jade', 'author': [{'id': 6121, 'name': 'Naomi Novik', 'slug': 'naomi-novik', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Last Friends', 'author': [{'id': 9122, 'name': 'Jane Gardam', 'slug': 'jane-gardam', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Empire of Silver', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 4, 'price': 350}
+{'name': 'The Outcasts Brotherband Book 1', 'author': [{'id': 22596, 'name': 'John Flanagan', 'slug': 'john-flanagan', 'created_at': '2025-01-15T11:40:32.325459Z'}], 'stock': 1, 'price': 250}
+{'name': 'The secret scripture', 'author': [{'id': 10997, 'name': 'Sebastian Barry', 'slug': 'sebastian-barry', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'A Falcon Flies', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Eagle in the Sky', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 4, 'price': 250}
+{'name': 'In Sunshine or in Shadow: A Molly Murphy Mystery', 'author': [{'id': 22815, 'name': 'Rhys Bowen', 'slug': 'rhys-bowen', 'created_at': '2025-02-08T12:05:40.470774Z'}, {'id': 22816, 'name': 'Clare Broyles', 'slug': 'clare-broyles', 'created_at': '2025-02-08T12:05:40.489919Z'}], 'stock': 9, 'price': 450}
+{'name': 'A Painted House', 'author': [{'id': 234, 'name': 'John Grisham', 'slug': 'john-grisham', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Because of Miss Bridgerton', 'author': [{'id': 2484, 'name': 'Julia Quinn', 'slug': 'julia-quinn', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'A game of soldiers', 'author': [{'id': 7397, 'name': 'Stephen Miller', 'slug': 'stephen-miller', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Doctor Who: The Witchfinders (Target Collection)', 'author': [{'id': 24215, 'name': 'Joy Wilkinson', 'slug': 'joy-wilkinson', 'created_at': '2025-05-10T05:12:05.678958Z'}], 'stock': 1, 'price': 250}
+{'name': 'Doctor Who: The Fires of Pompeii', 'author': [{'id': 23099, 'name': 'James Moran', 'slug': 'james-moran', 'created_at': '2025-03-06T13:11:49.149923Z'}], 'stock': 2, 'price': 250}
+{'name': 'The Dark of the Sun', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Winter Folly', 'author': [{'id': 5017, 'name': 'Lulu Taylor', 'slug': 'lulu-taylor', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Bones of the Hills', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Lords of the Bow', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Eye of the Tiger', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Shout at the Devil', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'War Lord (the Last Kingdom Series, Book 13)', 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Shout at the Devil', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'The Great Fortune', 'author': [{'id': 7549, 'name': 'Olivia Manning', 'slug': 'olivia-manning', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Cotillion', 'author': [{'id': 3471, 'name': 'Georgette Heyer', 'slug': 'georgette-heyer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Secret Crown', 'author': [{'id': 6697, 'name': 'Chris Kuzneski', 'slug': 'chris-kuzneski', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Trojan Odyssey', 'author': [{'id': 2219, 'name': 'Clive Cussler', 'slug': 'clive-cussler', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "Heresy: Assassin's Creed", 'author': [{'id': 22856, 'name': 'Christie Golden', 'slug': 'christie-golden', 'created_at': '2025-02-09T11:27:25.867651Z'}], 'stock': 3, 'price': 450}
+{'name': 'Echoes', 'author': [{'id': 2338, 'name': 'Danielle Steel', 'slug': 'danielle-steel', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'An Indecent Obsession', 'author': [{'id': 2352, 'name': 'Colleen Mccullough', 'slug': 'colleen-mccullough', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Hornet Flight', 'author': [{'id': 180, 'name': 'Ken Follett', 'slug': 'ken-follett', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Natchez Burning', 'author': [{'id': 2333, 'name': 'Greg Iles', 'slug': 'greg-iles', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'San Andreas', 'author': [{'id': 2158, 'name': 'Alistair Maclean', 'slug': 'alistair-maclean', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Little Stranger', 'author': [{'id': 3779, 'name': 'Sarah Waters', 'slug': 'sarah-waters', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Wolf of the Plains', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Grand Sophy', 'author': [{'id': 3471, 'name': 'Georgette Heyer', 'slug': 'georgette-heyer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'In Sunshine or in Shadow: A Molly Murphy Mystery', 'author': [{'id': 22815, 'name': 'Rhys Bowen', 'slug': 'rhys-bowen', 'created_at': '2025-02-08T12:05:40.470774Z'}, {'id': 22816, 'name': 'Clare Broyles', 'slug': 'clare-broyles', 'created_at': '2025-02-08T12:05:40.489919Z'}], 'stock': 4, 'price': 350}
+{'name': 'Eagle in the Sky', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "The King's Curse", 'author': [{'id': 198, 'name': 'Philippa Gregory', 'slug': 'philippa-gregory', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Towers of Silence', 'author': [{'id': 7687, 'name': 'Paul Scott', 'slug': 'paul-scott', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'An Indecent Obsession', 'author': [{'id': 2352, 'name': 'Colleen Mccullough', 'slug': 'colleen-mccullough', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Gold Mine', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 150}
+{'name': 'Affinity', 'author': [{'id': 3779, 'name': 'Sarah Waters', 'slug': 'sarah-waters', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'The Banana Machine', 'author': [{'id': 71, 'name': 'Alexander Mccall Smith', 'slug': 'alexander-mccall-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 5, 'price': 150}
+{'name': 'The Eye of the Tiger', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'HMS ULYSSES', 'author': [{'id': 2158, 'name': 'Alistair Maclean', 'slug': 'alistair-maclean', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Ghostfaces', 'author': [{'id': 22596, 'name': 'John Flanagan', 'slug': 'john-flanagan', 'created_at': '2025-01-15T11:40:32.325459Z'}], 'stock': 1, 'price': 250}
+{'name': 'Cometh the Hour', 'author': [{'id': 3469, 'name': 'Jeffrey Archer', 'slug': 'jeffrey-archer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Torpedo Run', 'author': [{'id': 11866, 'name': 'Douglas Reeman', 'slug': 'douglas-reeman', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Lajja', 'author': [{'id': 14561, 'name': 'Taslima Nasreen', 'slug': 'taslima-nasreen', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Eaters of the Dead', 'author': [{'id': 3466, 'name': 'Michael Crichton', 'slug': 'michael-crichton', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': "Assassin's Creed: Unity", 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'One Enchanted Evening', 'author': [{'id': 25111, 'name': 'Anton du Beke', 'slug': 'anton-du-beke', 'created_at': '2025-08-25T11:56:00.381182Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Crowded Grave', 'author': [{'id': 22572, 'name': 'Martin Walker', 'slug': 'martin-walker', 'created_at': '2025-01-14T07:09:38.659098Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Word', 'author': [{'id': 1015, 'name': 'Irving Wallace', 'slug': 'irving-wallace', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Last River', 'author': [{'id': 11010, 'name': 'Todd Balf', 'slug': 'todd-balf', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': "Assassin's Creed: Brotherhood", 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Like Water for Chocolate', 'author': [{'id': 99, 'name': 'Laura Esquivel', 'slug': 'laura-esquivel', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Valhalla Rising', 'author': [{'id': 2219, 'name': 'Clive Cussler', 'slug': 'clive-cussler', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Tycoon', 'author': [{'id': 7660, 'name': 'Harold Robbins', 'slug': 'harold-robbins', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Monsoon', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "Pengarron's Children", 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Praetorian (Eagles of the Empire 11)', 'author': [{'id': 3668, 'name': 'Simon Scarrow', 'slug': 'simon-scarrow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Diamond Hunters', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 150}
+{'name': 'A Whisper of Life', 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Lies, Damned Lies, and History', 'author': [{'id': 22846, 'name': 'Jodi Taylor', 'slug': 'jodi-taylor', 'created_at': '2025-02-09T10:17:10.984916Z'}], 'stock': 1, 'price': 350}
+{'name': 'Touch the Silence', 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Cotillion', 'author': [{'id': 3471, 'name': 'Georgette Heyer', 'slug': 'georgette-heyer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Child of the Mersey', 'author': [{'id': 3539, 'name': 'Annie Groves', 'slug': 'annie-groves', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "Sharpe's Waterloo", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': "Sharpe's Assassin (the Sharpe Series, Book 21)", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'From A Distance', 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'A Stranger Light', 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Odessa File', 'author': [{'id': 141, 'name': 'Frederick Forsyth', 'slug': 'frederick-forsyth', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'High Street', 'author': [{'id': 3561, 'name': 'Anna Jacobs', 'slug': 'anna-jacobs', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Never Just a Memory', 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Paths of Glory', 'author': [{'id': 3469, 'name': 'Jeffrey Archer', 'slug': 'jeffrey-archer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Winter Holiday', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Pengarron Land', 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Regency Buck', 'author': [{'id': 3471, 'name': 'Georgette Heyer', 'slug': 'georgette-heyer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Courage for the Cornish Girls', 'author': [{'id': 22860, 'name': 'Betty Walker', 'slug': 'betty-walker', 'created_at': '2025-02-09T12:03:55.538168Z'}], 'stock': 1, 'price': 350}
+{'name': 'Pengarron Pride', 'author': [{'id': 6397, 'name': 'Gloria Cook', 'slug': 'gloria-cook', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Moonlight Over Mayfair', 'author': [{'id': 25111, 'name': 'Anton du Beke', 'slug': 'anton-du-beke', 'created_at': '2025-08-25T11:56:00.381182Z'}], 'stock': 1, 'price': 250}
+{'name': 'Plough the Furrow', 'author': [{'id': 86, 'name': 'Margaret Dickinson', 'slug': 'margaret-dickinson', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Voyager', 'author': [{'id': 3128, 'name': 'Diana Gabaldon', 'slug': 'diana-gabaldon', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Mathematical Bridge', 'author': [{'id': 4329, 'name': 'Jim Kelly', 'slug': 'jim-kelly', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 4, 'price': 350}
+{'name': 'A Column of Fire', 'author': [{'id': 180, 'name': 'Ken Follett', 'slug': 'ken-follett', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'One Special Village', 'author': [{'id': 3561, 'name': 'Anna Jacobs', 'slug': 'anna-jacobs', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Because of Miss Bridgerton', 'author': [{'id': 2484, 'name': 'Julia Quinn', 'slug': 'julia-quinn', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 6, 'price': 350}
+{'name': "The Wit and Wisdom of Bridgerton: Lady Whistledown's Official Guide", 'author': [{'id': 2484, 'name': 'Julia Quinn', 'slug': 'julia-quinn', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 450}
+{'name': 'These Old Shades', 'author': [{'id': 3471, 'name': 'Georgette Heyer', 'slug': 'georgette-heyer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Love Letter', 'author': [{'id': 2793, 'name': 'Lucinda Riley', 'slug': 'lucinda-riley', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Eagle in the Sky', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': "Napoleon's Run", 'author': [{'id': 25283, 'name': 'Jonathan Spencer', 'slug': 'jonathan-spencer', 'created_at': '2025-09-18T12:33:42.442310Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Legacy of Spies', 'author': [{'id': 4170, 'name': 'John Le Carré', 'slug': 'john-le-carre', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 638}
+{'name': 'The Trees', 'author': [{'id': 22720, 'name': 'Percival Everett', 'slug': 'percival-everett', 'created_at': '2025-02-06T11:47:06.851790Z'}], 'stock': 1, 'price': 250}
+{'name': 'High Street', 'author': [{'id': 3561, 'name': 'Anna Jacobs', 'slug': 'anna-jacobs', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Regency Buck', 'author': [{'id': 3471, 'name': 'Georgette Heyer', 'slug': 'georgette-heyer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Seventh Scroll', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'The Dark Remains', 'author': [{'id': 444, 'name': 'Ian Rankin', 'slug': 'ian-rankin', 'created_at': '2024-02-09T08:39:52.038145Z'}, {'id': 21838, 'name': 'William McIlvanney', 'slug': 'william-mcilvanney', 'created_at': '2024-11-28T11:40:44.553397Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Bridgertons: Happily Ever After', 'author': [{'id': 2484, 'name': 'Julia Quinn', 'slug': 'julia-quinn', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Venetia', 'author': [{'id': 3471, 'name': 'Georgette Heyer', 'slug': 'georgette-heyer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Secrets of Ironbridge', 'author': [{'id': 25287, 'name': 'Mollie Walton', 'slug': 'mollie-walton', 'created_at': '2025-09-19T07:46:14.125802Z'}], 'stock': 1, 'price': 250}
+{'name': 'Kaspar', 'author': [{'id': 2073, 'name': 'Michael Morpurgo', 'slug': 'michael-morpurgo', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Pearl Sister', 'author': [{'id': 2793, 'name': 'Lucinda Riley', 'slug': 'lucinda-riley', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Crackdown', 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'The Moon Sister', 'author': [{'id': 2793, 'name': 'Lucinda Riley', 'slug': 'lucinda-riley', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Somerset Tsunami', 'author': [{'id': 25407, 'name': 'Emma Carroll', 'slug': 'emma-carroll', 'created_at': '2025-10-18T07:21:37.630755Z'}], 'stock': 1, 'price': 250}
+{'name': 'Shiang', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Young Sherlock Holmes #4 Fire Storm', 'author': [{'id': 22838, 'name': 'Andrew Lane', 'slug': 'andrew-lane', 'created_at': '2025-02-09T09:08:13.980364Z'}], 'stock': 2, 'price': 350}
+{'name': 'Dunstan', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 350}
+{'name': 'Be Careful What You Wish For', 'author': [{'id': 3469, 'name': 'Jeffrey Archer', 'slug': 'jeffrey-archer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': "Assassin's Creed the Renaissance Codex Book 1", 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Temeraire', 'author': [{'id': 6121, 'name': 'Naomi Novik', 'slug': 'naomi-novik', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "A Sister's War (the Victory Sisters, Book 3)", 'author': [{'id': 4488, 'name': 'Molly Green', 'slug': 'molly-green', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Race to the Frozen North', 'author': [{'id': 25409, 'name': 'Catherine Johnson', 'slug': 'catherine-johnson', 'created_at': '2025-10-18T07:29:19.635176Z'}], 'stock': 1, 'price': 250}
+{'name': 'Best Kept Secret', 'author': [{'id': 3469, 'name': 'Jeffrey Archer', 'slug': 'jeffrey-archer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Scoundrel', 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Darien', 'author': [{'id': 25401, 'name': 'C F Iggulden', 'slug': 'c-f-iggulden', 'created_at': '2025-10-17T11:24:24.395095Z'}], 'stock': 1, 'price': 250}
+{'name': 'A Symphony of Echoes', 'author': [{'id': 22846, 'name': 'Jodi Taylor', 'slug': 'jodi-taylor', 'created_at': '2025-02-09T10:17:10.984916Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Cartel', 'author': [{'id': 12929, 'name': 'Don Winslow', 'slug': 'don-winslow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Bring Up Bodies_wolf Hall T PB', 'author': [{'id': 5300, 'name': 'Hilary Mantel', 'slug': 'hilary-mantel', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Seventh Scroll', 'author': [{'id': 3447, 'name': 'Wilbur Smith', 'slug': 'wilbur-smith', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "Sharpe's Rifles", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'A Splendid Little War', 'author': [{'id': 22022, 'name': 'Derek Robinson', 'slug': 'derek-robinson', 'created_at': '2024-12-06T09:17:47.839715Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Great Darkness', 'author': [{'id': 4329, 'name': 'Jim Kelly', 'slug': 'jim-kelly', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Watermelon, a Fish and a Bible', 'author': [{'id': 10705, 'name': 'Christy Lefteri', 'slug': 'christy-lefteri', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Magic Tree House: Monday with a Mad Genius', 'author': [{'id': 2760, 'name': 'Mary Pope Osborne', 'slug': 'mary-pope-osborne', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 400}
+{'name': "Sharpe's Sword", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "Sharpe's Company", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "Assassin's Creed: Underworld", 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Geek Girl', 'author': [{'id': 3449, 'name': 'Holly Smale', 'slug': 'holly-smale', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'The Tin Princess', 'author': [{'id': 4164, 'name': 'Philip Pullman', 'slug': 'philip-pullman', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Elm Tree Road', 'author': [{'id': 3561, 'name': 'Anna Jacobs', 'slug': 'anna-jacobs', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'Desert Oath', 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': "Sharpe's Enemy", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Falcon of Sparta', 'author': [{'id': 420, 'name': 'Conn Iggulden', 'slug': 'conn-iggulden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'World Without End', 'author': [{'id': 180, 'name': 'Ken Follett', 'slug': 'ken-follett', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "Assassin's Creed the Secret Crusade Book 3", 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': "Sharpe's Fury", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "Assassin's Creed: Unity", 'author': [{'id': 4191, 'name': 'Oliver Bowden', 'slug': 'oliver-bowden', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Hallam Square', 'author': [{'id': 3561, 'name': 'Anna Jacobs', 'slug': 'anna-jacobs', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': "Sharpe's Escape", 'author': [{'id': 3557, 'name': 'Bernard Cornwell', 'slug': 'bernard-cornwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Fingersmith', 'author': [{'id': 3779, 'name': 'Sarah Waters', 'slug': 'sarah-waters', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'Chance Encounters', 'author': [{'id': 4322, 'name': 'Rosie Harris', 'slug': 'rosie-harris', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Young Sherlock Holmes #1 Death Cloud', 'author': [{'id': 22838, 'name': 'Andrew Lane', 'slug': 'andrew-lane', 'created_at': '2025-02-09T09:08:13.980364Z'}], 'stock': 1, 'price': 250}
+{'name': 'Young Sherlock Holmes #3 Black Ice', 'author': [{'id': 22838, 'name': 'Andrew Lane', 'slug': 'andrew-lane', 'created_at': '2025-02-09T09:08:13.980364Z'}], 'stock': 1, 'price': 250}
+{'name': 'Stolen Moments', 'author': [{'id': 4322, 'name': 'Rosie Harris', 'slug': 'rosie-harris', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Only Love Can Heal', 'author': [{'id': 4322, 'name': 'Rosie Harris', 'slug': 'rosie-harris', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'A Dangerous Place', 'author': [{'id': 4312, 'name': 'Jacqueline Winspear', 'slug': 'jacqueline-winspear', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Small Things Like These', 'author': [{'id': 4682, 'name': 'Claire Keegan', 'slug': 'claire-keegan', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'A Painted House', 'author': [{'id': 234, 'name': 'John Grisham', 'slug': 'john-grisham', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 12, 'price': 150}
+{'name': 'The Fiery Cross', 'author': [{'id': 3128, 'name': 'Diana Gabaldon', 'slug': 'diana-gabaldon', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}

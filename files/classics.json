@@ -1,0 +1,52 @@
+{'name': 'Lord Jim / Victory (2 Books in 1)', 'author': [{'id': 2098, 'name': 'Joseph Conrad', 'slug': 'joseph-conrad', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Homage to Catalonia', 'author': [{'id': 20, 'name': 'George Orwell', 'slug': 'george-orwell', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Great Northern?', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Gamekeeper', 'author': [{'id': 4337, 'name': 'Barry Hines', 'slug': 'barry-hines', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Great Fortune', 'author': [{'id': 7549, 'name': 'Olivia Manning', 'slug': 'olivia-manning', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'By the River Bank (The Wind in the Willows Library)', 'author': [{'id': 23101, 'name': 'Michael Bishop', 'slug': 'michael-bishop', 'created_at': '2025-03-06T13:24:26.218032Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Pothunters and Other School Stories', 'author': [{'id': 3675, 'name': 'P. G. Wodehouse', 'slug': 'p-g-wodehouse', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'PG Wodehouse The Gold Bat and other Stories', 'author': [{'id': 3675, 'name': 'P. G. Wodehouse', 'slug': 'p-g-wodehouse', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Coot Club', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'Patna Roughcut', 'author': [{'id': 13637, 'name': 'Siddharth Chowdhury', 'slug': 'siddharth-chowdhury', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Tempest', 'author': [{'id': 14481, 'name': 'William Shakespeare', 'slug': 'william-shakespeare', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': "Mostly Harmless: Hitchhiker's Guide to the Galaxy Book 5", 'author': [{'id': 1936, 'name': 'Douglas Adams', 'slug': 'douglas-adams', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 350}
+{'name': 'twelfth night', 'author': [{'id': 14481, 'name': 'William Shakespeare', 'slug': 'william-shakespeare', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': "The Reeve's Prologue and Tale with the Cook's Prologue and the Fragment of his Tale", 'author': [{'id': 4497, 'name': 'Geoffrey Chaucer', 'slug': 'geoffrey-chaucer', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Swallowdale', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}, {'id': 21891, 'name': 'Nancy Blackett', 'slug': 'nancy-blackett', 'created_at': '2024-11-29T09:08:35.244003Z'}], 'stock': 1, 'price': 350}
+{'name': 'Radhakrishnan an anthology', 'author': [{'id': 16316, 'name': 'A.N.Marlow', 'slug': 'anmarlow', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Party Going', 'author': [{'id': 210, 'name': 'Henry Green', 'slug': 'henry-green', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Much Ado About Nothing', 'author': [{'id': 14481, 'name': 'William Shakespeare', 'slug': 'william-shakespeare', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Lord Jim/Victory (2 in 1)', 'author': [{'id': 2098, 'name': 'Joseph Conrad', 'slug': 'joseph-conrad', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'The Second Jungle Book/Selected Short Stories(2 in 1)', 'author': [{'id': 1408, 'name': 'Rudyard Kipling', 'slug': 'rudyard-kipling', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 3, 'price': 250}
+{'name': 'kama sutra', 'author': [{'id': 563, 'name': 'Mallanaga Vatsyayana', 'slug': 'mallanaga-vatsyayana', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Nightwood', 'author': [{'id': 25285, 'name': 'Djuna Barnes', 'slug': 'djuna-barnes', 'created_at': '2025-09-18T12:37:37.810517Z'}], 'stock': 1, 'price': 350}
+{'name': "Naughtiest Girl: 04: Here's The Naughtiest Girl", 'author': [{'id': 2108, 'name': 'Enid Blyton', 'slug': 'enid-blyton', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Two Towers (the Lord of the Rings, Book 2)', 'author': [{'id': 3677, 'name': 'J. R. R. Tolkien', 'slug': 'j-r-r-tolkien', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Winter Holiday', 'author': [{'id': 3559, 'name': 'Arthur Ransome', 'slug': 'arthur-ransome', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Building A New India', 'author': [{'id': 11259, 'name': 'A.P.J Abdul Kalam With Y.S Rajan', 'slug': 'apj-abdul-kalam-with-ys-rajan', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Man', 'author': [{'id': 1015, 'name': 'Irving Wallace', 'slug': 'irving-wallace', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Gold bat andother school, stories', 'author': [{'id': 3675, 'name': 'P. G. Wodehouse', 'slug': 'p-g-wodehouse', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Like Water for Chocolate', 'author': [{'id': 99, 'name': 'Laura Esquivel', 'slug': 'laura-esquivel', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'I, Robot', 'author': [{'id': 19, 'name': 'Isaac Asimov', 'slug': 'isaac-asimov', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'The Famous Five #16 Five Go to Billycock Hill', 'author': [{'id': 2108, 'name': 'Enid Blyton', 'slug': 'enid-blyton', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Look Out, Secret Seven', 'author': [{'id': 2108, 'name': 'Enid Blyton', 'slug': 'enid-blyton', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'Live and Let Die', 'author': [{'id': 4129, 'name': 'Ian Fleming', 'slug': 'ian-fleming', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'oroonoko or, the royal slave', 'author': [{'id': 11262, 'name': 'Aphra Behn', 'slug': 'aphra-behn', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 150}
+{'name': 'She, Ayesha/The Return of She (2 in 1)', 'author': [{'id': 2139, 'name': 'H Rider Haggard', 'slug': 'h-rider-haggard', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Northanger Abbey', 'author': [{'id': 2082, 'name': 'Jane Austen', 'slug': 'jane-austen', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Henry IV (Part- 1)', 'author': [{'id': 14481, 'name': 'William Shakespeare', 'slug': 'william-shakespeare', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Jungle Book/Kim (2 in 1)', 'author': [{'id': 1408, 'name': 'Rudyard Kipling', 'slug': 'rudyard-kipling', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Dr. No', 'author': [{'id': 4129, 'name': 'Ian Fleming', 'slug': 'ian-fleming', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 350}
+{'name': 'Birdsong', 'author': [{'id': 23067, 'name': 'Katya Balen', 'slug': 'katya-balen', 'created_at': '2025-03-04T11:13:50.766525Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Extraordinary Cases of Sherlock Holmes', 'author': [{'id': 14399, 'name': 'Arthur Conan Doyle', 'slug': 'arthur-conan-doyle', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': "Alice's Adventures in Wonderland", 'author': [{'id': 4234, 'name': 'Lewis Carroll', 'slug': 'lewis-carroll', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Anne of Ingleside', 'author': [{'id': 24585, 'name': 'Lucy Maud Montgomery', 'slug': 'lucy-maud-montgomery', 'created_at': '2025-06-29T13:00:23.317394Z'}], 'stock': 1, 'price': 250}
+{'name': 'Romeo and Juliet', 'author': [{'id': 2626, 'name': 'Andrew Matthews', 'slug': 'andrew-matthews', 'created_at': '2024-02-09T08:39:52.038145Z'}, {'id': 14481, 'name': 'William Shakespeare', 'slug': 'william-shakespeare', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'A Little Princess', 'author': [{'id': 3306, 'name': 'Frances Hodgson Burnett', 'slug': 'frances-hodgson-burnett', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'The Railway Children', 'author': [{'id': 4829, 'name': 'E. Nesbit', 'slug': 'e-nesbit', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 250}
+{'name': 'Pride and Prejudice', 'author': [{'id': 8301, 'name': 'Usborne Publishing', 'slug': 'usborne-publishing', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 150}
+{'name': 'The Wonderful Wizard of Oz', 'author': [{'id': 2948, 'name': 'L. Frank Baum', 'slug': 'l-frank-baum', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Peter Pan', 'author': [{'id': 6215, 'name': 'J. M. Barrie', 'slug': 'j-m-barrie', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
+{'name': 'Rainbow Valley', 'author': [{'id': 24585, 'name': 'Lucy Maud Montgomery', 'slug': 'lucy-maud-montgomery', 'created_at': '2025-06-29T13:00:23.317394Z'}], 'stock': 2, 'price': 350}
+{'name': 'Best of Saki', 'author': [{'id': 6842, 'name': 'Saki', 'slug': 'saki', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 2, 'price': 150}
+{'name': 'The Wind in the Willows', 'author': [{'id': 2864, 'name': 'Kenneth Grahame', 'slug': 'kenneth-grahame', 'created_at': '2024-02-09T08:39:52.038145Z'}], 'stock': 1, 'price': 250}
