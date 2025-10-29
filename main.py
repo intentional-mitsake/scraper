@@ -2,19 +2,42 @@ from bs4 import BeautifulSoup
 import requests
 import os
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
-url = os.getenv("URL")
+api = os.getenv("URL")
 
-req = requests.get(url)
-#check if the connection was successful first
-if(req.status_code == 200):
-    print("Connection Successful")
-    html = req.text #getting the actual html content if the connection is successful
-    soup = BeautifulSoup(html, 'html.parser')
-    loadMoreTag = soup.find('div', class_= 'load-more book-filter__content__load-more')
-    print(loadMoreTag)
-else:
-    print("Connection Failed with status code:", req.status_code)
-    html = ""
+current_page = 1
+start = 1
+max_pages = 200
+all_books = []
+file = 'allbooks.json'
 
+while True:
+    url = f"{api}?page={current_page}"
+    print(f"Scraping page {current_page}...")
+    req = requests.get(url)
+    current_page += 1
+    data = req.json()
+    if not data['data']:
+       print("No more data to scrape.")
+       break
+    data = json.dumps(data, indent=4)
+    formatted_data = []
+    for book in data['data']:
+       name = book['name']
+       author = book['authors'] 
+       stock = book['stock']
+       price = book['sales_price']
+       formatted_data.append({
+           'name': name,
+           'author': author,
+           'stock': stock,
+           'price': price
+       })
+    try:
+       with open(file, 'a', encoding='utf-8') as f:
+           f.write(formatted_data)
+    except Exception as e:
+       print(f"An error occurred: {e}")
+        
