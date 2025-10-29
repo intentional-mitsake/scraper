@@ -11,7 +11,8 @@ current_page = 1
 start = 1
 all_books = []
 #json file to store the scraped data
-file = 'files/contemporary.json'
+all_books = 'jsons/allbooks.json'
+detailed_file = 'jsons/details.json'
 
 #filters
 genreFilter = ["fiction-and-literature", "history-biography-and-social-science"]
@@ -36,22 +37,24 @@ while True:
     #iterate through the data and extract relevant information only
     for book in data['data']:
        name = book['name']
-       author = book['authors'] 
+       author = book['authors']
+       author_name = author[0]['name'] 
        stock = book['stock']
        price = book['sales_price']
        formatted_data.append({
            'name': name,
-           'author': author,
-           'stock': stock,
+           'author': author_name,
            'price': price
        })
     try:
        #with closes the file after writing
        with open(file, 'a', encoding='utf-8') as f:
-           for item in formatted_data:
                 #to convert dict(item) to string
                 #can only write strings to a file
-                f.write(item.__str__() + '\n')
+                #f.write(item.__str__() + '\n')
+
+                #using json.dump to write json data to file
+                json.dump(formatted_data, f, indent=2)
     except Exception as e:
        print(f"An error occurred: {e}")
         
