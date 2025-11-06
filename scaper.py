@@ -11,8 +11,8 @@ current_page = 1
 start = 1
 all_books = []
 #json file to store the scraped data
-all_books = 'jsons/allbooks.json'
-detailed_file = 'jsons/details.json'
+all_books = 'jsons/scrapedbooks.json'
+detailed_file = 'jsons/scrapedDetails.json'
 
 
 #filters
