@@ -1,4 +1,5 @@
-{
+[
+    {
     "Genre": "classics",
     "Total Books": 52,
     "Books": [
@@ -16431,4 +16432,4 @@
         }
     ]
 }
-
+]
