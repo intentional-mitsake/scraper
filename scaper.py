@@ -22,10 +22,11 @@ subGenreFilter = ["classics", "fantasy", "science-fiction","mystery-thriller-and
 def scrape_books(genreFilter=genreFilter, subGenreFilter=subGenreFilter):  
     #to initialize the json files with an opening bracket
     try:
-        with open(all_books, 'a', encoding='utf-8') as f:
+        #first use 'w' mode to overwrite any existing data
+        with open(all_books, 'w', encoding='utf-8') as f:
             f.write('[')  # start of json array
                         
-        with open(detailed_file, 'a', encoding='utf-8') as fd:
+        with open(detailed_file, 'w', encoding='utf-8') as fd:
             fd.write('[')  # start of json array
     except Exception as e:
         print(f"An error occurred: {e}")

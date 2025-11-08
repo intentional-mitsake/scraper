@@ -2,14 +2,23 @@ from deepdiff import DeepDiff
 import json
 from scaper import scrape_books
 from datetime import datetime
+# all import for kivy packages
+"""
+from kivy.app import App
+from kivy.uix.boxlayout import BoxLayout
+from kivy.uix.label import Label
+from kivy.uix.button import Button
+from kivy.uix.scrollview import ScrollView"""
 
 #first we scrape_books and write to the scraped json files
-#scrape_books()
+scrape_books()
+
 #then wwe compare the scraped json files with the existing allbooks.json and details.json files
 #update the resultinng differences to the added and removed json files
 #then we overwrite the allbooks.json and details.json files with the scraped json files and clear the scraped json files for next use
 # and also every time we add new data to added and removed json files, we append to them instead of overwriting them and add a date
 
+#compare 
 date = datetime.now()
 def compare_and_update():
 
@@ -49,9 +58,11 @@ def compare_and_update():
             print(f"Changes for genre {genre} recorded.")
         
             
-
+        with open('jsons/changes.json', 'r', encoding='utf-8') as f:
+            bracket = f.read()
+            bracket = bracket.rstrip('\n]\n') # remove the last closing bracket for appending new data
         with open('jsons/changes.json', 'a', encoding='utf-8') as f:
-            f.write('\n[\n')
+            f.write(bracket)
             # \"\"--> to insert quotes in the date key
             # without it the json will be invalid
             # this is the format finally:
@@ -62,13 +73,35 @@ def compare_and_update():
             json.dump(changes, f, indent=4)
             f.write('\n]\n')
                 
+        """
        #overwrite the existing allbooks.json and details.json files with the scraped data for next comparison
         with open('jsons/allbooks.json', 'w', encoding='utf-8') as f:
             json.dump(scrapedbooks, f, indent=4)    
         with open('jsons/details.json', 'w', encoding='utf-8') as f:
             json.dump(scrapeddetails, f, indent=4)
+
+        #clear the scraped json files for next use
+        with open('jsons/scrapedbooks.json', 'w', encoding='utf-8') as f:
+            f.write('[]') # empty list      
+        with open('jsons/scrapedDetails.json', 'w', encoding='utf-8') as f:
+            f.write('{}') # empty dict
+        """
        
     except Exception as e:
         print(f"An error occurred during comparison and update: {e}")
-
 compare_and_update()
+
+#application using kivy to display the data from changes.json and other files 
+"""
+class UpdatesApp(App):
+    def build(self):
+        self.title = " ook Updates"
+        #main layout
+        layout = BoxLayout(orientation='vertical')
+        title_label = Label(text="Book Updates", font_size='24sp', size_hint_y=None, height=50)
+        layout.add_widget(title_label)
+        #scrollable view for updates
+        scroll_view = ScrollView()
+        content_layout = BoxLayout(orientation='vertical', size_hint_y=None)
+        content_layout.bind(minimum_height=content_layout.setter('height'))
+"""
