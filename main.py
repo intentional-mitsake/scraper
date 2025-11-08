@@ -59,21 +59,25 @@ def compare_and_update():
         
             
         with open('jsons/changes.json', 'r', encoding='utf-8') as f:
-            bracket = f.read()
-            bracket = bracket.rstrip('\n]\n') # remove the last closing bracket for appending new data
-        with open('jsons/changes.json', 'a', encoding='utf-8') as f:
-            f.write(bracket)
+            prev_data = f.read()
+            prev_data = prev_data.rstrip('\n]\n') # remove the last closing bracket for appending new data
+        with open('jsons/changes.json', 'w', encoding='utf-8') as f:
+            # we read the previous data and store it in prev_data
+            # then we removed trailing '\n]\n' from prev_data
+            # now we overwrite changes.json with the previous data without the closing bracket
+            # ensuring proper json format when we append new data
+            f.write(prev_data)
             # \"\"--> to insert quotes in the date key
             # without it the json will be invalid
             # this is the format finally:
             # [ {"Date": "2024-06-01 12:00:00"},
             #   {"history": {.....}, "fantasy": {....} , .... }
-            # ]            
-            f.write('{' + f"\"Date\": \"{str(date)}\"" + '},\n') #date of comparison
+            # ]    
+            # add comma before the new entry as we are appending to an existing list        
+            f.write(',\n{' + f"\"Date\": \"{str(date)}\"" + '},\n') #date of comparison
             json.dump(changes, f, indent=4)
             f.write('\n]\n')
-                
-        """
+             
        #overwrite the existing allbooks.json and details.json files with the scraped data for next comparison
         with open('jsons/allbooks.json', 'w', encoding='utf-8') as f:
             json.dump(scrapedbooks, f, indent=4)    
@@ -84,8 +88,7 @@ def compare_and_update():
         with open('jsons/scrapedbooks.json', 'w', encoding='utf-8') as f:
             f.write('[]') # empty list      
         with open('jsons/scrapedDetails.json', 'w', encoding='utf-8') as f:
-            f.write('{}') # empty dict
-        """
+            f.write('[]') # empty list
        
     except Exception as e:
         print(f"An error occurred during comparison and update: {e}")
