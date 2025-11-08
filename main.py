@@ -2,13 +2,6 @@ from deepdiff import DeepDiff
 import json
 from scaper import scrape_books
 from datetime import datetime
-# all import for kivy packages
-"""
-from kivy.app import App
-from kivy.uix.boxlayout import BoxLayout
-from kivy.uix.label import Label
-from kivy.uix.button import Button
-from kivy.uix.scrollview import ScrollView"""
 
 #first we scrape_books and write to the scraped json files
 scrape_books()
@@ -94,17 +87,3 @@ def compare_and_update():
         print(f"An error occurred during comparison and update: {e}")
 compare_and_update()
 
-#application using kivy to display the data from changes.json and other files 
-"""
-class UpdatesApp(App):
-    def build(self):
-        self.title = " ook Updates"
-        #main layout
-        layout = BoxLayout(orientation='vertical')
-        title_label = Label(text="Book Updates", font_size='24sp', size_hint_y=None, height=50)
-        layout.add_widget(title_label)
-        #scrollable view for updates
-        scroll_view = ScrollView()
-        content_layout = BoxLayout(orientation='vertical', size_hint_y=None)
-        content_layout.bind(minimum_height=content_layout.setter('height'))
-"""
