@@ -27,9 +27,7 @@ def compare_and_update():
         
         #compare the jsons
         #print(scrapedbooks)
-        changes = {
-            'Date': f'{str(date)}' #date of comparison
-        } #empty dict to hold changes & we can define the structure later
+        changes = {} #empty dict to hold changes & we can define the structure later
         for new_items in scrapedbooks:
             genre = new_items['Genre'] # genre name is in the Genre key and we iterate over each genre
             num_new = len(new_items['Books']) # the Books key contains a list of books
@@ -53,13 +51,22 @@ def compare_and_update():
             
 
         with open('jsons/changes.json', 'a', encoding='utf-8') as f:
-            f.write('[\n')
+            f.write('\n[\n')
+            # \"\"--> to insert quotes in the date key
+            # without it the json will be invalid
+            # this is the format finally:
+            # [ {"Date": "2024-06-01 12:00:00"},
+            #   {"history": {.....}, "fantasy": {....} , .... }
+            # ]            
+            f.write('{' + f"\"Date\": \"{str(date)}\"" + '},\n') #date of comparison
             json.dump(changes, f, indent=4)
             f.write('\n]\n')
                 
-                
-
        #overwrite the existing allbooks.json and details.json files with the scraped data for next comparison
+        with open('jsons/allbooks.json', 'w', encoding='utf-8') as f:
+            json.dump(scrapedbooks, f, indent=4)    
+        with open('jsons/details.json', 'w', encoding='utf-8') as f:
+            json.dump(scrapeddetails, f, indent=4)
        
     except Exception as e:
         print(f"An error occurred during comparison and update: {e}")
