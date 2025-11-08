@@ -10,7 +10,7 @@ from datetime import datetime
 #then we overwrite the allbooks.json and details.json files with the scraped json files and clear the scraped json files for next use
 # and also every time we add new data to added and removed json files, we append to them instead of overwriting them and add a date
 
-date = datetime.now().date()
+date = datetime.now()
 def compare_and_update():
 
     try:
@@ -25,30 +25,41 @@ def compare_and_update():
         with open('jsons/details.json', 'r', encoding='utf-8') as f:
             existing_details = json.load(f)
         
-        #ingore_order to avoid false positives due to different ordering of the items
-        diff_allbooks = DeepDiff(allbooks, scrapedbooks, ignore_order=True)
-        diff_details = DeepDiff(existing_details, scrapeddetails, ignore_order=True)
+        #compare the jsons
+        #print(scrapedbooks)
+        changes = {
+            'Date': f'{str(date)}' #date of comparison
+        } #empty dict to hold changes & we can define the structure later
+        for new_items in scrapedbooks:
+            genre = new_items['Genre'] # genre name is in the Genre key and we iterate over each genre
+            num_new = len(new_items['Books']) # the Books key contains a list of books
+            old_items = next((item for item in allbooks if item['Genre'] == genre), None) # find the corresponding genre in old data
+            num_old = len(old_items['Books'])
+            added_books = set(new_items['Books']) - set(old_items['Books']) # books present in new but not in old so added
+            removed_books = set(old_items['Books']) - set(new_items['Books']) # books present in old but not in new so removesd
+            print(f"Comparing genre: {genre}") 
+            changes[genre] = {
+                    'num_old': num_old,
+                    'num_new': num_new,
+                    'added': list(added_books),
+                    'removed': list(removed_books),
+                    'num_added': len(added_books),
+                    'num_removed': len(removed_books),
+                    'tot_changes': num_new - num_old # this should match num_added - num_removed so we can verify
+                
+            }
+            print(f"Changes for genre {genre} recorded.")
         
-        #deepdiff returns a dictionary with different types of changes
-        #we get 'iterable_item_added' and 'iterable_item_removed' and 'values_changed' if any
-        added_books = diff_allbooks.get('iterable_item_added', {})
-        removed_books = diff_allbooks.get('iterable_item_removed', {})
-        print("Added Books:", added_books)
-        print("Removed Books:", removed_books)
+            
 
-        with open('jsons/added.json', 'a', encoding='utf-8') as f:
-            #first check if there are any added books
-            if added_books:
-                f.write(str(date) + '\n')
-                for key, value in added_books.items():
-                    f.write(json.dumps({key: value}, indent=4) + '\n')
-        with open('jsons/removed.json', 'a', encoding='utf-8') as f:
-            if removed_books:
-                f.write(str(date) + '\n')
-                print(removed_books)
-                for key, value in removed_books.items():
-                    f.write(json.dumps({key: value}, indent=4) + '\n')
+        with open('jsons/changes.json', 'a', encoding='utf-8') as f:
+            f.write('[\n')
+            json.dump(changes, f, indent=4)
+            f.write('\n]\n')
+                
+                
 
+       #overwrite the existing allbooks.json and details.json files with the scraped data for next comparison
        
     except Exception as e:
         print(f"An error occurred during comparison and update: {e}")
