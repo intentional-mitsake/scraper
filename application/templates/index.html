@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Updates</title>
+</head>
+<body>
+    <div class="update">
+        <form class="update-form" action="{{ url_for('scrape_and_compare') }}" method="POST">
+            <button id="update-button" type="submit">Trigger Scrape and Update</button>
+        </form>
+    </div>
+    <dive class="changes">
+        <h2>Changes History</h2>
+        <!--the json file has this structure:
+        [{Date},{}, 
+        {Date},{},
+        ...]
+        so 0 is a date, 1 is changelog, 2 is a date, 3 is a changelong
+        thusx to iterate over each date & changelog pair stepsize of two is taken-->
+        {% for i in range(0, changes|length, 2) %}
+        <div class="log-entry">
+            <div class="date-header">
+                 <!--changes[0]-->
+                Update Timestamp: **{{ changes[i].Date }}**
+            </div>
+            <!--changes[1]-->
+            {% set category_changes = changes[i+1] %}
+            
+            {% if category_changes %}
+                {% for category, data in category_changes.items() %}
+                    
+                    <h3>{{ category|replace('-', ' ')|title }} <small>({{ data.num_old }} &rarr; {{ data.num_new }})</small></h3>
+                    
+                    <p>
+                        **Net Change:** {% if data.tot_changes > 0 %}
+                            <span style="color: green;">+{{ data.tot_changes }}</span>
+                        {% elif data.tot_changes < 0 %}
+                            <span style="color: red;">{{ data.tot_changes }}</span>
+                        {% else %}
+                            0
+                        {% endif %}
+                        (Added: {{ data.num_added }}, Removed: {{ data.num_removed }})
+                    </p>
+
+                    {% if data.added %}
+                        <h4>➕ Added Books ({{ data.num_added }})</h4>
+                        <ul class="added-list">
+                            {% for title in data.added %}
+                                <li>{{ title }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {% if data.removed %}
+                        <h4>➖ Removed Books ({{ data.num_removed }})</h4>
+                        <ul class="removed-list">
+                            {% for title in data.removed %}
+                                <li>{{ title }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                    <hr>
+                {% endfor %}
+            {% else %}
+                <p>Error: Missing change details for this timestamp.</p>
+            {% endif %}
+        </div>
+    {% endfor %}
+    </dive>
+</body>
+</html>
