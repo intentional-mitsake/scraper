@@ -4,6 +4,100 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Book Updates</title>
+    <style>
+        body{
+            background-color: #b8c5dafd;
+        }
+        .update {
+            text-align: center;
+            margin: 20px;
+        }
+        #update-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #333e81;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.3s ease-in-out;
+        }
+        #update-button:hover {
+            background-color: #555fae;
+            transform: scale(1.1);
+        }
+        .changes {
+            width: 80%;
+            margin: 0 auto;
+        }
+        #changes-title {
+            text-align: center;
+            margin-bottom: 20px;
+            font: bold 24px Arial, sans-serif;
+        }
+        .log-entry {
+            background-color: #e2eef3;
+            border: 1px solid #5e5b5b;
+            border-radius: 9px;
+            margin-bottom: 15px;
+            padding: 16px;
+        }
+        .details-card summary {
+            font: bold 15px Arial, sans-serif;  
+            cursor: pointer;
+            outline: none;
+            color:#4450a3;
+            transition: color 0.3s, transform 0.3s ease-in-out;
+        }
+        .details-card summary:hover {
+            color: #222f7a;
+            transform: scale(1.05);
+        }
+        #genre-title {
+            margin-top: 15px;
+            font: bold 18px Arial, sans-serif;
+            color: #0c2f52;
+        }
+        #net-change {
+            font: 14px Arial, sans-serif;
+            margin-bottom: 10px;
+        }
+        .added-list, .removed-list {
+            list-style: none;
+            display: grid;
+        }
+        .added-list dt, .removed-list dt {
+            cursor: pointer;
+            margin-top: 8px;
+            border-radius: 9px;
+            transition: all 0.3s ease-in-out;
+        }
+        .added-list dt:hover{
+            color: rgb(3, 105, 3);
+            box-shadow: #5e5b5b 0px 0px 8px;
+            transform: scale(1.02);
+        }
+        .removed-list dt:hover {
+            color: rgb(134, 5, 5);
+            box-shadow: #5e5b5b 0px 0px 8px;
+            transform: scale(1.02);
+        } 
+        .added-list dd {
+            color: green;
+            font: 14px Arial, sans-serif;
+            margin-bottom: 2px;
+            display: none;
+        }
+        .removed-list dd {
+            color: red;
+            font: 14px Arial, sans-serif;
+            margin-bottom: 2px;
+            display: none;
+        }
+        .added-list.is-expanded dd, .removed-list.is-expanded dd {
+            display: block;
+        }
+    </style>
 </head>
 <body>
     <div class="update">
@@ -11,63 +105,90 @@
             <button id="update-button" type="submit">Trigger Scrape and Update</button>
         </form>
     </div>
-    <dive class="changes">
-        <h2>Changes History</h2>
-        <!--the json file has this structure:
-        [{Date},{}, 
-        {Date},{},
-        ...]
-        so 0 is a date, 1 is changelog, 2 is a date, 3 is a changelong
-        thusx to iterate over each date & changelog pair stepsize of two is taken-->
-        {% for i in range(0, changes|length, 2) %}
+    {# This whole section is GEMINI#}
+  <div class="changes">
+    <h2 id="changes-title">Changes History</h2>
+    {# Iterate over changes in reverse order, stepping by 2 to pair date with changes #}
+    
+    {% for i in range(changes|length - 1, -1, -2) %}
+        {% set date_index = i - 1 %}
+        {% set category_changes = changes[i] %}
+        
         <div class="log-entry">
-            <div class="date-header">
-                 <!--changes[0]-->
-                Update Timestamp: **{{ changes[i].Date }}**
-            </div>
-            <!--changes[1]-->
-            {% set category_changes = changes[i+1] %}
-            
-            {% if category_changes %}
-                {% for category, data in category_changes.items() %}
-                    
-                    <h3>{{ category|replace('-', ' ')|title }} <small>({{ data.num_old }} &rarr; {{ data.num_new }})</small></h3>
-                    
-                    <p>
-                        **Net Change:** {% if data.tot_changes > 0 %}
-                            <span style="color: green;">+{{ data.tot_changes }}</span>
-                        {% elif data.tot_changes < 0 %}
-                            <span style="color: red;">{{ data.tot_changes }}</span>
-                        {% else %}
-                            0
+            {# Used <details> for the collapsible functionality #}
+            <details class="details-card" {% if loop.first %}open{% endif %}>
+                {# loop.first evaluates to true only when the loop is processing the very first item #}
+                {# if this is the first iteration of the loop, i.e. we are on the last date and changes log, we keep it open by default #}
+                
+                {# <summary> holds the visible header/title for the collapse feature #}
+                <summary class="date-header">
+                    Update Timestamp: 
+                    {# Check if date_index is valid before accessing #}
+                    {% if date_index >= 0 %}
+                        <strong>{{ changes[date_index].Date }}</strong>
+                    {% else %}
+                        <strong>[Date Missing]</strong>
+                    {% endif %}
+                </summary>
+                
+                {# The content inside <details> (but outside <summary>) is collapsible #}
+                
+                {% if category_changes %}
+                    {% for category, data in category_changes.items() %}
+                        
+                        <h3 id="genre-title">{{ category|replace('-', ' ')|title }} <small>({{ data.num_old }} &rarr; {{ data.num_new }})</small></h3>
+                        
+                        <p id="net-change">
+                            <strong>Net Change:</strong> {% if data.tot_changes > 0 %}
+                                <span style="color: green;">+{{ data.tot_changes }}</span>
+                            {% elif data.tot_changes < 0 %}
+                                <span style="color: red;">{{ data.tot_changes }}</span>
+                            {% else %}
+                                0
+                            {% endif %}
+                            (Added: {{ data.num_added }}, Removed: {{ data.num_removed }})
+                        </p>
+
+                        {% if data.added %}
+                            <dl class="added-list">
+                                <dt style="color: rgb(74, 184, 23); font: bold 15px Arial, sans-serif;"> <strong>+</strong> Added Items ({{ data.num_added }})</dt>
+                                {% for title in data.added %}
+                                    <dd class="title">{{ title }}</dd>
+                                {% endfor %}
+                            </dl>
                         {% endif %}
-                        (Added: {{ data.num_added }}, Removed: {{ data.num_removed }})
-                    </p>
 
-                    {% if data.added %}
-                        <h4>➕ Added Books ({{ data.num_added }})</h4>
-                        <ul class="added-list">
-                            {% for title in data.added %}
-                                <li>{{ title }}</li>
-                            {% endfor %}
-                        </ul>
-                    {% endif %}
-
-                    {% if data.removed %}
-                        <h4>➖ Removed Books ({{ data.num_removed }})</h4>
-                        <ul class="removed-list">
-                            {% for title in data.removed %}
-                                <li>{{ title }}</li>
-                            {% endfor %}
-                        </ul>
-                    {% endif %}
-                    <hr>
-                {% endfor %}
-            {% else %}
-                <p>Error: Missing change details for this timestamp.</p>
-            {% endif %}
+                        {% if data.removed %}
+                            <dl class="removed-list">
+                                <dt style="color: red; font: bold 15px Arial, sans-serif;"><strong>-</strong> Removed Items ({{ data.num_removed }})</dt>
+                                {% for title in data.removed %}
+                                    <dd class="title">{{ title }}</dd>
+                                {% endfor %}
+                            </dl>
+                        {% endif %}
+                        <hr>
+                    {% endfor %}
+                {% else %}
+                    <p>Error: Missing change details for this timestamp.</p>
+                {% endif %}
+                
+            </details>
         </div>
     {% endfor %}
-    </dive>
+</div>
+<script>
+    // get ALL dt's(headings) for added and removed lists
+    document.querySelectorAll('.added-list dt, .removed-list dt').forEach(dt => {
+        dt.addEventListener('click', () => {
+            // find the immediate parent <dl> of the clicked <dt>
+            const parentDl = dt.closest('dl');
+            
+            // toggle the 'is-expanded' class on that specific <dl>
+            if (parentDl) {
+                parentDl.classList.toggle('is-expanded');
+            }
+        });
+    });
+</script>
 </body>
 </html>

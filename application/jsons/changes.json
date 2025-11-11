@@ -955,5 +955,83 @@
         "num_removed": 0,
         "tot_changes": 0
     }
+},
+{"Date": "2025-11-11 11:28:13.242038"},
+{
+    "classics": {
+        "num_old": 58,
+        "num_new": 57,
+        "added": [],
+        "removed": [
+            "Pigeon Post"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 396,
+        "num_new": 395,
+        "added": [],
+        "removed": [
+            "The Extraordinary Education of Nicholas Benedict"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 132,
+        "num_new": 132,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 453,
+        "num_new": 451,
+        "added": [],
+        "removed": [
+            "The Secret Crown",
+            "The Thursday Murder Club"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "historical-fiction": {
+        "num_old": 197,
+        "num_new": 196,
+        "added": [],
+        "removed": [
+            "The Secret Crown"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "contemporary": {
+        "num_old": 125,
+        "num_new": 123,
+        "added": [],
+        "removed": [
+            "Outline: A Novel (Outline Trilogy Book 1)",
+            "The Thursday Murder Club"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "history": {
+        "num_old": 43,
+        "num_new": 43,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    }
 }
 ]
