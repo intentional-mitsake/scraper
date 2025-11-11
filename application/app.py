@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for
+from flask import Flask, render_template, redirect, url_for, jsonify
 from scraper import scrape_books
 from compare import compare_and_update
 import json
@@ -25,9 +25,9 @@ def home():
 # Define a route to trigger scraping and comparison
 @app.route('/update', methods=['POST'])
 def scrape_and_compare():
-    scrape_books()
+    Succes = scrape_books()
     compare_and_update()
-    return redirect(url_for('home'))
+    return jsonify({"status": "Success", "message": "Scraping and comparison completed."})
 
 if __name__ == '__main__':
     # run the Flask app

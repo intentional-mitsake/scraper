@@ -26,6 +26,16 @@
             background-color: #555fae;
             transform: scale(1.1);
         }
+        #update-button:disabled {
+            background-color: #999;
+            cursor: not-allowed;
+            transform: none;
+        }
+        #loading {
+            margin-top: 10px;
+            font: italic 14px Arial, sans-serif;
+            color: #333e81;
+        }
         .changes {
             width: 80%;
             margin: 0 auto;
@@ -51,7 +61,7 @@
         }
         .details-card summary:hover {
             color: #222f7a;
-            transform: scale(1.05);
+            transform: scale(1.01);
         }
         #genre-title {
             margin-top: 15px;
@@ -103,6 +113,9 @@
     <div class="update">
         <form class="update-form" action="{{ url_for('scrape_and_compare') }}" method="POST">
             <button id="update-button" type="submit">Trigger Scrape and Update</button>
+            <div id="loading" style="display: none;"> 
+                <p>Processing, please wait...</p>
+            </div>
         </form>
     </div>
     {# This whole section is GEMINI#}
@@ -187,6 +200,40 @@
             if (parentDl) {
                 parentDl.classList.toggle('is-expanded');
             }
+        });
+    });
+    document.addEventListener('DOMContentLoaded', () => {
+        const updateButton = document.getElementById('update-button');
+        const loading = document.getElementById('loading');
+
+        updateButton.addEventListener('click', () => {
+            //Disable Button & Show Loading State
+            updateButton.disabled = true;
+            updateButton.textContent = 'Updating...';
+            loading.style.display = 'block';
+
+            fetch('/update', { 
+                method: 'POST'
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log(data.message);
+                alert("Update Complete!"); 
+            })
+            .catch(error => {
+                console.error('Error during scrape:', error);
+                alert("An error occurred during the update.");
+            })
+            .finally(() => {
+                updateButton.disabled = false;
+                updateButton.textContent = 'Trigger Scrape & Update';
+                loading.style.display = 'none';
+            });
         });
     });
 </script>
