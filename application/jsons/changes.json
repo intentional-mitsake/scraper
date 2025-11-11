@@ -1165,5 +1165,71 @@
         "num_removed": 0,
         "tot_changes": 0
     }
+},
+{"Date": "2025-11-11 13:16:19.925974"},
+{
+    "classics": {
+        "num_old": 57,
+        "num_new": 57,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 395,
+        "num_new": 395,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "science-fiction": {
+        "num_old": 132,
+        "num_new": 132,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 451,
+        "num_new": 451,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "historical-fiction": {
+        "num_old": 196,
+        "num_new": 196,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "contemporary": {
+        "num_old": 123,
+        "num_new": 123,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "history": {
+        "num_old": 43,
+        "num_new": 43,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    }
 }
 ]
