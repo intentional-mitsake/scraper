@@ -233,6 +233,7 @@
                 updateButton.disabled = false;
                 updateButton.textContent = 'Trigger Scrape & Update';
                 loading.style.display = 'none';
+                location.reload();//the changes json has been updated, we need to show that
             });
         });
     });
