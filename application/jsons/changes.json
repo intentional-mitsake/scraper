@@ -796,5 +796,160 @@
         "num_removed": 0,
         "tot_changes": 38
     }
+},
+{"Date": "2025-11-21 07:53:32.064186"},
+{
+    "classics": {
+        "num_old": 63,
+        "num_new": 62,
+        "added": [
+            "Sense and Sensibility",
+            "The Fellowship of the Ring",
+            "Macbeth"
+        ],
+        "removed": [
+            "The Penguin Book of Indian Rai",
+            "Lord Jim / Victory (2 Books in 1)",
+            "Cold Mountain",
+            "PG Wodehouse The Gold Bat and other Stories"
+        ],
+        "num_added": 3,
+        "num_removed": 4,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 411,
+        "num_new": 415,
+        "added": [
+            "Star Wars Visual Encyclopedia",
+            "The Fellowship of the Ring",
+            "Six of Crows",
+            "The Burning White",
+            "The Rise of the Dragon",
+            "Midnight Sun",
+            "Klara and the Sun",
+            "Circe",
+            "Pok\u00e9mon: Sun & Moon, Vol. 3",
+            "Darien",
+            "Words of Radiance"
+        ],
+        "removed": [
+            "The Last Wish",
+            "The Hunger Games",
+            "A Desolation Called Peace",
+            "The witcher sword of Destiny",
+            "Rainbow Magic: Heather the Violet Fairy",
+            "A Memory Called Empire"
+        ],
+        "num_added": 11,
+        "num_removed": 6,
+        "tot_changes": 4
+    },
+    "science-fiction": {
+        "num_old": 143,
+        "num_new": 143,
+        "added": [
+            "The Burning White",
+            "Klara and the Sun",
+            "Adulthood Rites",
+            "Star Wars Visual Encyclopedia",
+            "Darien"
+        ],
+        "removed": [
+            "A Desolation Called Peace",
+            "The Fallen",
+            "The End",
+            "The Fear",
+            "A Memory Called Empire"
+        ],
+        "num_added": 5,
+        "num_removed": 5,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 519,
+        "num_new": 522,
+        "added": [
+            "DOGS OF WAR",
+            "Body Double",
+            "The Girl with the Dragon Tattoo",
+            "The Collectors",
+            "The Sound of Thunder"
+        ],
+        "removed": [
+            "Puzzle for the Secret Seven",
+            "The Mountain of Adventure",
+            "The Confession",
+            "The Rule of Four",
+            "The Woods",
+            "lair",
+            "Acceptable risk",
+            "The Mystery of the Strange Messages",
+            "Well Done, Secret Seven"
+        ],
+        "num_added": 5,
+        "num_removed": 9,
+        "tot_changes": 3
+    },
+    "historical-fiction": {
+        "num_old": 217,
+        "num_new": 226,
+        "added": [
+            "The Hammer of Eden",
+            "The Evening and the Morning",
+            "The Bastard of Istanbul",
+            "Shuggie Bain",
+            "The Sun Sister: the Seven Sisters Book 6",
+            "Bring Up the Bodies",
+            "The Mauritius Command",
+            "Darien"
+        ],
+        "removed": [
+            "The Rule of Four",
+            "Race to the Frozen North"
+        ],
+        "num_added": 8,
+        "num_removed": 2,
+        "tot_changes": 9
+    },
+    "contemporary": {
+        "num_old": 171,
+        "num_new": 175,
+        "added": [
+            "Twisted Lies",
+            "Twisted Hate",
+            "Magnolia Parks: the Long Way Home",
+            "Klara and the Sun",
+            "The Girl with the Dragon Tattoo",
+            "Twisted Love"
+        ],
+        "removed": [
+            "Nazi Literature in the Americas",
+            "Tuff",
+            "It's Not Me, It's You"
+        ],
+        "num_added": 6,
+        "num_removed": 3,
+        "tot_changes": 4
+    },
+    "history": {
+        "num_old": 81,
+        "num_new": 83,
+        "added": [
+            "Britannica All New Children's Encyclopedia",
+            "Battles Map By Map By Peter Snow & DK",
+            "The Planets",
+            "World War II Map by Map",
+            "History of the World Map by Map"
+        ],
+        "removed": [
+            "Cold Mountain",
+            "Listening to Grass-hoppers",
+            "The Great Divide"
+        ],
+        "num_added": 5,
+        "num_removed": 3,
+        "tot_changes": 2
+    }
 }
 ]
