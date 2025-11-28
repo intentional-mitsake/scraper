@@ -951,5 +951,228 @@
         "num_removed": 3,
         "tot_changes": 2
     }
+},
+{"Date": "2025-11-28 14:14:58.836378"},
+{
+    "classics": {
+        "num_old": 62,
+        "num_new": 68,
+        "added": [
+            "Emil's Clever Pig",
+            "Beowulf: a Translation and Commentary, Together with Sellic Spell",
+            "The Fall of Arthur",
+            "Malory Towers: 12: Goodbye",
+            "Sir Gawain and the Green Knight",
+            "Unfinished Tales of N\u00famenor and Middle-earth",
+            "The Winter Baby"
+        ],
+        "removed": [
+            "The lover"
+        ],
+        "num_added": 7,
+        "num_removed": 1,
+        "tot_changes": 6
+    },
+    "fantasy": {
+        "num_old": 415,
+        "num_new": 429,
+        "added": [
+            "Rage and Ruin",
+            "The Blinding Knife",
+            "Grace and Glory",
+            "A Ring of Endless Light",
+            "Warriors: Power of Three #1: The Sight",
+            "Furyborn",
+            "Utopia Avenue",
+            "Unfinished Tales of N\u00famenor and Middle-earth",
+            "The Edge Chronicles 8: Vox",
+            "The Young Unicorns",
+            "The Wicked Deep",
+            "The Lie Tree",
+            "Zoe's Rescue Zoo: the Silky Seal Pup",
+            "A Memory Called Empire",
+            "Uhtred's Feast",
+            "The Eager Elephant",
+            "The Snake Who Came to Stay",
+            "The Moon by Night",
+            "Beowulf: a Translation and Commentary, Together with Sellic Spell",
+            "The Sword of Shannara",
+            "The Crossing of Ingo",
+            "Beautiful Creatures",
+            "Percy Jackson and the Greek Gods",
+            "A Twist of Tales",
+            "Ghost Story",
+            "Lover Revealed",
+            "Sir Gawain and the Green Knight",
+            "Lightning Girl 4",
+            "The House of Hades (Heroes of Olympus Book 4)",
+            "A Grimm Warning",
+            "The Fall of Arthur",
+            "The Ladies of Grace Adieu"
+        ],
+        "removed": [
+            "House of Sky and Breath",
+            "Haunted Castle on Hallows Eve",
+            "Six of Crows",
+            "Smoke and Mirrors",
+            "The Blood Mirror",
+            "Words of Radiance",
+            "Klara and the Sun",
+            "The Gold Thief",
+            "The Burning White",
+            "Blood Canticle",
+            "Dance of Thieves",
+            "The Black Prism: Book 1 of Lightbringer",
+            "The Fairground Ghost",
+            "Gild",
+            "Everlasting",
+            "Glint",
+            "When Did You See Her Last?",
+            "The Light of All That Falls"
+        ],
+        "num_added": 32,
+        "num_removed": 18,
+        "tot_changes": 14
+    },
+    "science-fiction": {
+        "num_old": 143,
+        "num_new": 144,
+        "added": [
+            "A Memory Called Empire",
+            "The Blinding Knife",
+            "The Sword of Shannara",
+            "Bird Box"
+        ],
+        "removed": [
+            "Smoke and Mirrors",
+            "The Burning White",
+            "Klara and the Sun"
+        ],
+        "num_added": 4,
+        "num_removed": 3,
+        "tot_changes": 1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 522,
+        "num_new": 536,
+        "added": [
+            "The Last Precinct",
+            "Freeze Frame",
+            "Blood and Treachery",
+            "The Angel Tree",
+            "Boy, Missing: World Book Day 2022",
+            "The Young Unicorns",
+            "The Hotel Avocado",
+            "The Cobra",
+            "Bird Box",
+            "Thicker Than Water",
+            "Troubling a Star #5",
+            "Blacklight Blue",
+            "Ghost Story",
+            "The Mystery of the Strange Messages",
+            "Blowback",
+            "Dark Room",
+            "Melt",
+            "The Last Bloody Straw",
+            "Extraordinary People",
+            "3rd Degree",
+            "A Whisper of Sorrows",
+            "Cast Iron"
+        ],
+        "removed": [
+            "The Doomsday Conspiracy",
+            "DOGS OF WAR",
+            "Disclosure",
+            "The Sound of Thunder",
+            "The Rainmaker",
+            "the phantom of manhattan",
+            "The Affair"
+        ],
+        "num_added": 22,
+        "num_removed": 7,
+        "tot_changes": 14
+    },
+    "historical-fiction": {
+        "num_old": 226,
+        "num_new": 231,
+        "added": [
+            "A Fine Balance",
+            "After the War",
+            "The Lie Tree",
+            "The Angel Tree",
+            "The Fall of Arthur",
+            "The Ladies of Grace Adieu",
+            "The Last Hours in Paris",
+            "Utopia Avenue",
+            "Arctic Star",
+            "The Winter Baby",
+            "The Servant Girl",
+            "Uhtred's Feast"
+        ],
+        "removed": [
+            "Small Things Like These",
+            "Bring Up the Bodies",
+            "Perfectly Correct",
+            "A singular hostage",
+            "The Sun Sister: the Seven Sisters Book 6",
+            "Shuggie Bain",
+            "the phantom of manhattan"
+        ],
+        "num_added": 12,
+        "num_removed": 7,
+        "tot_changes": 5
+    },
+    "contemporary": {
+        "num_old": 175,
+        "num_new": 176,
+        "added": [
+            "Boy Underwater",
+            "It Ends With Us",
+            "The Lonely Hearts Lido Club",
+            "Sinner",
+            "Everything, Everything",
+            "Saint",
+            "The Midnight Gang",
+            "The Hotel Avocado",
+            "Melt",
+            "The Grooms Wore White"
+        ],
+        "removed": [
+            "Still Beating",
+            "About a Boy",
+            "Klara and the Sun",
+            "Perfectly Correct",
+            "Twisted Lies",
+            "Glitter",
+            "Good Grief",
+            "26a",
+            "Sex/life"
+        ],
+        "num_added": 10,
+        "num_removed": 9,
+        "tot_changes": 1
+    },
+    "history": {
+        "num_old": 83,
+        "num_new": 81,
+        "added": [
+            "Henry V",
+            "The Undoing Project",
+            "Chip War",
+            "Red Plenty"
+        ],
+        "removed": [
+            "A Book of India",
+            "A Brief History of the Third Reich",
+            "The Lives We Have Lost",
+            "No Full Stops in India",
+            "Britannica All New Children's Encyclopedia",
+            "History of the World Map by Map",
+            "The Planets"
+        ],
+        "num_added": 4,
+        "num_removed": 7,
+        "tot_changes": -2
+    }
 }
 ]
