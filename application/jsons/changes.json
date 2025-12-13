@@ -1317,5 +1317,110 @@
         "num_removed": 4,
         "tot_changes": -3
     }
+},
+{"Date": "2025-12-13 13:50:40.493766"},
+{
+    "classics": {
+        "num_old": 64,
+        "num_new": 56,
+        "added": [],
+        "removed": [
+            "Beowulf: a Translation and Commentary, Together with Sellic Spell",
+            "Romeo and Juliet",
+            "Macbeth",
+            "The Winter Baby",
+            "Peter Pan",
+            "Pride and Prejudice",
+            "Alice's Adventures in Wonderland",
+            "Sense and Sensibility"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -8
+    },
+    "fantasy": {
+        "num_old": 421,
+        "num_new": 419,
+        "added": [],
+        "removed": [
+            "Oathbringer Part Two",
+            "Beowulf: a Translation and Commentary, Together with Sellic Spell"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "science-fiction": {
+        "num_old": 139,
+        "num_new": 139,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 537,
+        "num_new": 531,
+        "added": [],
+        "removed": [
+            "The Litigators",
+            "Victims",
+            "Intervention",
+            "Criss Cross"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -6
+    },
+    "historical-fiction": {
+        "num_old": 228,
+        "num_new": 224,
+        "added": [
+            "The Pearl That Broke Its Shell"
+        ],
+        "removed": [
+            "The Servant Girl",
+            "The Gift of Rain",
+            "The Winter Baby",
+            "The Bastard of Istanbul",
+            "The Bridgertons: Happily Ever After"
+        ],
+        "num_added": 1,
+        "num_removed": 5,
+        "tot_changes": -4
+    },
+    "contemporary": {
+        "num_old": 174,
+        "num_new": 170,
+        "added": [
+            "The Pearl That Broke Its Shell"
+        ],
+        "removed": [
+            "Zelda's Cut",
+            "Twisted Hate",
+            "Saint",
+            "The Finish Line: Ravenhood Book 3",
+            "Americanah"
+        ],
+        "num_added": 1,
+        "num_removed": 5,
+        "tot_changes": -4
+    },
+    "history": {
+        "num_old": 78,
+        "num_new": 72,
+        "added": [],
+        "removed": [
+            "May You be the Mother of a Hundred sons",
+            "The Age of Empire",
+            "Zelda's Cut",
+            "Henry V",
+            "The Present"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -6
+    }
 }
 ]
