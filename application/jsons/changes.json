@@ -1422,5 +1422,105 @@
         "num_removed": 5,
         "tot_changes": -6
     }
+},
+{"Date": "2025-12-14 15:30:59.970092"},
+{
+    "classics": {
+        "num_old": 56,
+        "num_new": 54,
+        "added": [],
+        "removed": [
+            "Life of Pi (Hindi)",
+            "I, Robot"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "fantasy": {
+        "num_old": 419,
+        "num_new": 409,
+        "added": [],
+        "removed": [
+            "Odd Hours",
+            "Life of Pi (Hindi)",
+            "I, Robot",
+            "Sword of Destiny",
+            "Harry Potter and the Prisoner of Azkaban Illustrated Edition",
+            "Odd Thomas",
+            "The Subtle Knife",
+            "Deeply Odd",
+            "Emily Windsnap and the Land of the Midnight Sun"
+        ],
+        "num_added": 0,
+        "num_removed": 9,
+        "tot_changes": -10
+    },
+    "science-fiction": {
+        "num_old": 139,
+        "num_new": 138,
+        "added": [],
+        "removed": [
+            "I, Robot"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 531,
+        "num_new": 526,
+        "added": [],
+        "removed": [
+            "The Swiss Spy",
+            "Deeply Odd",
+            "I Know a Secret"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -5
+    },
+    "historical-fiction": {
+        "num_old": 224,
+        "num_new": 218,
+        "added": [],
+        "removed": [
+            "A Fine Balance",
+            "Sharpe's Company",
+            "Sharpe's Fury",
+            "Sharpe's Assassin (the Sharpe Series, Book 21)",
+            "Sharpe's Christmas",
+            "The Swiss Spy"
+        ],
+        "num_added": 0,
+        "num_removed": 6,
+        "tot_changes": -6
+    },
+    "contemporary": {
+        "num_old": 170,
+        "num_new": 168,
+        "added": [],
+        "removed": [
+            "Everything, Everything",
+            "The Mistake"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "history": {
+        "num_old": 72,
+        "num_new": 68,
+        "added": [],
+        "removed": [
+            "Red Plenty",
+            "Arnhem: Black Tuesday",
+            "The Undoing Project",
+            "Spitfire"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -4
+    }
 }
 ]
