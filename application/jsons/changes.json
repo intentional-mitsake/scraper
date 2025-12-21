@@ -1595,5 +1595,199 @@
         "num_removed": 0,
         "tot_changes": 0
     }
+},
+{"Date": "2025-12-21 17:41:52.458093"},
+{
+    "classics": {
+        "num_old": 54,
+        "num_new": 56,
+        "added": [
+            "Boy",
+            "The Two Towers (the Lord of the Rings, Book 2)"
+        ],
+        "removed": [
+            "Unfinished Tales of N\u00famenor and Middle-earth"
+        ],
+        "num_added": 2,
+        "num_removed": 1,
+        "tot_changes": 2
+    },
+    "fantasy": {
+        "num_old": 407,
+        "num_new": 422,
+        "added": [
+            "Lady Midnight",
+            "The Sun and Its Shade",
+            "The Dark Is Rising Sequence: Silver on the Tree",
+            "The Mysterious Benedict Society and the Perilous Journey (2020 Reissue)",
+            "The Mad Ship",
+            "The Raven King",
+            "Assassin's Creed the Renaissance Codex Book 1",
+            "Lord of Shadows",
+            "Defy Me",
+            "Fantastic Mr Fox",
+            "Desert God",
+            "Unravel me",
+            "The Mysterious Benedict Society and the Riddle of the Ages",
+            "The Subtle Knife",
+            "The Two Towers (the Lord of the Rings, Book 2)",
+            "Spinning Silver",
+            "Ignite Me",
+            "Restore Me",
+            "The Ladies of Grace Adieu",
+            "Demon Dentist",
+            "Going Solo",
+            "The Witches",
+            "The Merciless Ones",
+            "Unite Me",
+            "Shatter me",
+            "Ship of Magic",
+            "Greenwitch",
+            "The Mysterious Benedict Society and the Prisoner's Dilemma",
+            "Glass Sword",
+            "Fourth Wing"
+        ],
+        "removed": [
+            "Dust of Dreams",
+            "Dead until dark",
+            "After the Fall",
+            "The Lion, the Witch and the Wardrobe",
+            "Unfinished Tales of N\u00famenor and Middle-earth",
+            "Assassin's Creed the Secret Crusade Book 3",
+            "Clockwork Angel",
+            "The Crippled God",
+            "The Hunger Games",
+            "A Ring of Endless Light",
+            "Grace the Glitter Fairy",
+            "Forsaken",
+            "The Magician's Nephew",
+            "Furyborn"
+        ],
+        "num_added": 30,
+        "num_removed": 14,
+        "tot_changes": 15
+    },
+    "science-fiction": {
+        "num_old": 137,
+        "num_new": 145,
+        "added": [
+            "Restore Me",
+            "Ignite Me",
+            "Defy Me",
+            "Unite Me",
+            "The End",
+            "Unravel me",
+            "Shatter me",
+            "The Fallen",
+            "The Fear",
+            "The Two Towers (the Lord of the Rings, Book 2)"
+        ],
+        "removed": [
+            "After the Fall",
+            "So Long, and Thanks for All the Fish: Hitchhiker's Guide to the Galaxy Book 4",
+            "Assassin's Creed the Secret Crusade Book 3"
+        ],
+        "num_added": 10,
+        "num_removed": 3,
+        "tot_changes": 8
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 525,
+        "num_new": 525,
+        "added": [
+            "Well Done, Secret Seven",
+            "The Day of the Jackal",
+            "Desert God",
+            "Dexter Down Under",
+            "Avenger",
+            "The Mysterious Benedict Society and the Perilous Journey (2020 Reissue)",
+            "The Mysterious Benedict Society and the Riddle of the Ages",
+            "The Kill List",
+            "Stone Cold",
+            "Heat Wave",
+            "The Lost Hours"
+        ],
+        "removed": [
+            "Hunter Killer",
+            "Your Heart belongs to me",
+            "The Hotel Avocado",
+            "The Killing Place",
+            "Under the Banner of Heaven",
+            "Thicker Than Water",
+            "Once Upon a Crime",
+            "The Lonely Sea"
+        ],
+        "num_added": 11,
+        "num_removed": 8,
+        "tot_changes": 0
+    },
+    "historical-fiction": {
+        "num_old": 218,
+        "num_new": 227,
+        "added": [
+            "The Ladies of Grace Adieu",
+            "Wolf Hall",
+            "Frederica",
+            "The Day of the Jackal",
+            "The Bridgertons: Happily Ever After",
+            "Desert God",
+            "Sharpe's Christmas",
+            "War Child",
+            "Spinners Lake - Ssa",
+            "Winter of the World",
+            "Assassin's Creed the Renaissance Codex Book 1"
+        ],
+        "removed": [
+            "Sharpe's Regiment",
+            "The Last Hours in Paris",
+            "Sharpe's Siege",
+            "Assassin's Creed the Secret Crusade Book 3",
+            "Once Upon a Crime"
+        ],
+        "num_added": 11,
+        "num_removed": 5,
+        "tot_changes": 9
+    },
+    "contemporary": {
+        "num_old": 167,
+        "num_new": 169,
+        "added": [
+            "Bad Dad",
+            "Wolf Hall",
+            "Grandpa's Great Escape",
+            "An American Marriage",
+            "Wild Eyes",
+            "The Mistake",
+            "A Not So Meet Cute"
+        ],
+        "removed": [
+            "P. S. I Still Love You",
+            "The Hotel Avocado",
+            "Solitaire",
+            "The Girl who Saved the King of Sweden",
+            "Loveless"
+        ],
+        "num_added": 7,
+        "num_removed": 5,
+        "tot_changes": 2
+    },
+    "history": {
+        "num_old": 68,
+        "num_new": 71,
+        "added": [
+            "The Mirror and the Light",
+            "Say Nothing",
+            "May You be the Mother of a Hundred sons",
+            "From Here to Eternity: Travelling the World to Find the Good Death",
+            "American Prometheus"
+        ],
+        "removed": [
+            "1984, The anti-sikh violence and after",
+            "Under the Banner of Heaven"
+        ],
+        "num_added": 5,
+        "num_removed": 2,
+        "tot_changes": 3
+    }
 }
 ]
