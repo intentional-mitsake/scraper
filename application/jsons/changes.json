@@ -2060,5 +2060,140 @@
         "num_removed": 8,
         "tot_changes": -8
     }
+},
+{"Date": "2025-12-23 18:15:48.730220"},
+{
+    "classics": {
+        "num_old": 49,
+        "num_new": 48,
+        "added": [],
+        "removed": [
+            "The Great Fortune"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 362,
+        "num_new": 352,
+        "added": [
+            "The Black Elfstone",
+            "Shorefall"
+        ],
+        "removed": [
+            "Lover Awakened",
+            "Club Dead",
+            "Betrayed",
+            "The Edge Chronicles 8: Vox",
+            "Evolution",
+            "Frost Burned",
+            "Warriors: A Vision of Shadows #5: River of Fire",
+            "The Ambassador's Mission",
+            "The Mortal Instruments 6",
+            "Gleam",
+            "Mattimeo",
+            "Excession"
+        ],
+        "num_added": 2,
+        "num_removed": 12,
+        "tot_changes": -10
+    },
+    "science-fiction": {
+        "num_old": 121,
+        "num_new": 119,
+        "added": [
+            "The Black Elfstone",
+            "Shorefall"
+        ],
+        "removed": [
+            "Excession",
+            "Evolution",
+            "Brain",
+            "Stark's Crusade"
+        ],
+        "num_added": 2,
+        "num_removed": 4,
+        "tot_changes": -2
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 466,
+        "num_new": 442,
+        "added": [],
+        "removed": [
+            "Deadfall",
+            "Toxin",
+            "The Scarpetta Factor",
+            "Diamond",
+            "Blow Fly",
+            "The Cry of the Halidon",
+            "The Janson Option",
+            "Red Bones",
+            "The Scarlatti Inheritance",
+            "Valhalla Rising",
+            "The Girl Who Played with Fire",
+            "The Lola Quartet",
+            "The Pandemic Plot (Ben Hope, Book 23)",
+            "Three Things about Elsie",
+            "Odessa Sea",
+            "The Fear",
+            "Brain",
+            "Deadly Election",
+            "Freeze Frame",
+            "Stasi Child"
+        ],
+        "num_added": 0,
+        "num_removed": 20,
+        "tot_changes": -24
+    },
+    "historical-fiction": {
+        "num_old": 197,
+        "num_new": 189,
+        "added": [],
+        "removed": [
+            "Odessa Sea",
+            "Only Love Can Heal",
+            "Pengarron Pride",
+            "Fingersmith",
+            "Valhalla Rising",
+            "The Great Fortune",
+            "Stolen Moments",
+            "Stasi Child"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -8
+    },
+    "contemporary": {
+        "num_old": 144,
+        "num_new": 135,
+        "added": [],
+        "removed": [
+            "Three Things about Elsie",
+            "Alentejo Blue",
+            "The Almost Moon",
+            "Red Lily",
+            "The Girl Who Played with Fire",
+            "The Lola Quartet",
+            "The Pagan Stone",
+            "This Day",
+            "The Fear"
+        ],
+        "num_added": 0,
+        "num_removed": 9,
+        "tot_changes": -9
+    },
+    "history": {
+        "num_old": 63,
+        "num_new": 61,
+        "added": [],
+        "removed": [
+            "Sky Train",
+            "Tornado"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    }
 }
 ]

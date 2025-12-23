@@ -28,6 +28,7 @@ def scrape_and_compare():
     Succes = scrape_books()
     compare_and_update()
     return jsonify({"status": "Success", "message": "Scraping and comparison completed."})
+    
 
 if __name__ == '__main__':
     # run the Flask app
