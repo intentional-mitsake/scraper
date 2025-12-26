@@ -2583,5 +2583,213 @@
         "num_removed": 0,
         "tot_changes": 14
     }
+},
+{"Date": "2025-12-26 19:54:35.668272"},
+{
+    "classics": {
+        "num_old": 57,
+        "num_new": 53,
+        "added": [
+            "On the Banks of Plum Creek"
+        ],
+        "removed": [
+            "Patna Roughcut",
+            "the virgin and the gipsy & other stories",
+            "Boyhood Days",
+            "The Gamekeeper",
+            "Setting Free the Bears"
+        ],
+        "num_added": 1,
+        "num_removed": 5,
+        "tot_changes": -4
+    },
+    "fantasy": {
+        "num_old": 446,
+        "num_new": 430,
+        "added": [
+            "Deeply Odd",
+            "Odd Thomas",
+            "The Rats - Special Sales",
+            "Dead Reckoning",
+            "Odd Hours"
+        ],
+        "removed": [
+            "Time's Convert",
+            "Midnight Bayou",
+            "A Wind in the Door",
+            "Return to Zero",
+            "Throne of Jade",
+            "Rainbow Grey",
+            "Tunnels of Blood",
+            "The Snake Who Came to Stay",
+            "fIGHTING fantasy",
+            "Angels' Blood",
+            "Night of the Necromancer",
+            "Lord Sunday (The Keys to the Kingdom #7)",
+            "Radiant Sin",
+            "Beautiful Creatures",
+            "BLOODBONES",
+            "Krondor",
+            "Eye of the Dragon",
+            "Angels Fall",
+            "Dead and Gone",
+            "City of Thieves"
+        ],
+        "num_added": 5,
+        "num_removed": 20,
+        "tot_changes": -16
+    },
+    "science-fiction": {
+        "num_old": 157,
+        "num_new": 149,
+        "added": [
+            "The Rats - Special Sales"
+        ],
+        "removed": [
+            "BLOODBONES",
+            "J",
+            "Doctor Who: The Witchfinders (Target Collection)",
+            "Area 7",
+            "Deception",
+            "A Wind in the Door",
+            "Mockingjay",
+            "Return to Zero"
+        ],
+        "num_added": 1,
+        "num_removed": 8,
+        "tot_changes": -8
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 537,
+        "num_new": 489,
+        "added": [
+            "Deeply Odd",
+            "The Rats - Special Sales"
+        ],
+        "removed": [
+            "Bitter Edge",
+            "Mindbend",
+            "The Bourne Dominion",
+            "Frozen Heat",
+            "Skinner's Festival",
+            "Death Undercover",
+            "Jackdaws",
+            "The Eleventh Commandment",
+            "Line of Control",
+            "monster",
+            "The Utopia Experiment",
+            "Our Holiday",
+            "Area 7",
+            "Cover Of Night",
+            "The Luminaris Eleanor Catton",
+            "The Flood",
+            "The Chancellor Manuscript",
+            "Honeymoon",
+            "London Bridges",
+            "Dragon Fire",
+            "Praying for Sleep",
+            "Rewind",
+            "Hannibal Rising",
+            "Afraid",
+            "Dark Homecoming",
+            "The miracle",
+            "Last to Die",
+            "Carolina Moon",
+            "The Dark of the Sun",
+            "3rd Degree",
+            "The Holcroft Covenant",
+            "The Janus Reprisal",
+            "The Island of Adventure",
+            "The Guest of Honor",
+            "Driving Heat",
+            "Hugger Mugger",
+            "Cast Iron",
+            "Broke",
+            "Cross Her Heart",
+            "Rising Tides",
+            "Candyland",
+            "I'd Tell You I Love You, But Then I'd Have to Kill You"
+        ],
+        "num_added": 2,
+        "num_removed": 42,
+        "tot_changes": -48
+    },
+    "historical-fiction": {
+        "num_old": 227,
+        "num_new": 212,
+        "added": [
+            "On the Banks of Plum Creek"
+        ],
+        "removed": [
+            "Fingersmith",
+            "The Dark of the Sun",
+            "These Old Shades",
+            "The Grand Sophy",
+            "Wish You Well",
+            "A game of soldiers",
+            "His Brother's Wife",
+            "Doctor Who: The Witchfinders (Target Collection)",
+            "A Whisper of Life",
+            "Time's Convert",
+            "The Infinite Plan",
+            "Jackdaws",
+            "Courage for the Cornish Girls",
+            "The Last River",
+            "Throne of Jade"
+        ],
+        "num_added": 1,
+        "num_removed": 15,
+        "tot_changes": -15
+    },
+    "contemporary": {
+        "num_old": 176,
+        "num_new": 152,
+        "added": [
+            "Half Girlfriend"
+        ],
+        "removed": [
+            "Little Darlings",
+            "The Mistake",
+            "Arranged Love",
+            "Midnight Bayou",
+            "Best Friends Forever (So Little Time #12)",
+            "Searching for Someday",
+            "Honest Illusions",
+            "J",
+            "Cover Of Night",
+            "Home Boy",
+            "the heckler and see them die",
+            "Carolina Moon",
+            "Drops of Being",
+            "Mirror Lake",
+            "Heartless",
+            "Foals in the Field",
+            "Driving Heat",
+            "Dangerous Kiss",
+            "Setting Free the Bears"
+        ],
+        "num_added": 1,
+        "num_removed": 19,
+        "tot_changes": -24
+    },
+    "history": {
+        "num_old": 75,
+        "num_new": 66,
+        "added": [],
+        "removed": [
+            "Something Wonderful",
+            "The Jesuit in India",
+            "Quest for Kim: In Search of Kipling's Great Game",
+            "The Pirate's Love",
+            "joining",
+            "The Luminaris Eleanor Catton",
+            "Tyrant",
+            "Letters from Kargil",
+            "The Last River"
+        ],
+        "num_added": 0,
+        "num_removed": 9,
+        "tot_changes": -9
+    }
 }
 ]
