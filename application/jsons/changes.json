@@ -2791,5 +2791,160 @@
         "num_removed": 9,
         "tot_changes": -9
     }
+},
+{"Date": "2025-12-28 13:05:43.913722"},
+{
+    "classics": {
+        "num_old": 53,
+        "num_new": 53,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 430,
+        "num_new": 435,
+        "added": [
+            "Dead to the world",
+            "Beautiful Creatures",
+            "Midnight Bayou",
+            "Return to Zero",
+            "Krondor",
+            "Radiant Sin",
+            "Rainbow Grey",
+            "Angels' Blood",
+            "Throne of Jade",
+            "A Wind in the Door"
+        ],
+        "removed": [
+            "Artemis Fowl and the Opal Deception",
+            "The Ballad of Songbirds and Snakes",
+            "Moonrise"
+        ],
+        "num_added": 10,
+        "num_removed": 3,
+        "tot_changes": 5
+    },
+    "science-fiction": {
+        "num_old": 149,
+        "num_new": 150,
+        "added": [
+            "A Wind in the Door",
+            "Deception",
+            "J",
+            "Return to Zero"
+        ],
+        "removed": [
+            "The Ballad of Songbirds and Snakes",
+            "Bird Box",
+            "Artemis Fowl and the Opal Deception"
+        ],
+        "num_added": 4,
+        "num_removed": 3,
+        "tot_changes": 1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 489,
+        "num_new": 514,
+        "added": [
+            "White Nights: the Shetland Series 2",
+            "The Flood",
+            "Hannibal Rising",
+            "Driving Heat",
+            "Jackdaws",
+            "London Bridges",
+            "The Eleventh Commandment",
+            "Line of Control",
+            "Cross Her Heart",
+            "I'd Tell You I Love You, But Then I'd Have to Kill You",
+            "Rewind",
+            "monster",
+            "The Dark of the Sun",
+            "Dragon Fire",
+            "Last to Die",
+            "Cover Of Night",
+            "Afraid",
+            "Hugger Mugger",
+            "The Holcroft Covenant",
+            "The Utopia Experiment",
+            "Bitter Edge",
+            "Death Undercover",
+            "Carolina Moon",
+            "Frozen Heat",
+            "Cast Iron",
+            "The Guest of Honor",
+            "The Island of Adventure"
+        ],
+        "removed": [
+            "The Day of the Jackal",
+            "The Kill List",
+            "The Cobra",
+            "Bird Box",
+            "Macbeth",
+            "The Odessa File"
+        ],
+        "num_added": 27,
+        "num_removed": 6,
+        "tot_changes": 25
+    },
+    "historical-fiction": {
+        "num_old": 212,
+        "num_new": 214,
+        "added": [
+            "His Brother's Wife",
+            "Jackdaws",
+            "The Dark of the Sun",
+            "Throne of Jade",
+            "The Infinite Plan"
+        ],
+        "removed": [
+            "The Trader's Sister",
+            "The Day of the Jackal",
+            "Spinners Lake - Ssa",
+            "The Odessa File"
+        ],
+        "num_added": 5,
+        "num_removed": 4,
+        "tot_changes": 2
+    },
+    "contemporary": {
+        "num_old": 152,
+        "num_new": 163,
+        "added": [
+            "Driving Heat",
+            "Midnight Bayou",
+            "Honest Illusions",
+            "J",
+            "Mirror Lake",
+            "Carolina Moon",
+            "Arranged Love",
+            "Little Darlings",
+            "Cover Of Night"
+        ],
+        "removed": [
+            "Loveless",
+            "Solitaire"
+        ],
+        "num_added": 9,
+        "num_removed": 2,
+        "tot_changes": 11
+    },
+    "history": {
+        "num_old": 66,
+        "num_new": 64,
+        "added": [
+            "joining"
+        ],
+        "removed": [
+            "The Spider Network",
+            "Byculla to Bangkok",
+            "India"
+        ],
+        "num_added": 1,
+        "num_removed": 3,
+        "tot_changes": -2
+    }
 }
 ]
