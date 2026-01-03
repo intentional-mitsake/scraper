@@ -3209,5 +3209,193 @@
         "num_removed": 5,
         "tot_changes": 1
     }
+},
+{"Date": "2026-01-03 17:48:41.424038"},
+{
+    "classics": {
+        "num_old": 50,
+        "num_new": 52,
+        "added": [
+            "Twelfth Night",
+            "Jane Eyre",
+            "Romeo and Juliet",
+            "Wicked"
+        ],
+        "removed": [
+            "Boy",
+            "twelfth night",
+            "kama sutra"
+        ],
+        "num_added": 4,
+        "num_removed": 3,
+        "tot_changes": 2
+    },
+    "fantasy": {
+        "num_old": 429,
+        "num_new": 431,
+        "added": [
+            "Son of a Witch",
+            "The Dark is Rising sequence :The Dark Is Rising",
+            "Ignite Me",
+            "Empire of the Damned",
+            "Bridge of Souls",
+            "The Bane Chronicles",
+            "The Dark is Rising sequence :Over Sea, Under Stone",
+            "The Beast and the Bethany",
+            "Ghosts of the Shadow Market",
+            "The Medusa Project: the Set-Up",
+            "The Clockwork Crow",
+            "Star Wars: Heir to the Empire",
+            "A Lion Among Men",
+            "Noughts and Crosses",
+            "Wicked",
+            "The Galaxy, and the Ground Within"
+        ],
+        "removed": [
+            "Heaven and Earth",
+            "Chain of Thorns",
+            "Witches Abroad",
+            "Uhtred's Feast",
+            "The 117-Storey Treehouse",
+            "The Lost Hero",
+            "The Blood of Olympus",
+            "Running the Risk #2",
+            "The Son of Neptune",
+            "Gods & Monsters",
+            "Annihilation",
+            "The Witches"
+        ],
+        "num_added": 16,
+        "num_removed": 12,
+        "tot_changes": 2
+    },
+    "science-fiction": {
+        "num_old": 148,
+        "num_new": 150,
+        "added": [
+            "Ignite Me",
+            "Dr. STONE, Vol. 22",
+            "The Medusa Project: the Set-Up",
+            "Star Wars: Heir to the Empire",
+            "A Lion Among Men",
+            "The Galaxy, and the Ground Within"
+        ],
+        "removed": [
+            "Unsouled",
+            "Annihilation",
+            "Witches Abroad",
+            "Time of Contempt"
+        ],
+        "num_added": 6,
+        "num_removed": 4,
+        "tot_changes": 2
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 525,
+        "num_new": 523,
+        "added": [
+            "Mud, Muck and Dead Things",
+            "Let's Split Up",
+            "To Die But Once",
+            "Death of a Nurse",
+            "Crashing Heat",
+            "The Medusa Project: the Set-Up",
+            "Dead in the Water",
+            "Heat Storm",
+            "Elegy for Eddie",
+            "The Fifth to Die",
+            "High Heat",
+            "Rack, Ruin and Murder",
+            "Martyr"
+        ],
+        "removed": [
+            "Grave Secrets",
+            "Red Mist",
+            "Die Again - Book 11 - Rizzoli and Isles",
+            "The Accused",
+            "god is a bullet",
+            "The Bandit Queens",
+            "The Box in the Woods",
+            "The Island of Adventure",
+            "Fatal Pursuit",
+            "Shroud for a Nightingale",
+            "Carolina Moon",
+            "I'd Tell You I Love You, But Then I'd Have to Kill You"
+        ],
+        "num_added": 13,
+        "num_removed": 12,
+        "tot_changes": -2
+    },
+    "historical-fiction": {
+        "num_old": 224,
+        "num_new": 227,
+        "added": [
+            "The American Agent",
+            "Elegy for Eddie",
+            "Sharpe's Gold",
+            "Kensuke's Kingdom",
+            "By the Shores of Silver Lake",
+            "The Clockwork Crow",
+            "The Last Summer",
+            "To Die But Once",
+            "Martyr"
+        ],
+        "removed": [
+            "Chain of Thorns",
+            "Unfortunately, She Was a Nymphomaniac",
+            "Uhtred's Feast",
+            "The Country Bride (the Village Secrets, Book 3)",
+            "Fatal Pursuit",
+            "Kathy's Courage"
+        ],
+        "num_added": 9,
+        "num_removed": 6,
+        "tot_changes": 3
+    },
+    "contemporary": {
+        "num_old": 168,
+        "num_new": 162,
+        "added": [
+            "Mud, Muck and Dead Things",
+            "Magnolia Parks: Into the Dark",
+            "Daisy Haites",
+            "The Score",
+            "The Poet X",
+            "Crossfire"
+        ],
+        "removed": [
+            "Twisted Games",
+            "Conversations with Friends",
+            "it's a kind of magic",
+            "Don't You Forget About Me",
+            "Mini Shopaholic",
+            "The Box in the Woods",
+            "The World's Worst Children",
+            "Carolina Moon",
+            "The Bandit Queens",
+            "It Ends With Us",
+            "The Almost Moon",
+            "Searching for Someday"
+        ],
+        "num_added": 6,
+        "num_removed": 12,
+        "tot_changes": -6
+    },
+    "history": {
+        "num_old": 65,
+        "num_new": 64,
+        "added": [
+            "Cut-Throat Celts",
+            "Red Notice"
+        ],
+        "removed": [
+            "The First World War",
+            "Will My Cat Eat My Eyeballs?",
+            "Out: How Brexit Got Done and the Tories Were Undone"
+        ],
+        "num_added": 2,
+        "num_removed": 3,
+        "tot_changes": -1
+    }
 }
 ]
