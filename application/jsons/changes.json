@@ -3397,5 +3397,196 @@
         "num_removed": 3,
         "tot_changes": -1
     }
+},
+{"Date": "2026-01-09 16:45:14.576469"},
+{
+    "classics": {
+        "num_old": 52,
+        "num_new": 48,
+        "added": [
+            "The Road to Wigan Pier (Collins Classics)",
+            "Cannery Row",
+            "The Grapes of Wrath"
+        ],
+        "removed": [
+            "Northanger abbey",
+            "The Famous Five #16 Five Go to Billycock Hill",
+            "The Wind in the Willows",
+            "Rilla of Ingleside",
+            "Wicked",
+            "Northanger Abbey"
+        ],
+        "num_added": 3,
+        "num_removed": 6,
+        "tot_changes": -4
+    },
+    "fantasy": {
+        "num_old": 431,
+        "num_new": 445,
+        "added": [
+            "The Lost Hero",
+            "Running the Risk #2",
+            "Crenshaw",
+            "Salem's Lot",
+            "Furyborn",
+            "The Last Wild",
+            "Assassin's Quest",
+            "Red Lily",
+            "The Witch of Portobello",
+            "House of Flame and Shadow",
+            "Doctor Sleep Film Tie-In Export Film Tie-in",
+            "Moving Pictures",
+            "The Light of All That Falls",
+            "The Alchemist",
+            "BRIDA",
+            "Guards! Guards!",
+            "The Son of Neptune",
+            "The Wizards of Once: Never and Forever",
+            "Moominpappa at Sea",
+            "Black House",
+            "Glass Houses",
+            "The Hunger Games"
+        ],
+        "removed": [
+            "Ignite Me",
+            "Son of a Witch",
+            "Panda Panic - Running Wild",
+            "The Wind in the Willows",
+            "Truckers",
+            "The Magician's Elephant",
+            "Wicked",
+            "The Bane Chronicles",
+            "The Red Queen",
+            "Empire of the Damned"
+        ],
+        "num_added": 22,
+        "num_removed": 10,
+        "tot_changes": 14
+    },
+    "science-fiction": {
+        "num_old": 150,
+        "num_new": 151,
+        "added": [
+            "Jedi Academy - The Phantom Bully",
+            "Assassin's Quest"
+        ],
+        "removed": [
+            "Judge Dredd",
+            "Dr. STONE, Vol. 22",
+            "Ignite Me"
+        ],
+        "num_added": 2,
+        "num_removed": 3,
+        "tot_changes": 1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 523,
+        "num_new": 533,
+        "added": [
+            "Murder on the Orient Express",
+            "Doctor Sleep Film Tie-In Export Film Tie-in",
+            "An Evil Mind",
+            "Yellow face",
+            "NYPD Red",
+            "Then She Was Gone",
+            "Black House",
+            "Grave Secrets",
+            "The Hotel Avocado",
+            "Agent 6",
+            "London Rules",
+            "The Distant Hours",
+            "Kill Joy",
+            "The Mountain of Adventure",
+            "The Ship of Adventure"
+        ],
+        "removed": [
+            "The Beautiful Mystery",
+            "Death of a Nurse",
+            "The Society",
+            "The Mao Case",
+            "Martyr",
+            "The Killings at Kingfisher Hill"
+        ],
+        "num_added": 15,
+        "num_removed": 6,
+        "tot_changes": 10
+    },
+    "historical-fiction": {
+        "num_old": 227,
+        "num_new": 231,
+        "added": [
+            "The Good Doctor of Warsaw",
+            "The Grapes of Wrath",
+            "The Fifth Mountain",
+            "Cannery Row",
+            "Agent 6",
+            "The Pearl Sister",
+            "The Distant Hours",
+            "Spinners Lake - Ssa",
+            "Small Things Like These"
+        ],
+        "removed": [
+            "Affinity",
+            "Panda Panic - Running Wild",
+            "Martyr",
+            "By the Shores of Silver Lake",
+            "Anne of Ingleside"
+        ],
+        "num_added": 9,
+        "num_removed": 5,
+        "tot_changes": 4
+    },
+    "contemporary": {
+        "num_old": 162,
+        "num_new": 164,
+        "added": [
+            "Yellow face",
+            "Blue Dahlia",
+            "The Pilgrimage",
+            "American Prince",
+            "The Hotel Avocado",
+            "The Right Move: Windy City Book 2",
+            "It Ends With Us",
+            "Boy Underwater",
+            "Eleven Minutes",
+            "Normal People"
+        ],
+        "removed": [
+            "Last Night",
+            "Daisy Haites",
+            "The Score",
+            "How to Be Single",
+            "Excuse Me While I Ugly Cry",
+            "The Legacy",
+            "Twisted Love",
+            "Twisted Hate",
+            "A Long Time Coming"
+        ],
+        "num_added": 10,
+        "num_removed": 9,
+        "tot_changes": 2
+    },
+    "history": {
+        "num_old": 64,
+        "num_new": 63,
+        "added": [
+            "The Mark of Cain",
+            "The Road to Wigan Pier (Collins Classics)",
+            "A Very Stable Genius",
+            "A Warning",
+            "War"
+        ],
+        "removed": [
+            "Red Notice",
+            "Nostradamus: The Complete Prophecies for the Future",
+            "Cut-Throat Celts",
+            "Lapato Mein New York",
+            "Tudors",
+            "Supernatural"
+        ],
+        "num_added": 5,
+        "num_removed": 6,
+        "tot_changes": -1
+    }
 }
 ]
