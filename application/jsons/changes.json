@@ -3874,5 +3874,244 @@
         "num_removed": 8,
         "tot_changes": 6
     }
+},
+{"Date": "2026-01-25 12:27:35.017931"},
+{
+    "classics": {
+        "num_old": 43,
+        "num_new": 48,
+        "added": [
+            "The Naughtiest Girl in the School",
+            "Collected Poems of Robert Burns",
+            "The Wind in the Willows",
+            "The Big Six",
+            "Secret Water",
+            "We Didn't Mean To Go To Sea",
+            "Missee Lee",
+            "The Lost World",
+            "Tess Of The D Urbervilles:A Pure Woman",
+            "The Call of the Wild"
+        ],
+        "removed": [
+            "The Jungle Book/Kim (2 in 1)",
+            "The Wonderful Wizard of Oz",
+            "The Pothunters and Other School Stories",
+            "Troy",
+            "Heroes"
+        ],
+        "num_added": 10,
+        "num_removed": 5,
+        "tot_changes": 5
+    },
+    "fantasy": {
+        "num_old": 435,
+        "num_new": 439,
+        "added": [
+            "Instructions for Dancing",
+            "The Edge Chronicles 9: Freeglader",
+            "Dark Lover",
+            "Harry Potter and the Deathly Hallows",
+            "Star Wars: The Fallen Star",
+            "Winter's Heart",
+            "The Last Continent",
+            "Torgor the Minotaur",
+            "Tusk the Mighty Mammoth",
+            "The Edge Chronicles 11: the Nameless One",
+            "The Wind in the Willows",
+            "The Power that Preserves",
+            "The Compelled, Vampire Diaries, Book 6",
+            "The Reluctant Dragon",
+            "warlock",
+            "Amelia Fang and the Unicorn Lords",
+            "Roald Dahl's Mischief and Mayhem",
+            "As Long As the Lemon Trees Grow",
+            "Amelia Fang and the Lost Yeti Treasures"
+        ],
+        "removed": [
+            "The Wonderful Wizard of Oz",
+            "The Wizards of Once: Never and Forever",
+            "Dead In The Family",
+            "The Illustrated Man",
+            "Dark River",
+            "Amelia Fang and the Naughty Caticorns",
+            "Ghosts of the Shadow Market",
+            "The Book of Life",
+            "Warriors: Power of Three #6: Sunrise",
+            "A Discovery of Witches",
+            "The Witch of Portobello",
+            "The Clockwork Crow",
+            "Outcast",
+            "Black House",
+            "Moving Pictures",
+            "Star Wars: Dark Force Rising #2"
+        ],
+        "num_added": 19,
+        "num_removed": 16,
+        "tot_changes": 4
+    },
+    "science-fiction": {
+        "num_old": 157,
+        "num_new": 157,
+        "added": [
+            "Harry Potter and the Deathly Hallows",
+            "Star Wars: The Fallen Star",
+            "The Power that Preserves"
+        ],
+        "removed": [
+            "Timeline",
+            "Star Wars: Dark Force Rising #2",
+            "The Illustrated Man"
+        ],
+        "num_added": 3,
+        "num_removed": 3,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 534,
+        "num_new": 539,
+        "added": [
+            "The Collected Short Stories",
+            "Temple",
+            "The Litigators",
+            "The Cassandra Sanction",
+            "Death of a Cheerleader",
+            "The Secret",
+            "Headhunters",
+            "The Bourne Legacy",
+            "The 8th Confession",
+            "the survivor",
+            "Out of the Dark",
+            "Point Of Origin",
+            "Forgive Me",
+            "'D' is for Deadbeat",
+            "The Guardians",
+            "The Bourne Objective",
+            "Troubled Blood",
+            "Hide & Seek"
+        ],
+        "removed": [
+            "The Forgotten Garden",
+            "Five Get Into a Fix",
+            "Private Games",
+            "The Missing",
+            "Timeline",
+            "Mud, Muck and Dead Things",
+            "The Great Darkness",
+            "Dexter in the Dark",
+            "The Sea of Adventure",
+            "Medusa",
+            "Black House",
+            "The Hotel Avocado",
+            "Dead Beat",
+            "The Surgeon",
+            "The Hard Way"
+        ],
+        "num_added": 18,
+        "num_removed": 15,
+        "tot_changes": 5
+    },
+    "historical-fiction": {
+        "num_old": 232,
+        "num_new": 219,
+        "added": [
+            "The Queen's Fool",
+            "warlock",
+            "A Woman of War",
+            "As Long As the Lemon Trees Grow"
+        ],
+        "removed": [
+            "War Child",
+            "The Book of Life",
+            "Troy",
+            "Shadow of Night",
+            "Geisha",
+            "The Clockwork Crow",
+            "Legacy of Greyladies",
+            "The Secrets of Ironbridge",
+            "A Watermelon, a Fish and a Bible",
+            "A Stranger in Honeyfield",
+            "The Great Darkness",
+            "Shuggie Bain",
+            "The Last Summer",
+            "The Love Letter",
+            "The Story of a New Name",
+            "The American Agent",
+            "Pengarron Pride",
+            "The Fifth Mountain",
+            "The Forgotten Garden"
+        ],
+        "num_added": 4,
+        "num_removed": 19,
+        "tot_changes": -13
+    },
+    "contemporary": {
+        "num_old": 163,
+        "num_new": 155,
+        "added": [
+            "Instructions for Dancing",
+            "Moonrise",
+            "Love,Rosie",
+            "As Long As the Lemon Trees Grow",
+            "This Summer Will Be Different",
+            "Letters to My Ex",
+            "Twenties Girl",
+            "The Loneliness of Sonia and Sunny",
+            "7th Heaven",
+            "Jemima Small Versus the Universe",
+            "Sushi for Beginners",
+            "Troubled Blood",
+            "At first Sight"
+        ],
+        "removed": [
+            "Block Shot",
+            "Can you keep a Secret?",
+            "The Midnight Gang",
+            "Alentejo Blue",
+            "How to Talk to Anyone",
+            "A Photo Finish",
+            "The Christmas Tree Farm",
+            "A Watermelon, a Fish and a Bible",
+            "Love Untold",
+            "The Hotel Avocado",
+            "Blue Dahlia",
+            "The Pilgrimage",
+            "Magnolia Parks: Into the Dark",
+            "The Story of a New Name",
+            "Mud, Muck and Dead Things",
+            "Inner Harbour",
+            "A Not So Meet Cute",
+            "An Unfinished Murder",
+            "The Secret Dreamworld of a Shopaholic",
+            "Magnolia Parks: the Long Way Home"
+        ],
+        "num_added": 13,
+        "num_removed": 20,
+        "tot_changes": -8
+    },
+    "history": {
+        "num_old": 69,
+        "num_new": 66,
+        "added": [
+            "A Biography of the Pixel",
+            "The New Silk Roads",
+            "The Hunt for Vulcan",
+            "Colonialism: a Moral Reckoning",
+            "Listening to Grass-hoppers",
+            "Warrior's woman"
+        ],
+        "removed": [
+            "The Mark of Cain",
+            "Vertigo",
+            "Supernatural",
+            "Troy",
+            "Geisha",
+            "Mythos",
+            "Heroes",
+            "The Haunted Wood"
+        ],
+        "num_added": 6,
+        "num_removed": 8,
+        "tot_changes": -3
+    }
 }
 ]
