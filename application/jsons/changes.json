@@ -4113,5 +4113,145 @@
         "num_removed": 8,
         "tot_changes": -3
     }
+},
+{"Date": "2026-01-31 19:48:07.085900"},
+{
+    "classics": {
+        "num_old": 48,
+        "num_new": 47,
+        "added": [],
+        "removed": [
+            "Tess Of The D Urbervilles:A Pure Woman"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 439,
+        "num_new": 416,
+        "added": [],
+        "removed": [
+            "The Trials of Death: Book 5",
+            "Skulduggery Pleasant (14) - Dead Or Alive",
+            "Beast Quest:  Wardok the Sky Terror",
+            "Amelia Fang and the Half Moon Holiday",
+            "The Adventures of Vin Fiz",
+            "The Last Continent",
+            "Strange Hymn",
+            "Camp Half-Blood Confidential",
+            "Death Bringer",
+            "Dead Heat",
+            "The Invaders",
+            "Restore Me",
+            "Blood of Tyrants",
+            "Krondor: The Betrayal",
+            "Across the Nightingale Floor",
+            "Awakened",
+            "Starlight Enclave",
+            "American Monsters (the Demon Road Trilogy, Book 3)",
+            "Muse of Nightmares",
+            "As Long As the Lemon Trees Grow",
+            "Silverfin",
+            "Bridge of Souls",
+            "Warriors: A Vision of Shadows #6: The Raging Storm"
+        ],
+        "num_added": 0,
+        "num_removed": 23,
+        "tot_changes": -23
+    },
+    "science-fiction": {
+        "num_old": 157,
+        "num_new": 152,
+        "added": [],
+        "removed": [
+            "Starlight Enclave",
+            "last light",
+            "Unwind",
+            "Restore Me",
+            "Krondor: The Betrayal"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -5
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 539,
+        "num_new": 520,
+        "added": [],
+        "removed": [
+            "The Dark Room",
+            "The Angel Tree",
+            "All That\u2019s Dead",
+            "Cross the Line",
+            "The Other People",
+            "Skulduggery Pleasant (14) - Dead Or Alive",
+            "Flood Tide",
+            "Hide and seek",
+            "last light",
+            "The Adventures of Vin Fiz",
+            "We Were Liars",
+            "Mortal Fear",
+            "Murder in an Irish Pub",
+            "Then She Was Gone",
+            "The Girl with the Dragon Tattoo",
+            "Sea Of Greed",
+            "Dead Cert",
+            "The miracle"
+        ],
+        "num_added": 0,
+        "num_removed": 18,
+        "tot_changes": -19
+    },
+    "historical-fiction": {
+        "num_old": 219,
+        "num_new": 212,
+        "added": [],
+        "removed": [
+            "Across the Nightingale Floor",
+            "The Angel Tree",
+            "Flashman and the Tiger",
+            "Akimbo and the Baboons",
+            "The Queen's Fool",
+            "As Long As the Lemon Trees Grow",
+            "Blood of Tyrants"
+        ],
+        "num_added": 0,
+        "num_removed": 7,
+        "tot_changes": -7
+    },
+    "contemporary": {
+        "num_old": 155,
+        "num_new": 144,
+        "added": [],
+        "removed": [
+            "Haven of Obedience",
+            "Calling Mrs Christmas",
+            "The Loneliness of Sonia and Sunny",
+            "Love,Rosie",
+            "The Girl with the Dragon Tattoo",
+            "Bridget Jones",
+            "As Long As the Lemon Trees Grow",
+            "It Ends With Us",
+            "The Chocolate Lovers' Christmas",
+            "Eight Hundred Grapes",
+            "Twenties Girl"
+        ],
+        "num_added": 0,
+        "num_removed": 11,
+        "tot_changes": -11
+    },
+    "history": {
+        "num_old": 66,
+        "num_new": 64,
+        "added": [],
+        "removed": [
+            "Fall Out",
+            "A Gentle Feuding"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    }
 }
 ]
