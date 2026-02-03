@@ -4253,5 +4253,135 @@
         "num_removed": 2,
         "tot_changes": -2
     }
+},
+{"Date": "2026-02-03 19:43:18.104267"},
+{
+    "classics": {
+        "num_old": 47,
+        "num_new": 45,
+        "added": [],
+        "removed": [
+            "The Call of the Wild",
+            "The Lost World"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "fantasy": {
+        "num_old": 416,
+        "num_new": 404,
+        "added": [],
+        "removed": [
+            "Mr. Lemoncello's All-Star Breakout Game",
+            "Furyborn",
+            "Infinite Ground",
+            "Mr. Lemoncello's Library Olympics",
+            "Crossroads of Twilight",
+            "Necromancer",
+            "War Lord (the Last Kingdom Series, Book 13)",
+            "The Outcasts Brotherband Book 1",
+            "BRIDA",
+            "Scorpion Mountain",
+            "The Compelled: Book 6",
+            "Black Powder War"
+        ],
+        "num_added": 0,
+        "num_removed": 12,
+        "tot_changes": -12
+    },
+    "science-fiction": {
+        "num_old": 152,
+        "num_new": 147,
+        "added": [],
+        "removed": [
+            "To of a kind diaries-so littel",
+            "Brass Man (Agent Cormac #3)",
+            "Doctor Who",
+            "Infinite Ground",
+            "Huphrey Hawksley And  Simon Holberton"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -5
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 520,
+        "num_new": 502,
+        "added": [
+            "The Girl with the Dragon Tattoo"
+        ],
+        "removed": [
+            "The Luminaris Eleanor Catton",
+            "Murder at an Irish Wedding",
+            "Acid Row",
+            "The Paper Moon",
+            "Angels Flight",
+            "Forgive Me",
+            "Elephant Song",
+            "The Osterman Weekend",
+            "Dead Head",
+            "The Missing and the Dead",
+            "Sahara",
+            "The Golden Rendezvous",
+            "Ultimatum",
+            "Black Light",
+            "Basket Case",
+            "Respect",
+            "Huphrey Hawksley And  Simon Holberton"
+        ],
+        "num_added": 1,
+        "num_removed": 17,
+        "tot_changes": -18
+    },
+    "historical-fiction": {
+        "num_old": 212,
+        "num_new": 207,
+        "added": [],
+        "removed": [
+            "The Outcasts Brotherband Book 1",
+            "War Lord (the Last Kingdom Series, Book 13)",
+            "UNTITLED NOVEL",
+            "Black Powder War"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -5
+    },
+    "contemporary": {
+        "num_old": 144,
+        "num_new": 138,
+        "added": [
+            "The Girl with the Dragon Tattoo"
+        ],
+        "removed": [
+            "Fame and Fortune",
+            "The Commitments",
+            "Dead Head",
+            "Olive Kitteridge",
+            "Sweet Revenge",
+            "Hollywood Wives"
+        ],
+        "num_added": 1,
+        "num_removed": 6,
+        "tot_changes": -6
+    },
+    "history": {
+        "num_old": 64,
+        "num_new": 57,
+        "added": [],
+        "removed": [
+            "The Spider Network",
+            "The Luminaris Eleanor Catton",
+            "Colonialism: a Moral Reckoning",
+            "Dark Towers: Deutsche Bank, Donald Trump, and an Epic Trail of Destruction",
+            "All Out War",
+            "Unearthly Disclosure",
+            "The New Silk Roads"
+        ],
+        "num_added": 0,
+        "num_removed": 7,
+        "tot_changes": -7
+    }
 }
 ]
