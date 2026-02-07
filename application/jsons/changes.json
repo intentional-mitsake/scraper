@@ -4383,5 +4383,171 @@
         "num_removed": 7,
         "tot_changes": -7
     }
+},
+{"Date": "2026-02-07 12:24:54.023307"},
+{
+    "classics": {
+        "num_old": 45,
+        "num_new": 42,
+        "added": [],
+        "removed": [
+            "By the River Bank (The Wind in the Willows Library)",
+            "The Tempest",
+            "Anne of Ingleside"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    },
+    "fantasy": {
+        "num_old": 404,
+        "num_new": 361,
+        "added": [],
+        "removed": [
+            "All that Glitters",
+            "Arcta",
+            "Born in Shame",
+            "Vampire Diaries",
+            "Captain Underpants and the Big, Bad Battle of the Bionic Booger Boy",
+            "The Young Unicorns",
+            "Crenshaw",
+            "The Perfect Gift (Two of a Kind Diaries #26)",
+            "Bones of the Hills",
+            "Dead Reckoning",
+            "Star Wars: Darth Bane - Dynasty of Evil",
+            "Cursor's Fury: The Codex Alera",
+            "The Tempest",
+            "Lord of Chaos",
+            "The Moon by Night",
+            "Star Wars: The Fallen Star",
+            "Spirit Gate - Book One of Crossroads",
+            "The Sorcerer in the North",
+            "Dead as a doornail",
+            "The Fire Eternal: The Last Dragon Chronicles",
+            "Academ's Fury",
+            "The Salvation",
+            "Doctor Who: Dalek",
+            "A Crown of Swords",
+            "Lords of the Bow",
+            "Destiny Rising",
+            "Unwholly",
+            "The Winner",
+            "Amelia Fang and the Barbaric Ball",
+            "Many Waters",
+            "Definitely Dead",
+            "Into the Wild",
+            "The Shadowhunter's Codex",
+            "The Salvation unspoken, Vampire Diaries Book12",
+            "The Faceless Ones"
+        ],
+        "num_added": 0,
+        "num_removed": 35,
+        "tot_changes": -43
+    },
+    "science-fiction": {
+        "num_old": 147,
+        "num_new": 137,
+        "added": [],
+        "removed": [
+            "Star Wars: Darth Bane - Dynasty of Evil",
+            "Doctor Who: Dalek",
+            "A Crown of Swords",
+            "Unwholly",
+            "Lord of Chaos",
+            "Many Waters",
+            "Star Wars: The Fallen Star",
+            "Spirit Gate - Book One of Crossroads",
+            "The Fire Ascending",
+            "Mutation"
+        ],
+        "num_added": 0,
+        "num_removed": 10,
+        "tot_changes": -10
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 502,
+        "num_new": 469,
+        "added": [],
+        "removed": [
+            "No Mercy",
+            "Fox Evil",
+            "White Shark",
+            "The Young Unicorns",
+            "Cometh the Hour",
+            "Bring Me Back",
+            "The Cartel",
+            "Troubling a Star #5",
+            "Robert Ludlum's The Bourne Imperative",
+            "The vendetta defence",
+            "Burnt Sienna",
+            "Skinner's Rules",
+            "Black Market",
+            "Mutation",
+            "The Mystery of the Strange Bundle",
+            "Dead Heat",
+            "NYPD Red 2",
+            "Godplayer",
+            "The Burning Girl",
+            "The Flight of the Eisenstein",
+            "Five Nights at Freddy's: Fazbear Frights",
+            "Back Story",
+            "The Dark Remains",
+            "The Winner",
+            "Hide & Seek",
+            "Risk"
+        ],
+        "num_added": 0,
+        "num_removed": 26,
+        "tot_changes": -33
+    },
+    "historical-fiction": {
+        "num_old": 207,
+        "num_new": 197,
+        "added": [],
+        "removed": [
+            "The Dark Remains",
+            "The Somerset Tsunami",
+            "The Cartel",
+            "Lords of the Bow",
+            "Torpedo Run",
+            "Bones of the Hills",
+            "Cotillion",
+            "Cometh the Hour"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -10
+    },
+    "contemporary": {
+        "num_old": 138,
+        "num_new": 130,
+        "added": [],
+        "removed": [
+            "The Doomsday Date",
+            "The Shop on Blossom Street",
+            "Shine",
+            "Born in Shame",
+            "Goose",
+            "Left Neglected",
+            "War of the Wardrobes (Two of a Kind Diaries #13)",
+            "The Importance of Being Seven"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -8
+    },
+    "history": {
+        "num_old": 57,
+        "num_new": 55,
+        "added": [
+            "Unearthly Disclosure"
+        ],
+        "removed": [
+            "snakes and laddere"
+        ],
+        "num_added": 1,
+        "num_removed": 1,
+        "tot_changes": -2
+    }
 }
 ]
