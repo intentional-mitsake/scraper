@@ -4549,5 +4549,136 @@
         "num_removed": 1,
         "tot_changes": -2
     }
+},
+{"Date": "2026-02-09 19:32:47.745412"},
+{
+    "classics": {
+        "num_old": 42,
+        "num_new": 42,
+        "added": [
+            "Sons of Sita"
+        ],
+        "removed": [
+            "The Fall of Arthur"
+        ],
+        "num_added": 1,
+        "num_removed": 1,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 361,
+        "num_new": 365,
+        "added": [
+            "Lord of Shadows",
+            "Jaal",
+            "Sons of Sita",
+            "What maya sow",
+            "THE MAHABHARATA QUEST:THE ALEXANDER SECRET"
+        ],
+        "removed": [
+            "The Fall of Arthur"
+        ],
+        "num_added": 5,
+        "num_removed": 1,
+        "tot_changes": 4
+    },
+    "science-fiction": {
+        "num_old": 137,
+        "num_new": 138,
+        "added": [
+            "The Last Theorem & Frederik Pohl",
+            "Machines like me",
+            "The Tesseract"
+        ],
+        "removed": [
+            "Murderous Maths: Guaranteed to Bend Your Brain"
+        ],
+        "num_added": 3,
+        "num_removed": 1,
+        "tot_changes": 1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 469,
+        "num_new": 483,
+        "added": [
+            "The Escape",
+            "'H' is for Homicide",
+            "First Family",
+            "Past Tense",
+            "Y Is for Yesterday",
+            "Porno",
+            "Under the Banner of Heaven",
+            "The Accidental Apprentice",
+            "Intervention",
+            "A Brief History of seven killings",
+            "True Blue",
+            "The Sanoteur",
+            "The Tesseract",
+            "THE MAHABHARATA QUEST:THE ALEXANDER SECRET",
+            "The Luminaris Eleanor Catton",
+            "Inferno"
+        ],
+        "removed": [
+            "Conspiracy in Death",
+            "Three Things about Elsie",
+            "The Satsuma Complex"
+        ],
+        "num_added": 16,
+        "num_removed": 3,
+        "tot_changes": 14
+    },
+    "historical-fiction": {
+        "num_old": 197,
+        "num_new": 201,
+        "added": [
+            "What is the what",
+            "Unexploded Alison Macleod",
+            "Mightier Than the Sword",
+            "A Brief History of seven killings",
+            "The Sanoteur"
+        ],
+        "removed": [
+            "The Fall of Arthur"
+        ],
+        "num_added": 5,
+        "num_removed": 1,
+        "tot_changes": 4
+    },
+    "contemporary": {
+        "num_old": 130,
+        "num_new": 134,
+        "added": [
+            "The Carriage House",
+            "Last man in tower",
+            "Porno",
+            "The Accidental Apprentice",
+            "It Ends With Us"
+        ],
+        "removed": [
+            "Three Things about Elsie"
+        ],
+        "num_added": 5,
+        "num_removed": 1,
+        "tot_changes": 4
+    },
+    "history": {
+        "num_old": 55,
+        "num_new": 63,
+        "added": [
+            "The Luminaris Eleanor Catton",
+            "A Promised Land",
+            "Shivali The Great Maratha",
+            "Under the Banner of Heaven",
+            "buddha",
+            "The Sanoteur",
+            "Byculla to Bangkok"
+        ],
+        "removed": [
+            "How the World Made the West"
+        ],
+        "num_added": 7,
+        "num_removed": 1,
+        "tot_changes": 8
+    }
 }
 ]
