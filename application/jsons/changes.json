@@ -4680,5 +4680,169 @@
         "num_removed": 1,
         "tot_changes": 8
     }
+},
+{"Date": "2026-02-16 15:07:46.299803"},
+{
+    "classics": {
+        "num_old": 42,
+        "num_new": 45,
+        "added": [
+            "Witness for The Prosecution",
+            "Possession",
+            "Roots",
+            "Gitanjali"
+        ],
+        "removed": [
+            "The Wind in the Willows"
+        ],
+        "num_added": 4,
+        "num_removed": 1,
+        "tot_changes": 3
+    },
+    "fantasy": {
+        "num_old": 365,
+        "num_new": 364,
+        "added": [
+            "The Path of Daggers",
+            "The Darkest Part of the Forest",
+            "Fluke",
+            "Eclipse",
+            "Crossroads of Twilight",
+            "The Shadow Rising",
+            "Lord of Chaos",
+            "The Vampire Diaries: The Fury and Dark Reunion"
+        ],
+        "removed": [
+            "Amelia Fang and the Unicorn Lords",
+            "Warriors: Omen of the Stars #1: The Fourth Apprentice",
+            "Assassin's Quest",
+            "The Wind in the Willows",
+            "Instructions for Dancing",
+            "Winter of the Ice Wizard",
+            "Christmas in Camelot",
+            "The Hunger Games: Catching Fire",
+            "Warriors: Omen of the Stars #6: The Last Hope"
+        ],
+        "num_added": 8,
+        "num_removed": 9,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 138,
+        "num_new": 140,
+        "added": [
+            "Scarecrow and the Army of Thieves",
+            "Realm Breaker",
+            "Murderous Maths: Guaranteed to Bend Your Brain",
+            "Lord of Chaos"
+        ],
+        "removed": [
+            "The Hunger Games: Catching Fire",
+            "Assassin's Quest"
+        ],
+        "num_added": 4,
+        "num_removed": 2,
+        "tot_changes": 2
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 483,
+        "num_new": 501,
+        "added": [
+            "lair",
+            "The Heist",
+            "Espedair Street",
+            "The Boy from the Woods",
+            "Possession",
+            "The Lonely Sea",
+            "J is for Judgment",
+            "Witness for The Prosecution",
+            "Mistress of the game",
+            "HIDDEN IN PLAIN SIGHT.",
+            "Scarecrow and the Army of Thieves",
+            "forged in steele",
+            "\"H\" is for Homicide",
+            "Hannibal",
+            "When Eight Bells Toll",
+            "Viral",
+            "Bangkok Haunts",
+            "Pay the Devil",
+            "puppet on a chain",
+            "I is for Innocent",
+            "A Twist in the Tale",
+            "Day of reckoning"
+        ],
+        "removed": [
+            "The Girl with the Dragon Tattoo",
+            "Murder in an Irish Cottage",
+            "The Defence",
+            "The Secret",
+            "Blow Fly",
+            "Dead Ground",
+            "Die Trying",
+            "Rack, Ruin and Murder"
+        ],
+        "num_added": 22,
+        "num_removed": 8,
+        "tot_changes": 18
+    },
+    "historical-fiction": {
+        "num_old": 201,
+        "num_new": 202,
+        "added": [
+            "HIDDEN IN PLAIN SIGHT.",
+            "Possession",
+            "Edge of Eternity",
+            "The Hungry Tide",
+            "Pay the Devil"
+        ],
+        "removed": [
+            "What is the what",
+            "Regency Rumors",
+            "Kensuke's Kingdom"
+        ],
+        "num_added": 5,
+        "num_removed": 3,
+        "tot_changes": 1
+    },
+    "contemporary": {
+        "num_old": 134,
+        "num_new": 137,
+        "added": [
+            "The Boy from the Woods",
+            "Naked",
+            "forged in steele",
+            "Can you keep a Secret?",
+            "The Hungry Tide",
+            "Bangkok Haunts",
+            "Angels",
+            "Espedair Street"
+        ],
+        "removed": [
+            "Instructions for Dancing",
+            "Family Matters",
+            "Wolf Hall",
+            "The Second Wife",
+            "It Ends With Us",
+            "The Girl with the Dragon Tattoo"
+        ],
+        "num_added": 8,
+        "num_removed": 6,
+        "tot_changes": 3
+    },
+    "history": {
+        "num_old": 63,
+        "num_new": 63,
+        "added": [
+            "Zealot: The Life and Times of Jesus of Nazareth",
+            "Roots"
+        ],
+        "removed": [
+            "Shivali The Great Maratha",
+            "Unearthly Disclosure"
+        ],
+        "num_added": 2,
+        "num_removed": 2,
+        "tot_changes": 0
+    }
 }
 ]
