@@ -4844,5 +4844,174 @@
         "num_removed": 2,
         "tot_changes": 0
     }
+},
+{"Date": "2026-02-21 19:24:46.051638"},
+{
+    "classics": {
+        "num_old": 45,
+        "num_new": 46,
+        "added": [
+            "Little Grey Cells",
+            "The lover",
+            "Three Wishes"
+        ],
+        "removed": [
+            "The Naughtiest Girl in the School",
+            "Prelude to Foundation"
+        ],
+        "num_added": 3,
+        "num_removed": 2,
+        "tot_changes": 1
+    },
+    "fantasy": {
+        "num_old": 364,
+        "num_new": 360,
+        "added": [
+            "The Mahabharata Secret",
+            "The Familiars",
+            "City of Heavenly Fire book 6",
+            "Human Croquet"
+        ],
+        "removed": [
+            "A Wind in the Door",
+            "Warriors: Omen of the Stars #2: Fading Echoes",
+            "City of Lost Souls",
+            "A Swiftly Tilting Planet",
+            "Prelude to Foundation",
+            "An Acceptable Time Book",
+            "A Torch Against the Night",
+            "Darkly Dreaming Dexter"
+        ],
+        "num_added": 4,
+        "num_removed": 8,
+        "tot_changes": -4
+    },
+    "science-fiction": {
+        "num_old": 140,
+        "num_new": 135,
+        "added": [],
+        "removed": [
+            "A Wind in the Door",
+            "Star Wars: The Rising Storm",
+            "A Swiftly Tilting Planet",
+            "Prelude to Foundation",
+            "An Acceptable Time Book"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -5
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 501,
+        "num_new": 508,
+        "added": [
+            "Little Grey Cells",
+            "State of Terror",
+            "Total Power",
+            "The Paris Option",
+            "Partisans",
+            "The Modigliani Scandal",
+            "The Boss",
+            "THE EXILE",
+            "Into the Water",
+            "vector",
+            "Cross My Heart",
+            "The Jonah",
+            "South By Java Head",
+            "A Legacy of Spies",
+            "Ice Station Zebra",
+            "Accident",
+            "Still Waters"
+        ],
+        "removed": [
+            "The Executioner",
+            "The Scarlatti Inheritancs",
+            "The Apprentice: A Rizzoli & Isles Novel",
+            "The Sword Thief",
+            "Kentucky Thriller",
+            "Nerve",
+            "The Girl Who Takes An Eye For An Eye",
+            "The Ship of Adventure",
+            "The Girl Who Played with Fire",
+            "Darkly Dreaming Dexter"
+        ],
+        "num_added": 17,
+        "num_removed": 10,
+        "tot_changes": 7
+    },
+    "historical-fiction": {
+        "num_old": 202,
+        "num_new": 209,
+        "added": [
+            "love Marriage",
+            "The opium Clerk",
+            "Human Croquet",
+            "In the Country of Men",
+            "My Name Is Mary Sutter",
+            "The iron brand",
+            "The Mahabharata Secret",
+            "The Familiars",
+            "Heirs of Ravenscar"
+        ],
+        "removed": [
+            "Chance Encounters",
+            "Hullo Russia, Goodbye England",
+            "A Woman of War"
+        ],
+        "num_added": 9,
+        "num_removed": 3,
+        "tot_changes": 7
+    },
+    "contemporary": {
+        "num_old": 137,
+        "num_new": 141,
+        "added": [
+            "Every Note Played",
+            "love Marriage",
+            "French Exit",
+            "From This Moment On",
+            "Human Croquet",
+            "The Lucky List",
+            "Anything for you, ma'am",
+            "Family Matters",
+            "Life Isn't All Ha Ha Hee Hee"
+        ],
+        "removed": [
+            "Holding the Dream",
+            "The Executioner",
+            "Nothing More",
+            "Letters to My Ex",
+            "Finding Cassie",
+            "The Girl Who Played with Fire"
+        ],
+        "num_added": 9,
+        "num_removed": 6,
+        "tot_changes": 4
+    },
+    "history": {
+        "num_old": 63,
+        "num_new": 73,
+        "added": [
+            "Nixon and Mao",
+            "Descent Into Chaos",
+            "God Has Ninety Nine Names",
+            "Fallen Leaves",
+            "The Ascent of Everest",
+            "My Name Is Mary Sutter",
+            "May You be the Mother of a Hundred sons",
+            "The Jesuit in India",
+            "The Seventh Scroll",
+            "Man Eating Tigers of Central India",
+            "The Maverick Mountaineer",
+            "Joe Biden"
+        ],
+        "removed": [
+            "Say Nothing",
+            "Tornado"
+        ],
+        "num_added": 12,
+        "num_removed": 2,
+        "tot_changes": 10
+    }
 }
 ]
