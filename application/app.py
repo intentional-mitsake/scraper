@@ -30,6 +30,6 @@ def scrape_and_compare():
     return jsonify({"status": "Success", "message": "Scraping and comparison completed."})
     
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
     # run the Flask app
     app.run(debug=True)
