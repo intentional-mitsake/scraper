@@ -1,6 +1,6 @@
 from flask import Flask, render_template, redirect, url_for, jsonify
-from application.scraper import scrape_books
-from application.compare import compare_and_update
+from scraper import scrape_books
+from compare import compare_and_update
 import json
 
 app = Flask(__name__)
