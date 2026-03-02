@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import json
 
 load_dotenv()
-api = os.getenv("U")
+api = os.getenv("URL")
 
 current_page = 1
 start = 1
