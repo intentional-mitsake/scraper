@@ -5437,5 +5437,164 @@
         "num_removed": 7,
         "tot_changes": 61
     }
+},
+{"Date": "2026-03-08 12:28:55.563565"},
+{
+    "classics": {
+        "num_old": 54,
+        "num_new": 59,
+        "added": [
+            "The Mill on the Floss",
+            "The Call of the Wild and White Fang",
+            "The Magician's Nephew",
+            "The Jungle Book",
+            "The Book of Tea",
+            "The Children of the New Forest",
+            "Much Ado about Nothing"
+        ],
+        "removed": [
+            "Homage to Catalonia",
+            "Roots"
+        ],
+        "num_added": 7,
+        "num_removed": 2,
+        "tot_changes": 5
+    },
+    "fantasy": {
+        "num_old": 383,
+        "num_new": 380,
+        "added": [
+            "The Goose Girl",
+            "Human Croquet",
+            "Blackberry Wine",
+            "The 65-storey Treehouse",
+            "Trixie the Halloween Fairy"
+        ],
+        "removed": [
+            "Parable of the Talents",
+            "Shadow of Night",
+            "Gregor the Overlander Book 1",
+            "What maya sow",
+            "Midnight Sun",
+            "Gregor and the Prophecy of Bane",
+            "The Familiars",
+            "Death",
+            "Going Solo"
+        ],
+        "num_added": 5,
+        "num_removed": 9,
+        "tot_changes": -3
+    },
+    "science-fiction": {
+        "num_old": 156,
+        "num_new": 155,
+        "added": [
+            "Wizard"
+        ],
+        "removed": [
+            "Parable of the Talents",
+            "Adulthood Rites"
+        ],
+        "num_added": 1,
+        "num_removed": 2,
+        "tot_changes": -1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 569,
+        "num_new": 580,
+        "added": [
+            "The Street Lawyer",
+            "The Associate",
+            "The Mill on the Floss",
+            "You may now kill the bride",
+            "Private L. A.",
+            "Disclosure",
+            "The Devil's Alternative",
+            "The Call of the Wild and White Fang",
+            "Second Honeymoon",
+            "Pop Goes the Weasel",
+            "Tears of the Giraffe",
+            "Sail",
+            "The Negotiator",
+            "Toll For The Brave",
+            "Ten Big Ones",
+            "Cross BookShot",
+            "Deceit",
+            "Private Down Under"
+        ],
+        "removed": [
+            "Win Lose Kill Die",
+            "An Evil Mind",
+            "The lake of dreams",
+            "From The Corner Of His Eye",
+            "The Heist",
+            "Seizure",
+            "Silent Partner"
+        ],
+        "num_added": 18,
+        "num_removed": 7,
+        "tot_changes": 11
+    },
+    "historical-fiction": {
+        "num_old": 236,
+        "num_new": 234,
+        "added": [
+            "Echoes Across the Mersey",
+            "Human Croquet",
+            "Reap the Harvest",
+            "The Sins of the Father"
+        ],
+        "removed": [
+            "After the War",
+            "My Name Is Mary Sutter",
+            "The Familiars",
+            "The Hungry Tide",
+            "Celestial Bodies"
+        ],
+        "num_added": 4,
+        "num_removed": 5,
+        "tot_changes": -2
+    },
+    "contemporary": {
+        "num_old": 189,
+        "num_new": 181,
+        "added": [
+            "Deceit",
+            "Blackberry Wine",
+            "Human Croquet",
+            "Her Kind of Trouble"
+        ],
+        "removed": [
+            "The Death of Vishnu",
+            "Chameleon in a Candy Store",
+            "The Grooms Wore White",
+            "The Poet X",
+            "Nightbloom",
+            "The lake of dreams",
+            "The Choice",
+            "Take Me With You When You Go",
+            "The Hungry Tide"
+        ],
+        "num_added": 4,
+        "num_removed": 9,
+        "tot_changes": -8
+    },
+    "history": {
+        "num_old": 134,
+        "num_new": 132,
+        "added": [
+            "Is Paris Burning?"
+        ],
+        "removed": [
+            "Homage to Catalonia",
+            "Roots",
+            "My Name Is Mary Sutter",
+            "Nixon and Mao",
+            "From Here to Eternity: Travelling the World to Find the Good Death"
+        ],
+        "num_added": 1,
+        "num_removed": 5,
+        "tot_changes": -2
+    }
 }
 ]
