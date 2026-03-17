@@ -5596,5 +5596,128 @@
         "num_removed": 5,
         "tot_changes": -2
     }
+},
+{"Date": "2026-03-17 11:52:10.350894"},
+{
+    "classics": {
+        "num_old": 59,
+        "num_new": 60,
+        "added": [
+            "The Swiss family Robinson",
+            "Lorna Doone",
+            "North and South",
+            "The Beauty of the Husband"
+        ],
+        "removed": [
+            "George's Marvellous Medicine",
+            "Beren and L\u00fathien",
+            "The Essential"
+        ],
+        "num_added": 4,
+        "num_removed": 3,
+        "tot_changes": 1
+    },
+    "fantasy": {
+        "num_old": 380,
+        "num_new": 366,
+        "added": [],
+        "removed": [
+            "The Invisible Life of Addie LaRue",
+            "Jaal",
+            "Pok\u00e9mon: Sun & Moon, Vol. 3",
+            "Delirium Delirium Trilogy 1",
+            "The Darkest Part of the Forest",
+            "Odd Thomas",
+            "Beren and L\u00fathien",
+            "The Mahabharata Secret",
+            "The Goose Girl",
+            "George's Marvellous Medicine",
+            "The Throne of Fire",
+            "Fantastic Mr Fox",
+            "Fire with Fire",
+            "The Reluctant Dragon"
+        ],
+        "num_added": 0,
+        "num_removed": 14,
+        "tot_changes": -14
+    },
+    "science-fiction": {
+        "num_old": 155,
+        "num_new": 152,
+        "added": [],
+        "removed": [
+            "The End and Other Beginnings",
+            "Sunstorm",
+            "Delirium Delirium Trilogy 1"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 580,
+        "num_new": 574,
+        "added": [],
+        "removed": [
+            "The Burning Chambers",
+            "Viral",
+            "Temple",
+            "The Partner"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -6
+    },
+    "historical-fiction": {
+        "num_old": 234,
+        "num_new": 231,
+        "added": [
+            "Lorna Doone"
+        ],
+        "removed": [
+            "Geek Girl",
+            "The Other Boleyn Girl",
+            "The Mahabharata Secret"
+        ],
+        "num_added": 1,
+        "num_removed": 3,
+        "tot_changes": -3
+    },
+    "contemporary": {
+        "num_old": 181,
+        "num_new": 179,
+        "added": [
+            "You Shall Know Our Velocity!",
+            "The Beauty of the Husband"
+        ],
+        "removed": [
+            "Geek Girl",
+            "A widow for one year",
+            "Fire with Fire",
+            "The Book Ninja"
+        ],
+        "num_added": 2,
+        "num_removed": 4,
+        "tot_changes": -2
+    },
+    "history": {
+        "num_old": 132,
+        "num_new": 123,
+        "added": [],
+        "removed": [
+            "The End and Other Beginnings",
+            "The Burning Chambers",
+            "The Lives We Have Lost",
+            "Dominion: the History of England Volume 5",
+            "The Other Boleyn Girl",
+            "In The Line of Fire",
+            "buddha",
+            "May You be the Mother of a Hundred sons",
+            "The History of India for children vol.2"
+        ],
+        "num_added": 0,
+        "num_removed": 9,
+        "tot_changes": -9
+    }
 }
 ]
