@@ -5719,5 +5719,115 @@
         "num_removed": 9,
         "tot_changes": -9
     }
+},
+{"Date": "2026-03-25 18:10:15.962466"},
+{
+    "classics": {
+        "num_old": 60,
+        "num_new": 55,
+        "added": [],
+        "removed": [
+            "Textiles",
+            "Lorna Doone",
+            "The Children of the New Forest",
+            "Building A New India",
+            "The Mill on the Floss"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -5
+    },
+    "fantasy": {
+        "num_old": 366,
+        "num_new": 351,
+        "added": [],
+        "removed": [
+            "The Empty City",
+            "THE WAY OF KINGS PART ONE: The Stormlight Archive",
+            "The Slow Regard of Silent Things",
+            "Noughts and Crosses",
+            "Winter's Heart",
+            "Abraham Lincoln, Vampire Hunter",
+            "The Cockroach",
+            "The Edge Chronicles 11: the Nameless One",
+            "A Crown of Swords",
+            "The Power that Preserves",
+            "The Miraculous Journey of Edward Tulane",
+            "The Shadow Rising",
+            "The Path of Daggers"
+        ],
+        "num_added": 0,
+        "num_removed": 13,
+        "tot_changes": -15
+    },
+    "science-fiction": {
+        "num_old": 152,
+        "num_new": 148,
+        "added": [],
+        "removed": [
+            "The Empire Strikes Back",
+            "A Crown of Swords",
+            "The Power that Preserves"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -4
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 574,
+        "num_new": 566,
+        "added": [],
+        "removed": [
+            "The Guardians",
+            "A Time To Kill",
+            "The Modigliani Scandal",
+            "Kill Joy",
+            "High Risk",
+            "Playing with Bones",
+            "The Mill on the Floss"
+        ],
+        "num_added": 0,
+        "num_removed": 7,
+        "tot_changes": -8
+    },
+    "historical-fiction": {
+        "num_old": 231,
+        "num_new": 226,
+        "added": [],
+        "removed": [
+            "Caesar's Women",
+            "Abraham Lincoln, Vampire Hunter",
+            "Lorna Doone",
+            "The Moon Sister"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -5
+    },
+    "contemporary": {
+        "num_old": 179,
+        "num_new": 174,
+        "added": [],
+        "removed": [
+            "The Cockroach",
+            "Strangers on the Roof",
+            "The Moon Sister"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -5
+    },
+    "history": {
+        "num_old": 123,
+        "num_new": 120,
+        "added": [],
+        "removed": [
+            "Caesar's Women",
+            "Jackie Onassis"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -3
+    }
 }
 ]
