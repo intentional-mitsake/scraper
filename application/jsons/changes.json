@@ -5829,5 +5829,126 @@
         "num_removed": 2,
         "tot_changes": -3
     }
+},
+{"Date": "2026-04-07 15:38:38.573119"},
+{
+    "classics": {
+        "num_old": 55,
+        "num_new": 51,
+        "added": [],
+        "removed": [
+            "She, Ayesha/The Return of She (2 in 1)",
+            "Malory Towers: 12: Goodbye",
+            "Little Grey Cells",
+            "The lover"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -4
+    },
+    "fantasy": {
+        "num_old": 351,
+        "num_new": 340,
+        "added": [],
+        "removed": [
+            "Stinkbomb & Ketchup-Face and the Quest for the Magic Porcupine",
+            "Artemis Fowl and the Lost Colony",
+            "The Merciless Ones",
+            "Defy Me",
+            "The Serpentwar Saga",
+            "Eric",
+            "The Lie Tree",
+            "Tales from the Shadowhunter Academy",
+            "The BFG",
+            "The Crossing of Ingo"
+        ],
+        "num_added": 0,
+        "num_removed": 10,
+        "tot_changes": -11
+    },
+    "science-fiction": {
+        "num_old": 148,
+        "num_new": 140,
+        "added": [],
+        "removed": [
+            "Judge Dredd",
+            "My Hero Academia: School Briefs, Vol. 4",
+            "The Crooked Staircase",
+            "Defy Me",
+            "Eric",
+            "Artemis Fowl and the Lost Colony",
+            "Realm Breaker"
+        ],
+        "num_added": 0,
+        "num_removed": 7,
+        "tot_changes": -8
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 566,
+        "num_new": 554,
+        "added": [],
+        "removed": [
+            "Tales from the Pizzaplex",
+            "The Boy from the Woods",
+            "Heat Storm",
+            "The Crooked Staircase",
+            "Complicity",
+            "Into the Water",
+            "Little Grey Cells",
+            "Keeping the Dead",
+            "The Grasmere Grudge",
+            "The Hotel on the Riviera",
+            "Spider Bones",
+            "Is new york burning"
+        ],
+        "num_added": 0,
+        "num_removed": 12,
+        "tot_changes": -12
+    },
+    "historical-fiction": {
+        "num_old": 226,
+        "num_new": 222,
+        "added": [],
+        "removed": [
+            "Bring Up Bodies_wolf Hall T PB",
+            "The Lie Tree",
+            "King"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -4
+    },
+    "contemporary": {
+        "num_old": 174,
+        "num_new": 166,
+        "added": [],
+        "removed": [
+            "The Kissing Booth 2: Going the Distance",
+            "The Reality of Everything",
+            "The Boy from the Woods",
+            "Complicity",
+            "The 158-Pound Marriage",
+            "Homeport",
+            "The Hotel on the Riviera",
+            "The Hotel New Hampshire"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -8
+    },
+    "history": {
+        "num_old": 120,
+        "num_new": 116,
+        "added": [],
+        "removed": [
+            "Mao Zedong",
+            "The Holiday Present",
+            "Greetings, carbon-based bipeds!",
+            "Sky Train"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -4
+    }
 }
 ]
