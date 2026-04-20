@@ -5950,5 +5950,225 @@
         "num_removed": 4,
         "tot_changes": -4
     }
+},
+{"Date": "2026-04-20 16:37:07.466778"},
+{
+    "classics": {
+        "num_old": 51,
+        "num_new": 48,
+        "added": [
+            "Roots",
+            "Homage to Catalonia"
+        ],
+        "removed": [
+            "North and South",
+            "Radhakrishnan an anthology",
+            "Heidi",
+            "The Book of Tea"
+        ],
+        "num_added": 2,
+        "num_removed": 4,
+        "tot_changes": -3
+    },
+    "fantasy": {
+        "num_old": 340,
+        "num_new": 346,
+        "added": [
+            "The Compelled: Book 6",
+            "Scorpion Mountain",
+            "Black Powder War",
+            "Mr. Lemoncello's All-Star Breakout Game",
+            "The Faceless Ones",
+            "Arcta",
+            "The Shadowhunter's Codex",
+            "Academ's Fury",
+            "The Salvation",
+            "The Tale of Despereaux",
+            "War Lord (the Last Kingdom Series, Book 13)",
+            "Gregor and the Prophecy of Bane",
+            "The Miraculous Journey of Edward Tulane",
+            "Warriors: Omen of the Stars #2: Fading Echoes",
+            "The Outcasts Brotherband Book 1",
+            "Captain Underpants and the Big, Bad Battle of the Bionic Booger Boy",
+            "Infinite Ground",
+            "Mr. Lemoncello's Library Olympics",
+            "Death"
+        ],
+        "removed": [
+            "The Magicians",
+            "The Wicked Deep",
+            "City of Lost Souls",
+            "The Astounding Broccoli Boy",
+            "Dragon Legend",
+            "Rhythm of War Part Two",
+            "Unite Me",
+            "Creature of Havoc",
+            "Melodie the Music Fairy",
+            "Glass Sword",
+            "Phoebe the Fashion Fairy",
+            "Polly the Party Fun Fairy",
+            "Heresy: Assassin's Creed",
+            "Utopia Avenue",
+            "Rule of Two: Star Wars Legends (Darth Bane)",
+            "Holly and the Rose Garden #16"
+        ],
+        "num_added": 19,
+        "num_removed": 16,
+        "tot_changes": 6
+    },
+    "science-fiction": {
+        "num_old": 140,
+        "num_new": 135,
+        "added": [
+            "To of a kind diaries-so littel",
+            "Infinite Ground",
+            "Adulthood Rites"
+        ],
+        "removed": [
+            "Rhythm of War Part Two",
+            "The Fear",
+            "Unite Me",
+            "Sputnik's Guide to Life on Earth",
+            "Heresy: Assassin's Creed",
+            "Jedi Academy - The Phantom Bully",
+            "Rule of Two: Star Wars Legends (Darth Bane)"
+        ],
+        "num_added": 3,
+        "num_removed": 7,
+        "tot_changes": -5
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 554,
+        "num_new": 566,
+        "added": [
+            "Basket Case",
+            "Elephant Song",
+            "The Mystery of the Strange Bundle",
+            "Acid Row",
+            "No Mercy",
+            "An Evil Mind",
+            "This Was a Man",
+            "High Risk",
+            "The Cartel",
+            "Angels Flight",
+            "The Osterman Weekend",
+            "NYPD Red 2",
+            "Sahara",
+            "Black Light",
+            "Ultimatum",
+            "Dead Heat",
+            "The Paper Moon",
+            "Is new york burning",
+            "The Dark Remains",
+            "The Sword Thief"
+        ],
+        "removed": [
+            "Let's Split Up",
+            "Breakdown",
+            "The Body on the Moor",
+            "The Luminaris Eleanor Catton",
+            "The charlemagne pursuit",
+            "Troubled Blood",
+            "The Mountain of Adventure",
+            "Well Done, Secret Seven",
+            "Motive",
+            "Damaged"
+        ],
+        "num_added": 20,
+        "num_removed": 10,
+        "tot_changes": 12
+    },
+    "historical-fiction": {
+        "num_old": 222,
+        "num_new": 223,
+        "added": [
+            "Bring Up Bodies_wolf Hall T PB",
+            "This Was a Man",
+            "Geek Girl",
+            "The Outcasts Brotherband Book 1",
+            "The Somerset Tsunami",
+            "War Lord (the Last Kingdom Series, Book 13)",
+            "After the War",
+            "The Cartel",
+            "Black Powder War",
+            "The Dark Remains",
+            "Chance Encounters",
+            "Celestial Bodies"
+        ],
+        "removed": [
+            "Wolf Hall",
+            "Fall of Giants",
+            "The Temple Of Optimism",
+            "Best Kept Secret",
+            "Edge of Eternity",
+            "The charlemagne pursuit",
+            "Heresy: Assassin's Creed",
+            "An Impossible longing",
+            "Utopia Avenue"
+        ],
+        "num_added": 12,
+        "num_removed": 9,
+        "tot_changes": 1
+    },
+    "contemporary": {
+        "num_old": 166,
+        "num_new": 175,
+        "added": [
+            "Geek Girl",
+            "Fame and Fortune",
+            "Holding the Dream",
+            "The Grooms Wore White",
+            "The Doomsday Date",
+            "Homeport",
+            "The Poet X",
+            "The 158-Pound Marriage",
+            "Nightbloom",
+            "The Commitments",
+            "Sweet Revenge",
+            "Finding Cassie",
+            "Hollywood Wives",
+            "The Hotel New Hampshire"
+        ],
+        "removed": [
+            "Other Colours",
+            "Dollar Bahu",
+            "French Exit",
+            "Grandpa's Great Escape",
+            "Family Matters",
+            "Troubled Blood",
+            "Moonrise"
+        ],
+        "num_added": 14,
+        "num_removed": 7,
+        "tot_changes": 9
+    },
+    "history": {
+        "num_old": 116,
+        "num_new": 115,
+        "added": [
+            "Unearthly Disclosure",
+            "Dominion: the History of England Volume 5",
+            "Homage to Catalonia",
+            "Sky Train",
+            "snakes and laddere",
+            "Nixon and Mao",
+            "The Ascent of Everest",
+            "Roots"
+        ],
+        "removed": [
+            "Bycula to Bangkok",
+            "The Indians",
+            "The Luminaris Eleanor Catton",
+            "The German Genius",
+            "In Exile from the land of Snows",
+            "God Has Ninety Nine Names",
+            "Doom: the Politics of Catastrophe",
+            "Rise and Kill First",
+            "India"
+        ],
+        "num_added": 8,
+        "num_removed": 9,
+        "tot_changes": -1
+    }
 }
 ]
