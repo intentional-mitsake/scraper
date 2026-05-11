@@ -6326,5 +6326,239 @@
         "num_removed": 3,
         "tot_changes": 9
     }
+},
+{"Date": "2026-05-11 10:07:11.155342"},
+{
+    "classics": {
+        "num_old": 55,
+        "num_new": 53,
+        "added": [
+            "Om Illustrated Classics The Prince and the Pauper",
+            "Unfinished portrait"
+        ],
+        "removed": [
+            "Witness for The Prosecution",
+            "Secret Water",
+            "Three Wishes",
+            "Missee Lee"
+        ],
+        "num_added": 2,
+        "num_removed": 4,
+        "tot_changes": -2
+    },
+    "fantasy": {
+        "num_old": 358,
+        "num_new": 360,
+        "added": [
+            "Om Illustrated Classics The Prince and the Pauper",
+            "Burned",
+            "What maya sow",
+            "Midnight Sun",
+            "ARYAVARTA CHRONICLES BOOK 3 KURUKSHETRA",
+            "The Cloisters",
+            "Our Violent Ends",
+            "The Great Pursuit",
+            "Ready Player One",
+            "Salamandastron",
+            "God is Dead",
+            "Harry Potter and the Deathly Hallows",
+            "The House of Hades (Heroes of Olympus Book 4)",
+            "Storm of Sharks",
+            "House of Sky and Breath"
+        ],
+        "removed": [
+            "Amelia Fang and the Memory Thief",
+            "League of Dragons",
+            "Amelia Fang and the Lost Yeti Treasures",
+            "The Broken God #3",
+            "Slaves of Socorro",
+            "The Galaxy, and the Ground Within",
+            "The Magician's Land",
+            "The Miraculous Journey of Edward Tulane",
+            "The Faceless Ones",
+            "The Mysterious Benedict Society and the Prisoner's Dilemma",
+            "The Eager Elephant",
+            "The Wild Beyond",
+            "Rage of a Demon King"
+        ],
+        "num_added": 15,
+        "num_removed": 13,
+        "tot_changes": 2
+    },
+    "science-fiction": {
+        "num_old": 136,
+        "num_new": 137,
+        "added": [
+            "The Robots of Dawn",
+            "Robots and Empire",
+            "Ready Player One",
+            "Harry Potter and the Deathly Hallows",
+            "Vimana"
+        ],
+        "removed": [
+            "League of Dragons",
+            "Rage of a Demon King",
+            "The Galaxy, and the Ground Within"
+        ],
+        "num_added": 5,
+        "num_removed": 3,
+        "tot_changes": 1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 575,
+        "num_new": 624,
+        "added": [
+            "Into the Water",
+            "A Wanted Man",
+            "Vital Signs",
+            "The Sentinel",
+            "Sleeping Beauty Killer",
+            "Zoo",
+            "Terminal",
+            "Sethji",
+            "Mayhem at the Orient Express",
+            "Serpent",
+            "The Overlook",
+            "The Jungle",
+            "The Good Mothers",
+            "Trunk Music",
+            "Nothing to Lose",
+            "Flight of eagles",
+            "The Tree Secret Cities",
+            "The Luminaris Eleanor Catton",
+            "Breaking Point",
+            "The Girl in the Spider's Web",
+            "A Cause Untrue",
+            "Lost Empire",
+            "White Death",
+            "Hells corner",
+            "Patricia Cornwell Omnibus",
+            "Southern Crossu",
+            "Sacred Games part 2",
+            "The con man and til death",
+            "Seizure",
+            "Deck the Halls",
+            "Robots and Empire",
+            "The Cloisters",
+            "The Rule of Four",
+            "Jack & Jill",
+            "Fatal Cure",
+            "The Redeemer",
+            "Watching Eagles Soar",
+            "The Bourne Enigma",
+            "Skylight",
+            "To Kill the President",
+            "The Midnight Line",
+            "Memory man",
+            "The Target",
+            "Plague Ship",
+            "Out of this Woeld",
+            "Black Wind",
+            "Unfinished portrait",
+            "Outbreak"
+        ],
+        "removed": [
+            "DOGS OF WAR",
+            "Best Kept Secret",
+            "Goodnight Lady",
+            "Crazy Wild",
+            "Angels & Demons",
+            "Headhunters",
+            "Witness for The Prosecution",
+            "A Slow Burning"
+        ],
+        "num_added": 48,
+        "num_removed": 8,
+        "tot_changes": 49
+    },
+    "historical-fiction": {
+        "num_old": 224,
+        "num_new": 232,
+        "added": [
+            "Flight of eagles",
+            "Alaska",
+            "Water for Elephants",
+            "Street Child",
+            "Midnight Sun",
+            "ARYAVARTA CHRONICLES BOOK 3 KURUKSHETRA",
+            "Lost Empire",
+            "The Rule of Four",
+            "Our Violent Ends",
+            "Heads you win",
+            "The Search warrant",
+            "Black Wind",
+            "New Boy"
+        ],
+        "removed": [
+            "The Sins of the Father",
+            "Until You",
+            "League of Dragons",
+            "Goodnight Lady",
+            "The Grand Sophy",
+            "Emperor"
+        ],
+        "num_added": 13,
+        "num_removed": 6,
+        "tot_changes": 8
+    },
+    "contemporary": {
+        "num_old": 182,
+        "num_new": 197,
+        "added": [
+            "Winter",
+            "Hitman Anders and the Meaning of it All",
+            "A Long Way Down",
+            "Grand Union",
+            "Water for Elephants",
+            "The Crow Road",
+            "Own It: Leadership Lessons from Women Who Do",
+            "If He Had Been with Me",
+            "The Devil Wears Prada",
+            "Other Colours",
+            "The Girl in the Spider's Web",
+            "A Cause Untrue",
+            "God is Dead",
+            "Ordinary People",
+            "Heartstopper: Volume Two",
+            "Sacred Games part 2",
+            "The Water-method Man",
+            "Mascot"
+        ],
+        "removed": [
+            "Angels",
+            "Crazy Wild",
+            "7th Heaven",
+            "Goodnight Lady"
+        ],
+        "num_added": 18,
+        "num_removed": 4,
+        "tot_changes": 15
+    },
+    "history": {
+        "num_old": 124,
+        "num_new": 133,
+        "added": [
+            "Alaska",
+            "The German Genius",
+            "Street Child",
+            "The Mountain",
+            "The Luminaris Eleanor Catton",
+            "Global Inequality",
+            "The New Threat from Islamic Militancy",
+            "A (Very) Short History of Life on Earth",
+            "More From Less",
+            "The Good Mothers",
+            "The Search warrant",
+            "Twilight of the Money Gods"
+        ],
+        "removed": [
+            "The Book of Gutsy Women",
+            "Best Kept Secret",
+            "Savage Thunder"
+        ],
+        "num_added": 12,
+        "num_removed": 3,
+        "tot_changes": 9
+    }
 }
 ]
