@@ -6560,5 +6560,203 @@
         "num_removed": 3,
         "tot_changes": 9
     }
+},
+{"Date": "2026-05-25 11:59:28.517277"},
+{
+    "classics": {
+        "num_old": 53,
+        "num_new": 48,
+        "added": [
+            "Plain Tales from the Hills"
+        ],
+        "removed": [
+            "The Complete Novels of Jane Austen",
+            "Possession",
+            "Illustrated Classics : The Adventures of Robin Hood",
+            "Unfinished portrait",
+            "Om Illustrated Classics The Prince and the Pauper",
+            "Illustrated Classics: A Little Princess"
+        ],
+        "num_added": 1,
+        "num_removed": 6,
+        "tot_changes": -5
+    },
+    "fantasy": {
+        "num_old": 360,
+        "num_new": 346,
+        "added": [
+            "The Darkest Part of the Forest",
+            "A Storm of Swords",
+            "Inheritance : Book Four In The Inheritance Cycle",
+            "A Marvellous Light"
+        ],
+        "removed": [
+            "Messenger",
+            "The Dark is Rising sequence :Over Sea, Under Stone",
+            "The Giver Quartet - Son",
+            "Ready Player One",
+            "Brothers at War",
+            "The School for Good and Evil #5: A Crystal of Time",
+            "Om Illustrated Classics The Prince and the Pauper",
+            "Lord of the Shadows",
+            "The Dark is Rising sequence :The Dark Is Rising",
+            "Heroesons of Olympus The Blood of Olympus",
+            "Harry Potter and the Deathly Hallows",
+            "Gathering Blue",
+            "The Magician",
+            "Salamandastron",
+            "The Jungle of Horrors",
+            "kurukshetra"
+        ],
+        "num_added": 4,
+        "num_removed": 16,
+        "tot_changes": -14
+    },
+    "science-fiction": {
+        "num_old": 137,
+        "num_new": 134,
+        "added": [
+            "A Storm of Swords"
+        ],
+        "removed": [
+            "Messenger",
+            "Harry Potter and the Deathly Hallows",
+            "Adulthood Rites",
+            "Ready Player One"
+        ],
+        "num_added": 1,
+        "num_removed": 4,
+        "tot_changes": -3
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 624,
+        "num_new": 611,
+        "added": [
+            "The Sixth Lamentation",
+            "The Gemini Contenders",
+            "Tribute",
+            "Get Out of Town (Riverdale #2)",
+            "I Was Here",
+            "Faithless in Death"
+        ],
+        "removed": [
+            "The khufra run",
+            "Nothing to Lose",
+            "The Midnight Line",
+            "Jack & Jill",
+            "Possession",
+            "From Doon with Death",
+            "Unfinished portrait",
+            "A Wanted Man",
+            "The Sanctuary",
+            "Traitors Gate",
+            "The Sentinel",
+            "Pop Goes the Weasel",
+            "Critical Judgement",
+            "Out of Sight, Out of Time",
+            "Point Of Origin",
+            "Zoo",
+            "Southern Crossu"
+        ],
+        "num_added": 6,
+        "num_removed": 17,
+        "tot_changes": -13
+    },
+    "historical-fiction": {
+        "num_old": 232,
+        "num_new": 231,
+        "added": [
+            "The Sixth Lamentation",
+            "Milkman",
+            "Long island",
+            "What the Body Remembers",
+            "A Marvellous Light",
+            "Regency Scandals",
+            "White Ghost Girl"
+        ],
+        "removed": [
+            "Possession",
+            "Only Love Can Heal",
+            "Traitors Gate",
+            "Brothers at War",
+            "The Evening and the Morning",
+            "The Sanctuary",
+            "The Search warrant",
+            "A Breath Of Snow And Ashes #6",
+            "kurukshetra"
+        ],
+        "num_added": 7,
+        "num_removed": 9,
+        "tot_changes": -1
+    },
+    "contemporary": {
+        "num_old": 197,
+        "num_new": 200,
+        "added": [
+            "Battle for Bittora",
+            "Dare To Be Dirty",
+            "Tribute",
+            "Milkman",
+            "Get Out of Town (Riverdale #2)",
+            "Heartstopper: Volume Three",
+            "Further Under the Duvet",
+            "I Owe You One",
+            "Heartstopper: Volume Four",
+            "Shopaholic to the Stars",
+            "I Was Here",
+            "Wolf.E"
+        ],
+        "removed": [
+            "Own It: Leadership Lessons from Women Who Do",
+            "The Mistake",
+            "Winter",
+            "United We Spy: Book 6",
+            "Out of Sight, Out of Time",
+            "French Exit",
+            "Home Boy",
+            "Ordinary People"
+        ],
+        "num_added": 12,
+        "num_removed": 8,
+        "tot_changes": 3
+    },
+    "history": {
+        "num_old": 133,
+        "num_new": 143,
+        "added": [
+            "The Doomsday Machine",
+            "The Lives We Have Lost",
+            "The Sixth Lamentation",
+            "Churchill",
+            "The Wonder That Was India",
+            "Reach for the Skies",
+            "Fidel and Gabo",
+            "SPY CHRONICLES",
+            "Fight Like a Girl",
+            "Tudors: Volume II: A History of England",
+            "Turning the Tide",
+            "India Conquered",
+            "Doom: the Politics of Catastrophe",
+            "A short at history",
+            "After the Cataclysm",
+            "The Narrow Corridor",
+            "A golden age",
+            "White Mountain"
+        ],
+        "removed": [
+            "Nawabs nudes noodles",
+            "The German Genius",
+            "A (Very) Short History of Life on Earth",
+            "snakes and laddere",
+            "The Search warrant",
+            "The Ascent of Everest",
+            "Twilight of the Money Gods",
+            "Land where i flee",
+            "A Gentle Feuding"
+        ],
+        "num_added": 18,
+        "num_removed": 9,
+        "tot_changes": 10
+    }
 }
 ]
