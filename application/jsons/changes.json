@@ -6758,5 +6758,87 @@
         "num_removed": 9,
         "tot_changes": 10
     }
+},
+{"Date": "2026-05-27 15:07:45.365874"},
+{
+    "classics": {
+        "num_old": 48,
+        "num_new": 48,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 346,
+        "num_new": 342,
+        "added": [],
+        "removed": [
+            "Black Flag",
+            "Time's Arrow, Or, The Nature of the Offence",
+            "Assassin's Creed: Underworld"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -4
+    },
+    "science-fiction": {
+        "num_old": 134,
+        "num_new": 134,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 611,
+        "num_new": 611,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "historical-fiction": {
+        "num_old": 231,
+        "num_new": 228,
+        "added": [],
+        "removed": [
+            "The iron brand",
+            "Time's Arrow, Or, The Nature of the Offence",
+            "Assassin's Creed: Underworld"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    },
+    "contemporary": {
+        "num_old": 200,
+        "num_new": 194,
+        "added": [],
+        "removed": [
+            "The Crow Road",
+            "The Poet X",
+            "The Swimming-Pool Library",
+            "The Devil Wears Prada",
+            "Time's Arrow, Or, The Nature of the Offence"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -6
+    },
+    "history": {
+        "num_old": 143,
+        "num_new": 140,
+        "added": [],
+        "removed": [
+            "White Mountain"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -3
+    }
 }
 ]
