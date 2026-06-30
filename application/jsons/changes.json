@@ -7153,5 +7153,201 @@
         "num_removed": 15,
         "tot_changes": -14
     }
+},
+{"Date": "2026-06-30 13:51:41.229025"},
+{
+    "classics": {
+        "num_old": 42,
+        "num_new": 46,
+        "added": [
+            "Siddhartha",
+            "The Poems of Robert Browning",
+            "Toba Tek Singh",
+            "The Complete Illustrated Lewis Carroll",
+            "The Middle Passage"
+        ],
+        "removed": [
+            "The Rachel Papers"
+        ],
+        "num_added": 5,
+        "num_removed": 1,
+        "tot_changes": 4
+    },
+    "fantasy": {
+        "num_old": 255,
+        "num_new": 264,
+        "added": [
+            "Dodo",
+            "City of Lost Souls",
+            "Perfect",
+            "Lincoln in the Bardo",
+            "govinda",
+            "A Dance with Dragons",
+            "Rule of Wolves",
+            "Babel",
+            "CITY OF FALLEN ANGELS (THE MORTAL INSTRUMENTS 4)",
+            "The Complete Illustrated Lewis Carroll",
+            "A Storm of Swords: Part 2 Blood and Gold",
+            "silver myths and legends of the world"
+        ],
+        "removed": [
+            "The Tale of Despereaux",
+            "Lady Midnight"
+        ],
+        "num_added": 12,
+        "num_removed": 2,
+        "tot_changes": 9
+    },
+    "science-fiction": {
+        "num_old": 111,
+        "num_new": 117,
+        "added": [
+            "Dodo",
+            "THE NIGHT WINDOW",
+            "govinda",
+            "A Dance with Dragons",
+            "Perfect"
+        ],
+        "removed": [],
+        "num_added": 5,
+        "num_removed": 0,
+        "tot_changes": 6
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 539,
+        "num_new": 565,
+        "added": [
+            "Q Is for Quarry",
+            "Bihar Diaries",
+            "The overlook",
+            "I Is for Innocent",
+            "R is for Ricochet",
+            "O Is for Outlaw",
+            "N Is for Noose",
+            "X",
+            "K is for Killer",
+            "E Is for Evidence",
+            "The Midnight Line",
+            "B Is for Burglar",
+            "M Is for Malice",
+            "Yellow face",
+            "Critical Judgement",
+            "THE NIGHT WINDOW",
+            "Girl from Venice",
+            "Falling",
+            "F Is for Fugitive",
+            "L Is for Lawless",
+            "P is for Peril",
+            "The Confessions of Frannie Langton",
+            "C is For Corpse",
+            "H is for Homicide",
+            "W Is for Wasted",
+            "J Is for Judgment",
+            "The Simple Truth",
+            "A Slow Fire Burning"
+        ],
+        "removed": [
+            "Terminal",
+            "After the Party"
+        ],
+        "num_added": 28,
+        "num_removed": 2,
+        "tot_changes": 26
+    },
+    "historical-fiction": {
+        "num_old": 193,
+        "num_new": 207,
+        "added": [
+            "Dodo",
+            "Ten Kings",
+            "Raj",
+            "Girl from Venice",
+            "The Confessions of Frannie Langton",
+            "Toba Tek Singh",
+            "Warlight",
+            "Bridge of Clay",
+            "Lincoln in the Bardo",
+            "Padmavati: The Queen Tells Her Own Story",
+            "The Third Reaich",
+            "The Last River",
+            "Babel",
+            "Narcopolis",
+            "Warrior of Rome",
+            "Fortune's Soldier"
+        ],
+        "removed": [
+            "Wegener's Jigsaw",
+            "The opium Clerk",
+            "Home Front Girls"
+        ],
+        "num_added": 16,
+        "num_removed": 3,
+        "tot_changes": 14
+    },
+    "contemporary": {
+        "num_old": 171,
+        "num_new": 177,
+        "added": [
+            "Eyrie",
+            "The Mysteries of Pittsburgh",
+            "Bridge of Clay",
+            "The Blind Matriarch",
+            "Life Over Two Beers",
+            "Falling",
+            "I Have Become the Tide",
+            "Family Album",
+            "The Third Reaich",
+            "Who Is Rich?",
+            "Yellow face",
+            "Crazy Rich Asians",
+            "Shotgun Lovesongs",
+            "A Slow Fire Burning"
+        ],
+        "removed": [
+            "The Rachel Papers",
+            "The Boy at the Back of the Class",
+            "Can you keep a Secret?",
+            "Nightbloom",
+            "Other Colours",
+            "Christmas at the Beach Hut",
+            "Case Sensitive"
+        ],
+        "num_added": 14,
+        "num_removed": 7,
+        "tot_changes": 6
+    },
+    "history": {
+        "num_old": 126,
+        "num_new": 136,
+        "added": [
+            "Banco",
+            "Dodo",
+            "Land where i flee",
+            "India discovered",
+            "India Discovered",
+            "The Tiger and the Ruby",
+            "Jinnah vs. Gandhi",
+            "Mao Zedong",
+            "Stalingrad: The Fateful Siege: 1942-1943",
+            "Man-Eaters of Kumaon",
+            "A History of the Second World War",
+            "The Last River",
+            "The German Genius",
+            "The Middle Passage",
+            "In Spite of the Gods",
+            "Warrior of Rome"
+        ],
+        "removed": [
+            "A golden age",
+            "A Biography of the Pixel",
+            "America Before: the Key to Earth's Lost Civilization",
+            "The life of princess yashoda",
+            "The Shortest History of Innovation",
+            "Fidel and Gabo"
+        ],
+        "num_added": 16,
+        "num_removed": 6,
+        "tot_changes": 10
+    }
 }
 ]
