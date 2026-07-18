@@ -7349,5 +7349,138 @@
         "num_removed": 6,
         "tot_changes": 10
     }
+},
+{"Date": "2026-07-18 09:48:42.576309"},
+{
+    "classics": {
+        "num_old": 46,
+        "num_new": 39,
+        "added": [],
+        "removed": [
+            "Roots",
+            "Hornblower and the Hotspur",
+            "tess of the d'urbervilles",
+            "Twelfth Night",
+            "The Complete Illustrated Lewis Carroll",
+            "Birdsong",
+            "The Beauty of the Husband"
+        ],
+        "num_added": 0,
+        "num_removed": 7,
+        "tot_changes": -7
+    },
+    "fantasy": {
+        "num_old": 264,
+        "num_new": 251,
+        "added": [
+            "The Ultimate Hitchhiker's Guide to the Galaxy: A Trilogy in Five Parts"
+        ],
+        "removed": [
+            "Midnight Sun",
+            "Radiant Sin",
+            "The Tower of the Swallow",
+            "Deathtrap Dungeon",
+            "A Marvellous Light",
+            "Baptism of Fire",
+            "The Haunting of Hiram",
+            "Babel",
+            "Blood of Elves",
+            "Star Wars: Darth Bane - Path of Destruction",
+            "The Compelled, Vampire Diaries, Book 6",
+            "The Complete Illustrated Lewis Carroll",
+            "Lincoln in the Bardo"
+        ],
+        "num_added": 1,
+        "num_removed": 13,
+        "tot_changes": -13
+    },
+    "science-fiction": {
+        "num_old": 117,
+        "num_new": 114,
+        "added": [
+            "The Ultimate Hitchhiker's Guide to the Galaxy: A Trilogy in Five Parts"
+        ],
+        "removed": [
+            "Strangers in Death",
+            "Chapterhouse: Dune",
+            "Star Wars: Darth Bane - Path of Destruction",
+            "Baptism of Fire"
+        ],
+        "num_added": 1,
+        "num_removed": 4,
+        "tot_changes": -3
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 565,
+        "num_new": 547,
+        "added": [
+            "Shibumi"
+        ],
+        "removed": [
+            "Strangers in Death",
+            "The Affair",
+            "The Reckoning",
+            "Bangkok Haunts",
+            "K is for Killer",
+            "The Simple Truth",
+            "Missing Pieces",
+            "Hannibal",
+            "Espedair Street",
+            "Moonraker",
+            "Blue Lightning",
+            "Susanna's Seven Husbands",
+            "A Litter of Bones",
+            "4th of July",
+            "A Slow Fire Burning"
+        ],
+        "num_added": 1,
+        "num_removed": 15,
+        "tot_changes": -18
+    },
+    "historical-fiction": {
+        "num_old": 207,
+        "num_new": 200,
+        "added": [],
+        "removed": [
+            "Midnight Sun",
+            "A Marvellous Light",
+            "Babel",
+            "Frederica",
+            "Lincoln in the Bardo"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -7
+    },
+    "contemporary": {
+        "num_old": 177,
+        "num_new": 169,
+        "added": [],
+        "removed": [
+            "Grand Union",
+            "Until I Find You",
+            "Bangkok Haunts",
+            "Espedair Street",
+            "Transmission",
+            "A Slow Fire Burning",
+            "The Beauty of the Husband"
+        ],
+        "num_added": 0,
+        "num_removed": 7,
+        "tot_changes": -8
+    },
+    "history": {
+        "num_old": 136,
+        "num_new": 133,
+        "added": [],
+        "removed": [
+            "The Book of Love",
+            "Roots",
+            "No Full Stops in India"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    }
 }
 ]
