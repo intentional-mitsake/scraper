@@ -7482,5 +7482,166 @@
         "num_removed": 3,
         "tot_changes": -3
     }
+},
+{"Date": "2026-08-09 14:52:08.838471"},
+{
+    "classics": {
+        "num_old": 39,
+        "num_new": 37,
+        "added": [],
+        "removed": [
+            "Homage to Catalonia",
+            "The Songs of Distant Earth"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "fantasy": {
+        "num_old": 251,
+        "num_new": 232,
+        "added": [
+            "The Lies of Locke Lamora"
+        ],
+        "removed": [
+            "The Girl Who Saved Christmas",
+            "Pandemonium",
+            "Throne of Jade",
+            "The Demigod Files",
+            "Requiem",
+            "The Sun and Its Shade",
+            "Temeraire",
+            "Malice in Underland",
+            "The Ultimate Hitchhiker's Guide to the Galaxy: A Trilogy in Five Parts",
+            "Time Riders the Eternal War Book 4",
+            "Grace and Glory",
+            "The Songs of Distant Earth",
+            "Iron Ambition",
+            "Emily Windsnap and the Castle in the Mist",
+            "silver myths and legends of the world",
+            "The Ambassador's Mission",
+            "Queenslayer",
+            "TimeRiders: The Doomsday Code",
+            "Rage and Ruin",
+            "The Fiery Cross"
+        ],
+        "num_added": 1,
+        "num_removed": 20,
+        "tot_changes": -19
+    },
+    "science-fiction": {
+        "num_old": 114,
+        "num_new": 103,
+        "added": [],
+        "removed": [
+            "Requiem",
+            "Time Riders the Eternal War Book 4",
+            "The Songs of Distant Earth",
+            "The Green Brain",
+            "Stark's Crusade",
+            "TimeRiders: The Doomsday Code",
+            "Origin",
+            "The Long Mars",
+            "Pandemonium",
+            "The Ultimate Hitchhiker's Guide to the Galaxy: A Trilogy in Five Parts"
+        ],
+        "num_added": 0,
+        "num_removed": 10,
+        "tot_changes": -11
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 547,
+        "num_new": 531,
+        "added": [],
+        "removed": [
+            "The Mystery of the Strange Messages",
+            "Yellow face",
+            "One Enchanted Evening",
+            "'D' is for Deadbeat",
+            "Origin",
+            "Hidden Bodies",
+            "Red Bones",
+            "I Was Here",
+            "The Angel's Mark",
+            "Indian Cherub 01 THE RECRUIT",
+            "Deadly Election",
+            "The Overlook",
+            "The Negotiator",
+            "Deliver us from evil"
+        ],
+        "num_added": 0,
+        "num_removed": 14,
+        "tot_changes": -16
+    },
+    "historical-fiction": {
+        "num_old": 200,
+        "num_new": 187,
+        "added": [],
+        "removed": [
+            "Temeraire",
+            "Bridge of Clay",
+            "The Signature of All Things",
+            "The Heretic's Mark",
+            "One Enchanted Evening",
+            "Echoes Across the Mersey",
+            "To Desire a Wicked Duke",
+            "The Third Reaich",
+            "The Saracen's Mark",
+            "The Angel's Mark",
+            "Throne of Jade",
+            "A Family Christmas",
+            "The Fiery Cross"
+        ],
+        "num_added": 0,
+        "num_removed": 13,
+        "tot_changes": -13
+    },
+    "contemporary": {
+        "num_old": 169,
+        "num_new": 158,
+        "added": [],
+        "removed": [
+            "Bridge of Clay",
+            "Yellow face",
+            "Americanah",
+            "A Long Way Down",
+            "Madame",
+            "At first Sight",
+            "Hidden Bodies",
+            "The Third Reaich",
+            "I Have Become the Tide",
+            "I Was Here",
+            "Family Matters"
+        ],
+        "num_added": 0,
+        "num_removed": 11,
+        "tot_changes": -11
+    },
+    "history": {
+        "num_old": 133,
+        "num_new": 120,
+        "added": [
+            "The Book of Love"
+        ],
+        "removed": [
+            "Reach for the Skies",
+            "The Mountain",
+            "The Mersey Girls",
+            "Homage to Catalonia",
+            "Churchill, Hitler, and \"The Unnecessary War\"",
+            "The Lives We Have Lost",
+            "The Narrow Corridor",
+            "To Desire a Wicked Duke",
+            "Jinnah vs. Gandhi",
+            "Ultimate Travelist",
+            "Global Inequality",
+            "You Wouldn't Want to Live Without Books!",
+            "Churchill",
+            "Standard Operting procedure"
+        ],
+        "num_added": 1,
+        "num_removed": 14,
+        "tot_changes": -13
+    }
 }
 ]
