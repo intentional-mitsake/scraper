@@ -7643,5 +7643,207 @@
         "num_removed": 14,
         "tot_changes": -13
     }
+},
+{"Date": "2026-08-24 18:01:17.741096"},
+{
+    "classics": {
+        "num_old": 37,
+        "num_new": 34,
+        "added": [
+            "The Heart of a Goof",
+            "A Treatise of Human Nature"
+        ],
+        "removed": [
+            "The Swiss family Robinson",
+            "Delhi is Not Far",
+            "Siddhartha",
+            "One Two Buckle My Shoe",
+            "Siege of Mithila"
+        ],
+        "num_added": 2,
+        "num_removed": 5,
+        "tot_changes": -3
+    },
+    "fantasy": {
+        "num_old": 232,
+        "num_new": 226,
+        "added": [
+            "Beyond the Final Frontier",
+            "The Vampire Diaries: The Fury and Dark Reunion",
+            "Night Game",
+            "Dark Reunion",
+            "End of Watch",
+            "Sex and the City"
+        ],
+        "removed": [
+            "Midnight",
+            "ARYAVARTA CHRONICLES BOOK 3 KURUKSHETRA",
+            "The Eyre Affair",
+            "THE MAHABHARATA QUEST:THE ALEXANDER SECRET",
+            "Desert God",
+            "Flashback",
+            "Darien",
+            "God is Dead",
+            "Dragon Age - Last Flight",
+            "The School for Good Mothers",
+            "Siege of Mithila"
+        ],
+        "num_added": 6,
+        "num_removed": 11,
+        "tot_changes": -6
+    },
+    "science-fiction": {
+        "num_old": 103,
+        "num_new": 100,
+        "added": [
+            "The Long Mars",
+            "Doctor Who"
+        ],
+        "removed": [
+            "The Eyre Affair",
+            "The Four-gated City",
+            "Darien",
+            "Dragon Age - Last Flight",
+            "Invasion"
+        ],
+        "num_added": 2,
+        "num_removed": 5,
+        "tot_changes": -3
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 531,
+        "num_new": 506,
+        "added": [
+            "The Mystery of the Strange Messages",
+            "Deadly Election",
+            "Running Blind and the Freedom Trap",
+            "Sick Puppy",
+            "Avenger",
+            "Someone to Watch Over Me",
+            "A Sight for Sore Eyes",
+            "Red Bones",
+            "Polar Shift",
+            "End of Watch",
+            "Silent Partner"
+        ],
+        "removed": [
+            "The Bowness Bequest",
+            "The Girl in the Spider's Web",
+            "THE MAHABHARATA QUEST:THE ALEXANDER SECRET",
+            "Desert God",
+            "Sweetheart",
+            "Invisible Girl",
+            "Whistle Blower",
+            "Bitter Edge",
+            "The Shape of Snakes",
+            "vector",
+            "Invasion",
+            "Boy, Missing: World Book Day 2022",
+            "Gold Mine",
+            "The Janson Option",
+            "American Assassin",
+            "One Two Buckle My Shoe",
+            "Marker",
+            "The Windermere Witness (Lake District Mysteries #1)",
+            "H is for Homicide",
+            "The Redeemer",
+            "Six Graves To Munich",
+            "The Glided Edge",
+            "The Bourne Ultimatum",
+            "Case of Lies",
+            "To Kill the President",
+            "The Doomsday Prophecy",
+            "Cast Iron",
+            "New Moon",
+            "Proof of Collusion: How Trump Betrayed America",
+            "11th Hour",
+            "Is new york burning",
+            "Dead Heat",
+            "Break No Bones",
+            "Promises in Death",
+            "Killer Dreams"
+        ],
+        "num_added": 11,
+        "num_removed": 35,
+        "tot_changes": -25
+    },
+    "historical-fiction": {
+        "num_old": 187,
+        "num_new": 179,
+        "added": [
+            "A Family Christmas",
+            "The Wrecker"
+        ],
+        "removed": [
+            "Six Graves To Munich",
+            "Gold Mine",
+            "Narcopolis",
+            "ARYAVARTA CHRONICLES BOOK 3 KURUKSHETRA",
+            "Desert God",
+            "Kaspar",
+            "Padmavati: The Queen Tells Her Own Story",
+            "Darien",
+            "The Doomsday Prophecy"
+        ],
+        "num_added": 2,
+        "num_removed": 9,
+        "tot_changes": -8
+    },
+    "contemporary": {
+        "num_old": 158,
+        "num_new": 155,
+        "added": [
+            "The Long Walk Home",
+            "One with You",
+            "Take Me With You When You Go",
+            "Someone to Watch Over Me",
+            "J.D Robb",
+            "Sex and the City"
+        ],
+        "removed": [
+            "Apex Hides the Hurt",
+            "The Girl in the Spider's Web",
+            "Intimacy",
+            "Shotgun Lovesongs",
+            "Invisible Girl",
+            "God is Dead",
+            "Born confused",
+            "No More Secrets",
+            "The School for Good Mothers",
+            "Arranged Love",
+            "Beautiful Stranger (Beautiful Bastard #2)"
+        ],
+        "num_added": 6,
+        "num_removed": 11,
+        "tot_changes": -3
+    },
+    "history": {
+        "num_old": 120,
+        "num_new": 111,
+        "added": [
+            "The Mersey Girls",
+            "You Wouldn't Want to Live Without Books!",
+            "May You be the Mother of a Hundred sons",
+            "Love only once"
+        ],
+        "removed": [
+            "The Official Fahrenheit 9/11 Reader",
+            "Mao Zedong",
+            "Ten thousand miles without a cloud",
+            "Where Men Win Glory",
+            "The Book of Love",
+            "Still counting the dead",
+            "Heart of Thunder",
+            "The Jaguar Smile",
+            "The Lighthouse Stevensons",
+            "A History of the First World War",
+            "Proof of Collusion: How Trump Betrayed America",
+            "Man-Eaters of Kumaon",
+            "50 Objects from Vindolanda"
+        ],
+        "num_added": 4,
+        "num_removed": 13,
+        "tot_changes": -9
+    }
 }
 ]
