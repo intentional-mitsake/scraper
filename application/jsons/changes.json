@@ -7845,5 +7845,104 @@
         "num_removed": 13,
         "tot_changes": -9
     }
+},
+{"Date": "2026-09-04 13:49:59.902354"},
+{
+    "classics": {
+        "num_old": 34,
+        "num_new": 34,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 226,
+        "num_new": 223,
+        "added": [],
+        "removed": [
+            "The Cloisters",
+            "A Twist of Tales",
+            "Rosewater"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    },
+    "science-fiction": {
+        "num_old": 100,
+        "num_new": 98,
+        "added": [],
+        "removed": [
+            "Return of the Padawan",
+            "Rosewater"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 506,
+        "num_new": 493,
+        "added": [],
+        "removed": [
+            "The Demon Club",
+            "Blood and Treachery",
+            "Contagion",
+            "The Cloisters",
+            "Outbreak",
+            "Hornet Flight",
+            "Shibumi",
+            "Now and Then",
+            "Private L. A.",
+            "Poseidon's Arrow",
+            "The Crusader's Cross"
+        ],
+        "num_added": 0,
+        "num_removed": 11,
+        "tot_changes": -13
+    },
+    "historical-fiction": {
+        "num_old": 179,
+        "num_new": 177,
+        "added": [],
+        "removed": [
+            "Poseidon's Arrow",
+            "Hornet Flight"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "contemporary": {
+        "num_old": 155,
+        "num_new": 150,
+        "added": [],
+        "removed": [
+            "Life Over Two Beers",
+            "Finding Cassie",
+            "The Blind Matriarch",
+            "Crazy Rich Asians",
+            "Shopaholic Abroad"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -5
+    },
+    "history": {
+        "num_old": 111,
+        "num_new": 107,
+        "added": [],
+        "removed": [
+            "Stalingrad: The Fateful Siege: 1942-1943",
+            "Heart Aflame",
+            "The German Genius",
+            "India discovered"
+        ],
+        "num_added": 0,
+        "num_removed": 4,
+        "tot_changes": -4
+    }
 }
 ]
