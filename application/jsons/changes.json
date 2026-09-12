@@ -7944,5 +7944,107 @@
         "num_removed": 4,
         "tot_changes": -4
     }
+},
+{"Date": "2026-09-12 11:57:28.119532"},
+{
+    "classics": {
+        "num_old": 34,
+        "num_new": 28,
+        "added": [],
+        "removed": [
+            "The Poems of Robert Browning",
+            "Collected Poems of Robert Burns",
+            "A Treatise of Human Nature",
+            "Naughtiest Girl: 04: Here's The Naughtiest Girl",
+            "Plain Tales from the Hills",
+            "Much Ado about Nothing"
+        ],
+        "num_added": 0,
+        "num_removed": 6,
+        "tot_changes": -6
+    },
+    "fantasy": {
+        "num_old": 223,
+        "num_new": 222,
+        "added": [],
+        "removed": [
+            "The Dark Wild #2"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 98,
+        "num_new": 97,
+        "added": [],
+        "removed": [
+            "The Dark Wild #2"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 493,
+        "num_new": 483,
+        "added": [
+            "Darling of Rose Gold",
+            "Home"
+        ],
+        "removed": [
+            "Red Bones",
+            "The Coniston Case",
+            "Infamous",
+            "The Secret Speech",
+            "The No. 1 Ladies' Detective Agency",
+            "Victims",
+            "HIDDEN IN PLAIN SIGHT.",
+            "In Too Deep",
+            "Blink of an Eye in a heartbeat, life changes",
+            "Night Moves"
+        ],
+        "num_added": 2,
+        "num_removed": 10,
+        "tot_changes": -10
+    },
+    "historical-fiction": {
+        "num_old": 177,
+        "num_new": 175,
+        "added": [],
+        "removed": [
+            "HIDDEN IN PLAIN SIGHT.",
+            "The Secret Speech"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "contemporary": {
+        "num_old": 150,
+        "num_new": 149,
+        "added": [
+            "Darling of Rose Gold"
+        ],
+        "removed": [
+            "American Prince",
+            "Infamous"
+        ],
+        "num_added": 1,
+        "num_removed": 2,
+        "tot_changes": -1
+    },
+    "history": {
+        "num_old": 107,
+        "num_new": 105,
+        "added": [],
+        "removed": [
+            "India Discovered",
+            "Doom: the Politics of Catastrophe"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    }
 }
 ]
