@@ -8046,5 +8046,137 @@
         "num_removed": 2,
         "tot_changes": -2
     }
+},
+{"Date": "2026-09-19 08:30:28.267187"},
+{
+    "classics": {
+        "num_old": 28,
+        "num_new": 32,
+        "added": [
+            "Plain Tales from the Hills",
+            "The agony and the ecstasy",
+            "Fear and Loathing in Las Vegas",
+            "Much Ado about Nothing"
+        ],
+        "removed": [],
+        "num_added": 4,
+        "num_removed": 0,
+        "tot_changes": 4
+    },
+    "fantasy": {
+        "num_old": 222,
+        "num_new": 221,
+        "added": [
+            "CITY OF FALLEN ANGELS",
+            "Heretics of Dune",
+            "Kingdom of ASH",
+            "The Tiger in the Well",
+            "Voice of the gods",
+            "In the Flesh"
+        ],
+        "removed": [
+            "Death of Kings",
+            "And the Rest is History",
+            "The Broken Eye",
+            "Portent",
+            "Fantastic Beasts and Where to Find Them",
+            "Sex and the City",
+            "CITY OF FALLEN ANGELS (THE MORTAL INSTRUMENTS 4)"
+        ],
+        "num_added": 6,
+        "num_removed": 7,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 97,
+        "num_new": 96,
+        "added": [
+            "Heretics of Dune",
+            "Firestarter"
+        ],
+        "removed": [
+            "Robots and Empire",
+            "The Robots of Dawn",
+            "And the Rest is History"
+        ],
+        "num_added": 2,
+        "num_removed": 3,
+        "tot_changes": -1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 483,
+        "num_new": 485,
+        "added": [
+            "One Arranged Murder",
+            "The Tiger in the Well",
+            "Midnight Angels",
+            "True detectives",
+            "Trunk Music",
+            "The Last Juror",
+            "Firestarter"
+        ],
+        "removed": [
+            "Robots and Empire",
+            "REIGN in HELL",
+            "Circus",
+            "puppet on a chain",
+            "Portent"
+        ],
+        "num_added": 7,
+        "num_removed": 5,
+        "tot_changes": 2
+    },
+    "historical-fiction": {
+        "num_old": 175,
+        "num_new": 174,
+        "added": [
+            "The Tiger in the Well"
+        ],
+        "removed": [
+            "Death of Kings",
+            "And the Rest is History"
+        ],
+        "num_added": 1,
+        "num_removed": 2,
+        "tot_changes": -1
+    },
+    "contemporary": {
+        "num_old": 149,
+        "num_new": 152,
+        "added": [
+            "One Arranged Murder",
+            "Coming Out",
+            "Shopaholic Abroad",
+            "Sweet Salt Air",
+            "Fear and Loathing in Las Vegas"
+        ],
+        "removed": [
+            "Sex and the City",
+            "This Summer Will Be Different"
+        ],
+        "num_added": 5,
+        "num_removed": 2,
+        "tot_changes": 3
+    },
+    "history": {
+        "num_old": 105,
+        "num_new": 108,
+        "added": [
+            "What Are We Doing Here?",
+            "India's Struggle for Independence",
+            "The Mueller Report",
+            "In the Flesh",
+            "Revenge of the Tipping Point",
+            "Gay Icons of India"
+        ],
+        "removed": [
+            "Trespassers On The Roof Of The World",
+            "More From Less",
+            "The Pale Horseman"
+        ],
+        "num_added": 6,
+        "num_removed": 3,
+        "tot_changes": 3
+    }
 }
 ]
