@@ -8178,5 +8178,220 @@
         "num_removed": 3,
         "tot_changes": 3
     }
+},
+{"Date": "2026-09-24 13:49:49.422324"},
+{
+    "classics": {
+        "num_old": 32,
+        "num_new": 34,
+        "added": [
+            "The Republic",
+            "Blindness",
+            "The Last Temptation"
+        ],
+        "removed": [
+            "The Heart of a Goof"
+        ],
+        "num_added": 3,
+        "num_removed": 1,
+        "tot_changes": 2
+    },
+    "fantasy": {
+        "num_old": 221,
+        "num_new": 199,
+        "added": [
+            "Awakened",
+            "Definitely Dead",
+            "The Unconsoled",
+            "Dead as a doornail",
+            "The Tin Princess"
+        ],
+        "removed": [
+            "Warriors: Omen of the Stars #2: Fading Echoes",
+            "Heretics of Dune",
+            "The Great Pursuit",
+            "CITY OF FALLEN ANGELS",
+            "The Vampire Diaries: The Fury and Dark Reunion",
+            "Jaal",
+            "Infinite Ground",
+            "Doombringer",
+            "Kingdom of ASH",
+            "The Loss",
+            "govinda",
+            "The House of Hades (Heroes of Olympus Book 4)",
+            "A Storm of Swords: Part 2 Blood and Gold",
+            "The Serpent's Shadow",
+            "The One Tree",
+            "Mysteries According to Humphrey",
+            "The Tiger in the Well",
+            "A Dance with Dragons",
+            "What maya sow",
+            "Living dead in Dallas",
+            "Dark Reunion",
+            "City of Heavenly Fire book 6"
+        ],
+        "num_added": 5,
+        "num_removed": 22,
+        "tot_changes": -22
+    },
+    "science-fiction": {
+        "num_old": 96,
+        "num_new": 86,
+        "added": [
+            "Robots and Empire"
+        ],
+        "removed": [
+            "2061:Odyssey Three",
+            "The One Tree",
+            "Heretics of Dune",
+            "To of a kind diaries-so littel",
+            "Firestarter",
+            "Jedi Academy",
+            "Infinite Ground",
+            "A Dance with Dragons",
+            "The Long Mars",
+            "govinda"
+        ],
+        "num_added": 1,
+        "num_removed": 10,
+        "tot_changes": -10
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 485,
+        "num_new": 443,
+        "added": [
+            "Robots and Empire",
+            "Crooked House",
+            "The Tin Princess"
+        ],
+        "removed": [
+            "R is for Ricochet",
+            "The Jungle",
+            "Bihar Diaries",
+            "C is For Corpse",
+            "Private",
+            "Swimsuit",
+            "Hells corner",
+            "Y Is for Yesterday",
+            "Lost Empire",
+            "M Is for Malice",
+            "The Fourth Hand",
+            "L Is for Lawless",
+            "Bleachers",
+            "Gorky Park",
+            "Sethji",
+            "The Bourne Enigma",
+            "The Girl Who Kicked the Hornets' Nest",
+            "E Is for Evidence",
+            "The Confessions of Frannie Langton",
+            "Knife Edge",
+            "Q Is for Quarry",
+            "Mysteries According to Humphrey",
+            "Firestarter",
+            "Trunk Music",
+            "W Is for Wasted",
+            "The Tiger in the Well",
+            "The Bourne Objective",
+            "O Is for Outlaw",
+            "N Is for Noose",
+            "The Midnight Line",
+            "B Is for Burglar",
+            "Memory man",
+            "Deadly Election",
+            "The Last Juror",
+            "Death of a Cheerleader",
+            "True detectives",
+            "P is for Peril",
+            "Puppet On a Chain",
+            "The Glass Room"
+        ],
+        "num_added": 3,
+        "num_removed": 39,
+        "tot_changes": -42
+    },
+    "historical-fiction": {
+        "num_old": 174,
+        "num_new": 164,
+        "added": [
+            "The Last Temptation"
+        ],
+        "removed": [
+            "The Last River",
+            "Moonlight Over Mayfair",
+            "The Wrecker",
+            "The Tiger in the Well",
+            "Street Child",
+            "Lost Empire",
+            "A Splendid Little War",
+            "The Confessions of Frannie Langton",
+            "The Infinite Plan",
+            "Fortune's Soldier"
+        ],
+        "num_added": 1,
+        "num_removed": 10,
+        "tot_changes": -10
+    },
+    "contemporary": {
+        "num_old": 152,
+        "num_new": 140,
+        "added": [
+            "Paris for One and Other Stories",
+            "The Heart of Devin MacKade",
+            "The Fix",
+            "Buddhaland Brooklyn",
+            "The Unconsoled",
+            "Equations",
+            "Everything, Everything"
+        ],
+        "removed": [
+            "Sweet Salt Air",
+            "Steaking with the angel",
+            "Shopaholic Abroad",
+            "Long way down",
+            "The Accidental Husband",
+            "Same Difference",
+            "A Sicilian Affair",
+            "The Girl Who Kicked the Hornets' Nest",
+            "Further Under the Duvet",
+            "Shopaholic to the Stars",
+            "Angus, Thongs and Full-frontal Snogging",
+            "Mascot",
+            "Under a Greek Moon",
+            "The Long Walk Home",
+            "Coming Out",
+            "Take Me With You When You Go",
+            "Family Album",
+            "Bleachers"
+        ],
+        "num_added": 7,
+        "num_removed": 18,
+        "tot_changes": -12
+    },
+    "history": {
+        "num_old": 108,
+        "num_new": 98,
+        "added": [
+            "The Republic",
+            "Killing Jesus",
+            "The secret of Lanka"
+        ],
+        "removed": [
+            "SAS Ghost Patrol",
+            "Cut-Throat Celts",
+            "The Last River",
+            "The Mersey Girls",
+            "Tudors: Volume II: A History of England",
+            "May You be the Mother of a Hundred sons",
+            "Street Child",
+            "The Etymologicon",
+            "You Wouldn't Want to Live Without Books!",
+            "Mayada Daughter of iraq",
+            "Traveling with Che Guevara",
+            "Land where i flee"
+        ],
+        "num_added": 3,
+        "num_removed": 12,
+        "tot_changes": -10
+    }
 }
 ]
