@@ -9904,5 +9904,79 @@
         "num_removed": 21,
         "tot_changes": -10
     }
+},
+{"Date": "2026-10-07 04:17:46.015572"},
+{
+    "classics": {
+        "num_old": 31,
+        "num_new": 31,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 212,
+        "num_new": 211,
+        "added": [],
+        "removed": [
+            "The Enchantress of Florence"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 88,
+        "num_new": 88,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 444,
+        "num_new": 443,
+        "added": [],
+        "removed": [
+            "Spook Street"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "historical-fiction": {
+        "num_old": 167,
+        "num_new": 166,
+        "added": [],
+        "removed": [
+            "The Enchantress of Florence"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "contemporary": {
+        "num_old": 163,
+        "num_new": 163,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "history": {
+        "num_old": 108,
+        "num_new": 107,
+        "added": [],
+        "removed": [
+            "North Korea Undercover"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    }
 }
 ]
