@@ -9978,5 +9978,107 @@
         "num_removed": 1,
         "tot_changes": -1
     }
+},
+{"Date": "2026-10-10 04:19:13.190844"},
+{
+    "classics": {
+        "num_old": 31,
+        "num_new": 30,
+        "added": [],
+        "removed": [
+            "The Great Fortune"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 211,
+        "num_new": 201,
+        "added": [],
+        "removed": [
+            "Dead and Gone",
+            "Eclipse",
+            "Academ's Fury",
+            "The Darkest Part of the Forest",
+            "Angels' Blood",
+            "Dead to the world",
+            "Skin Game",
+            "Deadlocked",
+            "The Red Pyramid",
+            "Dark Romance Collection: Raising demons : a Hex Hall novel"
+        ],
+        "num_added": 0,
+        "num_removed": 10,
+        "tot_changes": -10
+    },
+    "science-fiction": {
+        "num_old": 88,
+        "num_new": 87,
+        "added": [],
+        "removed": [
+            "The Atlantis Gene"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 443,
+        "num_new": 436,
+        "added": [],
+        "removed": [
+            "Bare Bones",
+            "Death Undercover",
+            "D\u00e9j\u00e0 Dead",
+            "Skin Game",
+            "The Atlantis Gene",
+            "Speaking in Bones",
+            "The Skeleton Key"
+        ],
+        "num_added": 0,
+        "num_removed": 7,
+        "tot_changes": -7
+    },
+    "historical-fiction": {
+        "num_old": 166,
+        "num_new": 163,
+        "added": [],
+        "removed": [
+            "The Great Fortune",
+            "The Bridgertons: Happily Ever After",
+            "A season for martyrs"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    },
+    "contemporary": {
+        "num_old": 163,
+        "num_new": 157,
+        "added": [],
+        "removed": [
+            "The magical Palace",
+            "Equations",
+            "A season for martyrs",
+            "Khushwant Singh Selects Best Indian Short Stories - Volume II",
+            "Americanah",
+            "The Golden Gate"
+        ],
+        "num_added": 0,
+        "num_removed": 6,
+        "tot_changes": -6
+    },
+    "history": {
+        "num_old": 107,
+        "num_new": 106,
+        "added": [],
+        "removed": [
+            "The Gladiator's Honour"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    }
 }
 ]
