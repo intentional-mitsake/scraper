@@ -10080,5 +10080,109 @@
         "num_removed": 1,
         "tot_changes": -1
     }
+},
+{"Date": "2026-10-13 05:27:58.847633"},
+{
+    "classics": {
+        "num_old": 30,
+        "num_new": 29,
+        "added": [],
+        "removed": [
+            "The Middle Passage"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 201,
+        "num_new": 200,
+        "added": [
+            "The Enchantress of Florence"
+        ],
+        "removed": [
+            "Fracture",
+            "The Tiger in the Well"
+        ],
+        "num_added": 1,
+        "num_removed": 2,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 87,
+        "num_new": 87,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 436,
+        "num_new": 425,
+        "added": [],
+        "removed": [
+            "Demon Seed",
+            "You may now kill the bride",
+            "The Eye of the Tiger",
+            "Accident",
+            "The Word",
+            "Mistress of the game",
+            "Faithless in Death",
+            "Sail"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -11
+    },
+    "historical-fiction": {
+        "num_old": 163,
+        "num_new": 159,
+        "added": [
+            "The Enchantress of Florence"
+        ],
+        "removed": [
+            "Last Night in Twisted River",
+            "The Secret Diaries Of Miss Miranda Cheever",
+            "The Word",
+            "The Eye of the Tiger"
+        ],
+        "num_added": 1,
+        "num_removed": 4,
+        "tot_changes": -4
+    },
+    "contemporary": {
+        "num_old": 157,
+        "num_new": 149,
+        "added": [],
+        "removed": [
+            "Star-Crossed",
+            "The Carriage House",
+            "Everything, Everything",
+            "Heartstopper: Volume Two",
+            "Last Night in Twisted River",
+            "Tell me something",
+            "The Dirty Book Clut",
+            "The 158-Pound Marriage"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -8
+    },
+    "history": {
+        "num_old": 106,
+        "num_new": 101,
+        "added": [],
+        "removed": [
+            "After the Cataclysm",
+            "The Middle Passage",
+            "Troublesome Words",
+            "The Doomsday Machine",
+            "The Tiger in the Well"
+        ],
+        "num_added": 0,
+        "num_removed": 5,
+        "tot_changes": -5
+    }
 }
 ]
