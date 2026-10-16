@@ -10184,5 +10184,103 @@
         "num_removed": 5,
         "tot_changes": -5
     }
+},
+{"Date": "2026-10-16 03:07:20.412953"},
+{
+    "classics": {
+        "num_old": 29,
+        "num_new": 28,
+        "added": [],
+        "removed": [
+            "The Magician's Nephew"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 200,
+        "num_new": 201,
+        "added": [
+            "Skin Game",
+            "The Darkest Part of the Forest"
+        ],
+        "removed": [
+            "The Ripper"
+        ],
+        "num_added": 2,
+        "num_removed": 1,
+        "tot_changes": 1
+    },
+    "science-fiction": {
+        "num_old": 87,
+        "num_new": 87,
+        "added": [
+            "Murderous Maths: Guaranteed to Bend Your Brain"
+        ],
+        "removed": [
+            "last light"
+        ],
+        "num_added": 1,
+        "num_removed": 1,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 425,
+        "num_new": 427,
+        "added": [
+            "D\u00e9j\u00e0 Dead",
+            "Skin Game",
+            "The Mystery of the Strange Bundle",
+            "You may now kill the bride",
+            "The Mystery of the Strange Messages"
+        ],
+        "removed": [
+            "last light",
+            "Cover Of Night",
+            "Novel about My Wife"
+        ],
+        "num_added": 5,
+        "num_removed": 3,
+        "tot_changes": 2
+    },
+    "historical-fiction": {
+        "num_old": 159,
+        "num_new": 160,
+        "added": [
+            "The Bridgertons: Happily Ever After"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    },
+    "contemporary": {
+        "num_old": 149,
+        "num_new": 148,
+        "added": [
+            "Tell me something"
+        ],
+        "removed": [
+            "Cover Of Night",
+            "Novel about My Wife"
+        ],
+        "num_added": 1,
+        "num_removed": 2,
+        "tot_changes": -1
+    },
+    "history": {
+        "num_old": 101,
+        "num_new": 98,
+        "added": [],
+        "removed": [
+            "The Book of Love",
+            "Sky Train",
+            "The Gospel According to Judas"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    }
 }
 ]
