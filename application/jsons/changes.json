@@ -10282,5 +10282,87 @@
         "num_removed": 3,
         "tot_changes": -3
     }
+},
+{"Date": "2026-10-19 03:14:45.609580"},
+{
+    "classics": {
+        "num_old": 28,
+        "num_new": 26,
+        "added": [],
+        "removed": [
+            "Fear and Loathing in Las Vegas",
+            "Lord Jim/Victory (2 in 1)"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "fantasy": {
+        "num_old": 201,
+        "num_new": 202,
+        "added": [
+            "Percy Jackson and the Titan's Curse"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    },
+    "science-fiction": {
+        "num_old": 87,
+        "num_new": 87,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 427,
+        "num_new": 426,
+        "added": [],
+        "removed": [
+            "Bring Me Back",
+            "Deception"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -1
+    },
+    "historical-fiction": {
+        "num_old": 160,
+        "num_new": 158,
+        "added": [],
+        "removed": [
+            "Sword Song",
+            "Last Friends",
+            "The Hammer of Eden"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -2
+    },
+    "contemporary": {
+        "num_old": 148,
+        "num_new": 148,
+        "added": [],
+        "removed": [
+            "Fear and Loathing in Las Vegas"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": 0
+    },
+    "history": {
+        "num_old": 98,
+        "num_new": 99,
+        "added": [
+            "Introducing Aesthetics"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    }
 }
 ]
