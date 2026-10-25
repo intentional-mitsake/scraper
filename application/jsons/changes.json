@@ -10430,5 +10430,94 @@
         "num_removed": 0,
         "tot_changes": 0
     }
+},
+{"Date": "2026-10-25 03:11:34.298993"},
+{
+    "classics": {
+        "num_old": 26,
+        "num_new": 26,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 202,
+        "num_new": 201,
+        "added": [],
+        "removed": [
+            "Wizard and Glass"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 87,
+        "num_new": 79,
+        "added": [],
+        "removed": [
+            "A New Hope",
+            "Valiant",
+            "The Lost Fleet #5 Relentless",
+            "Victorious",
+            "Wizard and Glass",
+            "Return of the Jedi",
+            "Robots and Empire",
+            "The Lost Fleet"
+        ],
+        "num_added": 0,
+        "num_removed": 8,
+        "tot_changes": -8
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 426,
+        "num_new": 423,
+        "added": [],
+        "removed": [
+            "Robots and Empire",
+            "Critical Judgement",
+            "Stasi Winter"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    },
+    "historical-fiction": {
+        "num_old": 158,
+        "num_new": 156,
+        "added": [],
+        "removed": [
+            "Ten Kings",
+            "Stasi Winter"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "contemporary": {
+        "num_old": 148,
+        "num_new": 146,
+        "added": [],
+        "removed": [
+            "Sweet Revenge",
+            "Dare To Be Dirty"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "history": {
+        "num_old": 99,
+        "num_new": 98,
+        "added": [],
+        "removed": [
+            "Nixon and Mao"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    }
 }
 ]
