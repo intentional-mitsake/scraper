@@ -10519,5 +10519,83 @@
         "num_removed": 1,
         "tot_changes": -1
     }
+},
+{"Date": "2026-10-28 03:58:17.487181"},
+{
+    "classics": {
+        "num_old": 26,
+        "num_new": 27,
+        "added": [
+            "Lord Jim/Victory (2 in 1)"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    },
+    "fantasy": {
+        "num_old": 201,
+        "num_new": 200,
+        "added": [
+            "Wizard and Glass"
+        ],
+        "removed": [
+            "The Subtle Knife"
+        ],
+        "num_added": 1,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "science-fiction": {
+        "num_old": 79,
+        "num_new": 80,
+        "added": [
+            "Wizard and Glass"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 423,
+        "num_new": 424,
+        "added": [
+            "Bring Me Back"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    },
+    "historical-fiction": {
+        "num_old": 156,
+        "num_new": 156,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "contemporary": {
+        "num_old": 146,
+        "num_new": 146,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "history": {
+        "num_old": 98,
+        "num_new": 97,
+        "added": [],
+        "removed": [
+            "The Tiger and the Ruby"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    }
 }
 ]
