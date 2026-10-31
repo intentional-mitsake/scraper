@@ -10597,5 +10597,80 @@
         "num_removed": 1,
         "tot_changes": -1
     }
+},
+{"Date": "2026-10-31 04:01:51.012415"},
+{
+    "classics": {
+        "num_old": 27,
+        "num_new": 27,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 200,
+        "num_new": 200,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "science-fiction": {
+        "num_old": 80,
+        "num_new": 80,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 424,
+        "num_new": 422,
+        "added": [],
+        "removed": [
+            "The 5th Horseman",
+            "The Last Precinct"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    },
+    "historical-fiction": {
+        "num_old": 156,
+        "num_new": 156,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "contemporary": {
+        "num_old": 146,
+        "num_new": 145,
+        "added": [],
+        "removed": [
+            "The Mysteries of Pittsburgh"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "history": {
+        "num_old": 97,
+        "num_new": 94,
+        "added": [],
+        "removed": [
+            "A Heart so wild",
+            "100 headline that changed the world",
+            "Those magnificent Women and their Flying Machines"
+        ],
+        "num_added": 0,
+        "num_removed": 3,
+        "tot_changes": -3
+    }
 }
 ]
