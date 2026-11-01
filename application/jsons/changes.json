@@ -10672,5 +10672,107 @@
         "num_removed": 3,
         "tot_changes": -3
     }
+},
+{"Date": "2026-11-01 04:23:19.578784"},
+{
+    "classics": {
+        "num_old": 27,
+        "num_new": 28,
+        "added": [
+            "Anne of Green Gables #6 Anne of Ingleside"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    },
+    "fantasy": {
+        "num_old": 200,
+        "num_new": 214,
+        "added": [
+            "Warriors: Power of Three #1: The Sight",
+            "Shadow Souls",
+            "Birds of prey",
+            "Odyssey",
+            "Eragon",
+            "Dark Age",
+            "Red Seas Under Red Skies",
+            "The Slow Regard of Silent Things",
+            "Trixie the Halloween Fairy",
+            "Dead Reckoning",
+            "The Faithful and the Fallen #3: Ruin",
+            "The Miraculous Journey of Edward Tulane",
+            "Outcast"
+        ],
+        "removed": [],
+        "num_added": 13,
+        "num_removed": 0,
+        "tot_changes": 14
+    },
+    "science-fiction": {
+        "num_old": 80,
+        "num_new": 82,
+        "added": [
+            "The Faithful and the Fallen #3: Ruin",
+            "Dark Age"
+        ],
+        "removed": [],
+        "num_added": 2,
+        "num_removed": 0,
+        "tot_changes": 2
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 422,
+        "num_new": 423,
+        "added": [
+            "Cruel And Unusual",
+            "Dead Ground",
+            "Yellow face"
+        ],
+        "removed": [
+            "A Sight for Sore Eyes",
+            "Silent Partner"
+        ],
+        "num_added": 3,
+        "num_removed": 2,
+        "tot_changes": 1
+    },
+    "historical-fiction": {
+        "num_old": 156,
+        "num_new": 160,
+        "added": [
+            "Anne of Green Gables #6 Anne of Ingleside",
+            "Birds of prey",
+            "Odyssey"
+        ],
+        "removed": [],
+        "num_added": 3,
+        "num_removed": 0,
+        "tot_changes": 4
+    },
+    "contemporary": {
+        "num_old": 145,
+        "num_new": 148,
+        "added": [
+            "The Right Move: Windy City Book 2",
+            "Yellow face",
+            "Mile High"
+        ],
+        "removed": [],
+        "num_added": 3,
+        "num_removed": 0,
+        "tot_changes": 3
+    },
+    "history": {
+        "num_old": 94,
+        "num_new": 95,
+        "added": [
+            "Odyssey"
+        ],
+        "removed": [],
+        "num_added": 1,
+        "num_removed": 0,
+        "tot_changes": 1
+    }
 }
 ]
