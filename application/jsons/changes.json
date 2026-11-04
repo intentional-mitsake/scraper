@@ -10774,5 +10774,83 @@
         "num_removed": 0,
         "tot_changes": 1
     }
+},
+{"Date": "2026-11-04 04:50:29.278429"},
+{
+    "classics": {
+        "num_old": 28,
+        "num_new": 27,
+        "added": [],
+        "removed": [
+            "Toba Tek Singh"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 214,
+        "num_new": 214,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "science-fiction": {
+        "num_old": 82,
+        "num_new": 82,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 423,
+        "num_new": 422,
+        "added": [],
+        "removed": [
+            "X"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "historical-fiction": {
+        "num_old": 160,
+        "num_new": 159,
+        "added": [],
+        "removed": [
+            "Toba Tek Singh"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "contemporary": {
+        "num_old": 148,
+        "num_new": 145,
+        "added": [],
+        "removed": [
+            "The Sari Shop Widow",
+            "Last Man in Tower"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -3
+    },
+    "history": {
+        "num_old": 95,
+        "num_new": 93,
+        "added": [],
+        "removed": [
+            "Revenge of the Tipping Point",
+            "India's Struggle for Independence"
+        ],
+        "num_added": 0,
+        "num_removed": 2,
+        "tot_changes": -2
+    }
 }
 ]
