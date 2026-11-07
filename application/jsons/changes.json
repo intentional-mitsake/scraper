@@ -10852,5 +10852,101 @@
         "num_removed": 2,
         "tot_changes": -2
     }
+},
+{"Date": "2026-11-07 04:38:31.471515"},
+{
+    "classics": {
+        "num_old": 27,
+        "num_new": 27,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 214,
+        "num_new": 219,
+        "added": [
+            "Ruth the Red Riding Hood Fairy",
+            "Natalie the Christmas Stocking Fairy",
+            "Mariana The Goldilocks Fairy",
+            "Feather and Flame",
+            "The Legend of Podkin One-Ear"
+        ],
+        "removed": [
+            "Odyssey"
+        ],
+        "num_added": 5,
+        "num_removed": 1,
+        "tot_changes": 5
+    },
+    "science-fiction": {
+        "num_old": 82,
+        "num_new": 82,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 422,
+        "num_new": 422,
+        "added": [
+            "The Liar",
+            "The Black Echo",
+            "Night's Child"
+        ],
+        "removed": [
+            "The Burial Circle",
+            "Into the Water",
+            "Never Say Die"
+        ],
+        "num_added": 3,
+        "num_removed": 3,
+        "tot_changes": 0
+    },
+    "historical-fiction": {
+        "num_old": 159,
+        "num_new": 162,
+        "added": [
+            "When the Bough Breaks",
+            "Triumph Of The Sun",
+            "Feather and Flame",
+            "Night's Child"
+        ],
+        "removed": [
+            "Odyssey"
+        ],
+        "num_added": 4,
+        "num_removed": 1,
+        "tot_changes": 3
+    },
+    "contemporary": {
+        "num_old": 145,
+        "num_new": 144,
+        "added": [],
+        "removed": [
+            "Wolf.E"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "history": {
+        "num_old": 93,
+        "num_new": 92,
+        "added": [
+            "In the Shadow of the Sword"
+        ],
+        "removed": [
+            "Odyssey",
+            "Magna Carta"
+        ],
+        "num_added": 1,
+        "num_removed": 2,
+        "tot_changes": -1
+    }
 }
 ]
