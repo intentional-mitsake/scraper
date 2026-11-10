@@ -10948,5 +10948,88 @@
         "num_removed": 2,
         "tot_changes": -1
     }
+},
+{"Date": "2026-11-10 05:55:54.156508"},
+{
+    "classics": {
+        "num_old": 27,
+        "num_new": 26,
+        "added": [],
+        "removed": [
+            "Henry IV (Part- 1)"
+        ],
+        "num_added": 0,
+        "num_removed": 1,
+        "tot_changes": -1
+    },
+    "fantasy": {
+        "num_old": 219,
+        "num_new": 223,
+        "added": [
+            "Spark of the Everflame",
+            "Esther the Kindness Fairy",
+            "Wicked Beauty"
+        ],
+        "removed": [],
+        "num_added": 3,
+        "num_removed": 0,
+        "tot_changes": 4
+    },
+    "science-fiction": {
+        "num_old": 82,
+        "num_new": 82,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 422,
+        "num_new": 423,
+        "added": [
+            "A Bone of Contention",
+            "The Mercy Chair"
+        ],
+        "removed": [
+            "Dead Ground",
+            "The Bourne Sanction"
+        ],
+        "num_added": 2,
+        "num_removed": 2,
+        "tot_changes": 1
+    },
+    "historical-fiction": {
+        "num_old": 162,
+        "num_new": 163,
+        "added": [
+            "A Bone of Contention",
+            "The Healing Stream"
+        ],
+        "removed": [
+            "Sharpe's Devil"
+        ],
+        "num_added": 2,
+        "num_removed": 1,
+        "tot_changes": 1
+    },
+    "contemporary": {
+        "num_old": 144,
+        "num_new": 144,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "history": {
+        "num_old": 92,
+        "num_new": 92,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    }
 }
 ]
