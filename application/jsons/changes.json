@@ -11031,5 +11031,120 @@
         "num_removed": 0,
         "tot_changes": 0
     }
+},
+{"Date": "2026-11-13 05:02:21.555327"},
+{
+    "classics": {
+        "num_old": 26,
+        "num_new": 26,
+        "added": [],
+        "removed": [],
+        "num_added": 0,
+        "num_removed": 0,
+        "tot_changes": 0
+    },
+    "fantasy": {
+        "num_old": 223,
+        "num_new": 234,
+        "added": [
+            "The Long Cosmos",
+            "Amulet Book 1: The Stonekeeper",
+            "Dead and Gone",
+            "Percy Jackson and the Lightning Thief",
+            "The Last Kingdom",
+            "Percy Jackson and the Battle of the Labyrinth",
+            "The Waste lands",
+            "Percy Jackson and the Sea of Monsters",
+            "Percy Jackson and the Last Olympian",
+            "Royal Assassin",
+            "The Trials of Death: Book 5",
+            "Mossflower",
+            "Redwall",
+            "Amulet Book 2: The Stonekeeper's Curse"
+        ],
+        "removed": [
+            "Red Seas Under Red Skies",
+            "Skulduggery Pleasant",
+            "Club Dead"
+        ],
+        "num_added": 14,
+        "num_removed": 3,
+        "tot_changes": 11
+    },
+    "science-fiction": {
+        "num_old": 82,
+        "num_new": 85,
+        "added": [
+            "The Waste lands",
+            "The Long Cosmos",
+            "Huphrey Hawksley And Simon Holberton",
+            "Royal Assassin"
+        ],
+        "removed": [
+            "Huphrey Hawksley And  Simon Holberton"
+        ],
+        "num_added": 4,
+        "num_removed": 1,
+        "tot_changes": 3
+    },
+    "mystery-thriller-and-suspense": {
+        "num_old": 423,
+        "num_new": 424,
+        "added": [
+            "Huphrey Hawksley And Simon Holberton",
+            "The Shape of Water",
+            "Blue Lightning"
+        ],
+        "removed": [
+            "Yellow face",
+            "Huphrey Hawksley And  Simon Holberton"
+        ],
+        "num_added": 3,
+        "num_removed": 2,
+        "tot_changes": 1
+    },
+    "historical-fiction": {
+        "num_old": 163,
+        "num_new": 162,
+        "added": [
+            "A Mother's Shame",
+            "The Last Kingdom"
+        ],
+        "removed": [
+            "A mother's Sham",
+            "Raj"
+        ],
+        "num_added": 2,
+        "num_removed": 2,
+        "tot_changes": -1
+    },
+    "contemporary": {
+        "num_old": 144,
+        "num_new": 142,
+        "added": [
+            "How to salsa in Sari"
+        ],
+        "removed": [
+            "Ghast in the Machine!",
+            "Yellow face",
+            "Life isn't all ha ha hee hee",
+            "How to salsa in  Sari"
+        ],
+        "num_added": 1,
+        "num_removed": 4,
+        "tot_changes": -2
+    },
+    "history": {
+        "num_old": 92,
+        "num_new": 94,
+        "added": [
+            "World War II Map by Map",
+            "Battles Map By Map"
+        ],
+        "removed": [],
+        "num_added": 2,
+        "num_removed": 0,
+        "tot_changes": 2
+    }
 }
 ]
